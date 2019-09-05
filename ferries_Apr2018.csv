@@ -1,0 +1,2653 @@
+route,source,destination,year,month,day,hour,minute,vessel_name,duration_minutes
+8,Horseshoe Bay,Bowen Island,2018,04,20,16,35,Queen of Capilano,23
+2,Departure Bay,Horseshoe Bay,2018,04,04,13,00,Queen of Oak Bay,106
+30,Duke Point,Tsawwassen,2018,04,05,22,45,Queen of Alberni,120
+8,Horseshoe Bay,Bowen Island,2018,04,17,15,30,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,28,13,05,Queen of Surrey,67
+30,Duke Point,Tsawwassen,2018,04,09,15,15,Queen of Coquitlam,123
+2,Departure Bay,Horseshoe Bay,2018,04,04,10,40,Queen of Cowichan,110
+8,Horseshoe Bay,Bowen Island,2018,04,17,18,50,Queen of Capilano,16
+8,Horseshoe Bay,Bowen Island,2018,04,21,05,50,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,02,16,00,Queen of New Westminster,88
+3,Horseshoe Bay,Langdale,2018,04,13,14,10,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,25,11,00,Skeena Queen,32
+1,Tsawwassen,Swartz Bay,2018,04,08,13,00,Spirit of Vancouver Island,88
+3,Langdale,Horseshoe Bay,2018,04,08,08,40,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,16,09,45,Queen of Surrey,39
+1,Tsawwassen,Swartz Bay,2018,04,17,21,00,Spirit of Vancouver Island,88
+3,Horseshoe Bay,Langdale,2018,04,20,17,30,Queen of Cowichan,45
+3,Horseshoe Bay,Langdale,2018,04,19,17,30,Queen of Cowichan,44
+30,Tsawwassen,Duke Point,2018,04,11,07,45,Queen of Coquitlam,113
+1,Swartz Bay,Tsawwassen,2018,04,25,11,00,Spirit of Vancouver Island,92
+1,Tsawwassen,Swartz Bay,2018,04,28,07,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,04,19,00,Skeena Queen,36
+1,Swartz Bay,Tsawwassen,2018,04,01,12,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,02,14,00,Coastal Renaissance,88
+3,Horseshoe Bay,Langdale,2018,04,08,11,55,Queen of Surrey,40
+2,Horseshoe Bay,Departure Bay,2018,04,02,08,25,Queen of Cowichan,105
+4,Swartz Bay,Fulford Harbour,2018,04,18,17,00,Skeena Queen,40
+2,Horseshoe Bay,Departure Bay,2018,04,06,06,15,Queen of Oak Bay,105
+4,Swartz Bay,Fulford Harbour,2018,04,10,17,00,Skeena Queen,29
+2,Horseshoe Bay,Departure Bay,2018,04,19,20,05,Queen of Oak Bay,105
+30,Duke Point,Tsawwassen,2018,04,22,17,45,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,25,09,00,Spirit of Vancouver Island,92
+1,Tsawwassen,Swartz Bay,2018,04,01,16,00,Queen of New Westminster,90
+8,Horseshoe Bay,Bowen Island,2018,04,05,21,00,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,08,21,00,Coastal Renaissance,84
+4,Swartz Bay,Fulford Harbour,2018,04,23,07,00,Skeena Queen,34
+30,Tsawwassen,Duke Point,2018,04,09,10,15,Queen of Alberni,118
+30,Duke Point,Tsawwassen,2018,04,13,22,45,Queen of Alberni,155
+2,Horseshoe Bay,Departure Bay,2018,04,10,22,10,Queen of Cowichan,108
+2,Horseshoe Bay,Departure Bay,2018,04,04,20,05,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,07,13,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,26,09,00,Skeena Queen,34
+4,Swartz Bay,Fulford Harbour,2018,04,27,11,00,Skeena Queen,38
+2,Departure Bay,Horseshoe Bay,2018,04,12,06,15,Queen of Cowichan,107
+30,Tsawwassen,Duke Point,2018,04,29,17,45,Queen of Coquitlam,153
+1,Swartz Bay,Tsawwassen,2018,04,06,15,00,Spirit of Vancouver Island,88
+4,Swartz Bay,Fulford Harbour,2018,04,07,09,00,Skeena Queen,28
+3,Langdale,Horseshoe Bay,2018,04,13,06,20,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,28,17,45,Queen of Alberni,122
+2,Departure Bay,Horseshoe Bay,2018,04,04,20,45,Queen of Surrey,107
+1,Swartz Bay,Tsawwassen,2018,04,07,15,00,Spirit of Vancouver Island,90
+3,Langdale,Horseshoe Bay,2018,04,21,17,25,Queen of Surrey,41
+1,Tsawwassen,Swartz Bay,2018,04,08,16,00,Queen of New Westminster,87
+2,Horseshoe Bay,Departure Bay,2018,04,02,10,40,Queen of Oak Bay,106
+3,Langdale,Horseshoe Bay,2018,04,27,18,40,Queen of Cowichan,46
+2,Horseshoe Bay,Departure Bay,2018,04,14,15,45,Queen of Oak Bay,107
+1,Tsawwassen,Swartz Bay,2018,04,03,19,00,Coastal Celebration,90
+1,Tsawwassen,Swartz Bay,2018,04,15,15,00,Coastal Renaissance,96
+3,Langdale,Horseshoe Bay,2018,04,07,15,15,Queen of Surrey,43
+1,Tsawwassen,Swartz Bay,2018,04,27,18,00,Coastal Inspiration,94
+30,Duke Point,Tsawwassen,2018,04,22,15,15,Queen of Coquitlam,129
+3,Horseshoe Bay,Langdale,2018,04,27,17,30,Queen of Cowichan,54
+4,Swartz Bay,Fulford Harbour,2018,04,09,19,00,Skeena Queen,32
+3,Horseshoe Bay,Langdale,2018,04,29,22,55,Queen of Surrey,71
+1,Swartz Bay,Tsawwassen,2018,04,02,22,00,Queen of New Westminster,82
+1,Swartz Bay,Tsawwassen,2018,04,20,13,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,05,18,50,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,26,12,35,Queen of Capilano,35
+30,Tsawwassen,Duke Point,2018,04,13,05,15,Queen of Alberni,148
+3,Langdale,Horseshoe Bay,2018,04,01,13,05,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,02,21,00,Coastal Celebration,88
+3,Horseshoe Bay,Langdale,2018,04,10,17,30,Queen of Cowichan,46
+8,Horseshoe Bay,Bowen Island,2018,04,28,21,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,12,15,30,Queen of Capilano,24
+2,Departure Bay,Horseshoe Bay,2018,04,04,22,10,Queen of Oak Bay,107
+30,Duke Point,Tsawwassen,2018,04,13,15,15,Queen of Coquitlam,131
+4,Swartz Bay,Fulford Harbour,2018,04,20,17,00,Skeena Queen,36
+1,Tsawwassen,Swartz Bay,2018,04,03,21,00,Spirit of Vancouver Island,89
+1,Swartz Bay,Tsawwassen,2018,04,10,17,00,Coastal Renaissance,102
+3,Langdale,Horseshoe Bay,2018,04,02,06,20,Queen of Surrey,42
+2,Departure Bay,Horseshoe Bay,2018,04,27,22,10,Queen of Oak Bay,126
+4,Swartz Bay,Fulford Harbour,2018,04,18,11,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,01,17,00,Spirit of Vancouver Island,96
+30,Duke Point,Tsawwassen,2018,04,17,17,45,Queen of Alberni,121
+3,Langdale,Horseshoe Bay,2018,04,25,10,50,Queen of Surrey,48
+1,Swartz Bay,Tsawwassen,2018,04,09,17,00,Coastal Renaissance,90
+3,Langdale,Horseshoe Bay,2018,04,07,13,05,Queen of Surrey,53
+30,Tsawwassen,Duke Point,2018,04,26,12,45,Queen of Coquitlam,123
+3,Horseshoe Bay,Langdale,2018,04,24,16,20,Queen of Surrey,40
+1,Tsawwassen,Swartz Bay,2018,04,13,11,00,Coastal Renaissance,96
+3,Langdale,Horseshoe Bay,2018,04,21,20,55,Queen of Cowichan,41
+4,Swartz Bay,Fulford Harbour,2018,04,03,15,00,Skeena Queen,30
+3,Horseshoe Bay,Langdale,2018,04,21,07,30,Queen of Surrey,40
+1,Swartz Bay,Tsawwassen,2018,04,16,21,00,Coastal Renaissance,88
+2,Horseshoe Bay,Departure Bay,2018,04,11,08,25,Queen of Cowichan,105
+3,Langdale,Horseshoe Bay,2018,04,11,15,15,Queen of Surrey,43
+2,Departure Bay,Horseshoe Bay,2018,04,08,10,40,Queen of Cowichan,106
+3,Horseshoe Bay,Langdale,2018,04,27,07,30,Queen of Surrey,41
+2,Departure Bay,Horseshoe Bay,2018,04,15,20,45,Queen of Surrey,129
+8,Horseshoe Bay,Bowen Island,2018,04,01,14,20,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,29,14,00,Coastal Inspiration,90
+8,Horseshoe Bay,Bowen Island,2018,04,30,09,05,Queen of Capilano,24
+30,Tsawwassen,Duke Point,2018,04,11,12,45,Queen of Coquitlam,109
+8,Horseshoe Bay,Bowen Island,2018,04,03,21,00,Queen of Capilano,24
+30,Duke Point,Tsawwassen,2018,04,06,20,15,Queen of Coquitlam,121
+2,Horseshoe Bay,Departure Bay,2018,04,11,18,35,Queen of Surrey,107
+2,Horseshoe Bay,Departure Bay,2018,04,12,15,45,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,22,09,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,02,13,00,Queen of Oak Bay,106
+3,Horseshoe Bay,Langdale,2018,04,28,22,55,Queen of Surrey,43
+2,Departure Bay,Horseshoe Bay,2018,04,13,13,00,Queen of Oak Bay,122
+8,Horseshoe Bay,Bowen Island,2018,04,08,15,30,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,02,22,00,Coastal Renaissance,82
+8,Horseshoe Bay,Bowen Island,2018,04,17,10,15,Queen of Capilano,19
+30,Tsawwassen,Duke Point,2018,04,17,10,15,Queen of Alberni,121
+30,Tsawwassen,Duke Point,2018,04,21,17,45,Queen of Coquitlam,113
+30,Duke Point,Tsawwassen,2018,04,19,12,45,Queen of Alberni,127
+3,Horseshoe Bay,Langdale,2018,04,18,17,30,Queen of Cowichan,44
+30,Tsawwassen,Duke Point,2018,04,27,12,45,Queen of Coquitlam,125
+3,Horseshoe Bay,Langdale,2018,04,13,22,55,Queen of Surrey,43
+2,Departure Bay,Horseshoe Bay,2018,04,06,10,40,Queen of Cowichan,108
+3,Langdale,Horseshoe Bay,2018,04,19,20,55,Queen of Cowichan,43
+1,Tsawwassen,Swartz Bay,2018,04,08,09,00,Spirit of Vancouver Island,88
+30,Tsawwassen,Duke Point,2018,04,09,05,15,Queen of Alberni,117
+30,Duke Point,Tsawwassen,2018,04,08,22,45,Queen of Alberni,120
+8,Horseshoe Bay,Bowen Island,2018,04,18,06,50,Queen of Capilano,20
+2,Horseshoe Bay,Departure Bay,2018,04,27,10,40,Queen of Oak Bay,104
+30,Duke Point,Tsawwassen,2018,04,26,12,45,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,15,08,00,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,07,15,15,Queen of Coquitlam,129
+8,Horseshoe Bay,Bowen Island,2018,04,24,16,35,Queen of Capilano,25
+8,Horseshoe Bay,Bowen Island,2018,04,26,18,50,Queen of Capilano,22
+8,Horseshoe Bay,Bowen Island,2018,04,29,22,00,Queen of Capilano,22
+30,Tsawwassen,Duke Point,2018,04,20,15,15,Queen of Alberni,129
+3,Horseshoe Bay,Langdale,2018,04,29,16,20,Queen of Surrey,58
+3,Langdale,Horseshoe Bay,2018,04,09,15,15,Queen of Surrey,41
+1,Swartz Bay,Tsawwassen,2018,04,25,15,00,Spirit of Vancouver Island,96
+30,Tsawwassen,Duke Point,2018,04,05,22,45,Queen of Coquitlam,124
+4,Swartz Bay,Fulford Harbour,2018,04,23,09,00,Skeena Queen,28
+2,Departure Bay,Horseshoe Bay,2018,04,27,15,20,Queen of Cowichan,110
+1,Tsawwassen,Swartz Bay,2018,04,13,13,00,Spirit of Vancouver Island,96
+1,Tsawwassen,Swartz Bay,2018,04,05,14,00,Coastal Inspiration,90
+30,Tsawwassen,Duke Point,2018,04,23,10,15,Queen of New Westminster,137
+30,Tsawwassen,Duke Point,2018,04,19,10,15,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,28,09,05,Queen of Capilano,19
+1,Tsawwassen,Swartz Bay,2018,04,20,09,00,Spirit of Vancouver Island,90
+1,Tsawwassen,Swartz Bay,2018,04,18,17,00,Spirit of Vancouver Island,106
+30,Duke Point,Tsawwassen,2018,04,26,10,15,Queen of Coquitlam,123
+30,Tsawwassen,Duke Point,2018,04,12,17,45,Queen of Coquitlam,114
+8,Horseshoe Bay,Bowen Island,2018,04,04,14,20,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,17,07,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,30,05,50,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,03,15,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,11,09,45,Queen of Surrey,40
+2,Departure Bay,Horseshoe Bay,2018,04,03,15,20,Queen of Cowichan,104
+3,Langdale,Horseshoe Bay,2018,04,06,17,25,Queen of Surrey,55
+3,Horseshoe Bay,Langdale,2018,04,29,17,30,Queen of Cowichan,44
+2,Horseshoe Bay,Departure Bay,2018,04,30,06,15,Queen of Oak Bay,103
+8,Horseshoe Bay,Bowen Island,2018,04,06,10,15,Queen of Capilano,19
+3,Langdale,Horseshoe Bay,2018,04,29,15,15,Queen of Surrey,51
+4,Swartz Bay,Fulford Harbour,2018,04,07,19,00,Skeena Queen,32
+1,Swartz Bay,Tsawwassen,2018,04,15,12,00,Coastal Inspiration,90
+1,Tsawwassen,Swartz Bay,2018,04,02,20,00,Queen of New Westminster,86
+30,Tsawwassen,Duke Point,2018,04,19,20,15,Queen of Alberni,163
+1,Tsawwassen,Swartz Bay,2018,04,12,18,00,Coastal Inspiration,86
+8,Horseshoe Bay,Bowen Island,2018,04,23,05,50,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,05,12,00,Coastal Inspiration,92
+1,Swartz Bay,Tsawwassen,2018,04,06,13,00,Coastal Renaissance,88
+3,Langdale,Horseshoe Bay,2018,04,18,15,15,Queen of Surrey,41
+30,Tsawwassen,Duke Point,2018,04,27,20,45,Queen of New Westminster,131
+3,Horseshoe Bay,Langdale,2018,04,13,16,20,Queen of Surrey,45
+2,Horseshoe Bay,Departure Bay,2018,04,11,22,10,Queen of Cowichan,107
+1,Tsawwassen,Swartz Bay,2018,04,12,19,00,Coastal Renaissance,92
+2,Departure Bay,Horseshoe Bay,2018,04,15,22,10,Queen of Oak Bay,106
+3,Langdale,Horseshoe Bay,2018,04,26,08,40,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,23,21,00,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,11,07,45,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,07,15,30,Queen of Capilano,17
+30,Tsawwassen,Duke Point,2018,04,17,13,30,Coastal Inspiration,118
+8,Horseshoe Bay,Bowen Island,2018,04,25,22,00,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,17,12,35,Queen of Capilano,17
+3,Langdale,Horseshoe Bay,2018,04,30,06,20,Queen of Surrey,42
+2,Horseshoe Bay,Departure Bay,2018,04,27,13,00,Queen of Cowichan,107
+3,Langdale,Horseshoe Bay,2018,04,14,15,15,Queen of Surrey,43
+3,Horseshoe Bay,Langdale,2018,04,25,14,10,Queen of Surrey,49
+3,Langdale,Horseshoe Bay,2018,04,24,06,20,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,26,12,00,Coastal Inspiration,90
+2,Departure Bay,Horseshoe Bay,2018,04,26,22,10,Queen of Oak Bay,108
+1,Tsawwassen,Swartz Bay,2018,04,23,19,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,01,10,40,Queen of Cowichan,105
+4,Swartz Bay,Fulford Harbour,2018,04,27,15,00,Skeena Queen,36
+1,Tsawwassen,Swartz Bay,2018,04,21,17,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,28,17,30,Queen of Cowichan,40
+2,Horseshoe Bay,Departure Bay,2018,04,18,13,00,Queen of Cowichan,100
+4,Swartz Bay,Fulford Harbour,2018,04,20,13,00,Skeena Queen,40
+2,Departure Bay,Horseshoe Bay,2018,04,08,06,15,Queen of Cowichan,105
+8,Horseshoe Bay,Bowen Island,2018,04,14,21,00,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,15,20,55,Queen of Cowichan,45
+3,Langdale,Horseshoe Bay,2018,04,06,13,05,Queen of Surrey,43
+2,Horseshoe Bay,Departure Bay,2018,04,13,13,00,Queen of Cowichan,112
+1,Tsawwassen,Swartz Bay,2018,04,19,08,00,Queen of New Westminster,86
+1,Tsawwassen,Swartz Bay,2018,04,30,08,00,Queen of New Westminster,89
+8,Horseshoe Bay,Bowen Island,2018,04,11,20,00,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,19,19,50,Queen of Cowichan,42
+30,Tsawwassen,Duke Point,2018,04,09,17,45,Queen of Coquitlam,119
+3,Langdale,Horseshoe Bay,2018,04,10,06,20,Queen of Surrey,40
+2,Horseshoe Bay,Departure Bay,2018,04,17,13,00,Queen of Cowichan,100
+2,Horseshoe Bay,Departure Bay,2018,04,24,13,00,Queen of Cowichan,106
+1,Tsawwassen,Swartz Bay,2018,04,23,17,00,Spirit of Vancouver Island,90
+30,Tsawwassen,Duke Point,2018,04,17,05,15,Queen of Alberni,121
+2,Horseshoe Bay,Departure Bay,2018,04,19,08,25,Queen of Cowichan,101
+1,Tsawwassen,Swartz Bay,2018,04,13,12,00,Queen of New Westminster,96
+8,Horseshoe Bay,Bowen Island,2018,04,24,12,35,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,05,18,00,Coastal Inspiration,90
+30,Tsawwassen,Duke Point,2018,04,02,10,15,Queen of Alberni,119
+3,Horseshoe Bay,Langdale,2018,04,01,11,55,Queen of Surrey,40
+30,Tsawwassen,Duke Point,2018,04,23,22,45,Queen of Coquitlam,120
+1,Tsawwassen,Swartz Bay,2018,04,21,15,00,Coastal Renaissance,90
+3,Langdale,Horseshoe Bay,2018,04,10,15,15,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,22,16,00,Coastal Inspiration,92
+3,Horseshoe Bay,Langdale,2018,04,19,09,45,Queen of Surrey,49
+8,Horseshoe Bay,Bowen Island,2018,04,01,09,05,Queen of Capilano,19
+1,Tsawwassen,Swartz Bay,2018,04,07,21,00,Spirit of Vancouver Island,98
+1,Swartz Bay,Tsawwassen,2018,04,22,19,00,Spirit of Vancouver Island,88
+8,Horseshoe Bay,Bowen Island,2018,04,27,11,25,Queen of Capilano,19
+30,Duke Point,Tsawwassen,2018,04,14,12,45,Queen of Alberni,119
+2,Horseshoe Bay,Departure Bay,2018,04,21,08,25,Queen of Cowichan,103
+30,Tsawwassen,Duke Point,2018,04,06,20,15,Queen of Alberni,123
+3,Horseshoe Bay,Langdale,2018,04,03,17,30,Queen of Cowichan,48
+1,Swartz Bay,Tsawwassen,2018,04,15,14,00,Queen of New Westminster,86
+3,Horseshoe Bay,Langdale,2018,04,29,19,50,Queen of Cowichan,42
+30,Tsawwassen,Duke Point,2018,04,28,17,45,Queen of Coquitlam,124
+3,Langdale,Horseshoe Bay,2018,04,23,13,05,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,21,17,00,Coastal Renaissance,86
+2,Horseshoe Bay,Departure Bay,2018,04,30,08,25,Queen of Cowichan,107
+3,Langdale,Horseshoe Bay,2018,04,10,13,05,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,28,13,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,11,17,45,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,10,16,35,Queen of Capilano,17
+3,Horseshoe Bay,Langdale,2018,04,25,22,55,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,25,09,05,Queen of Capilano,35
+3,Horseshoe Bay,Langdale,2018,04,07,19,50,Queen of Cowichan,40
+3,Langdale,Horseshoe Bay,2018,04,29,18,40,Queen of Cowichan,44
+1,Tsawwassen,Swartz Bay,2018,04,28,19,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,07,15,00,Coastal Renaissance,92
+2,Horseshoe Bay,Departure Bay,2018,04,26,18,35,Queen of Surrey,135
+3,Langdale,Horseshoe Bay,2018,04,29,10,50,Queen of Surrey,42
+1,Tsawwassen,Swartz Bay,2018,04,20,08,00,Queen of New Westminster,88
+2,Horseshoe Bay,Departure Bay,2018,04,26,22,10,Queen of Cowichan,105
+1,Tsawwassen,Swartz Bay,2018,04,01,19,00,Coastal Celebration,98
+1,Swartz Bay,Tsawwassen,2018,04,19,10,00,Queen of New Westminster,86
+30,Duke Point,Tsawwassen,2018,04,25,05,15,Queen of Coquitlam,117
+30,Tsawwassen,Duke Point,2018,04,30,15,15,Queen of Alberni,117
+3,Horseshoe Bay,Langdale,2018,04,22,16,20,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,19,07,30,Queen of Surrey,40
+4,Swartz Bay,Fulford Harbour,2018,04,26,15,00,Skeena Queen,30
+2,Departure Bay,Horseshoe Bay,2018,04,21,13,00,Queen of Oak Bay,106
+1,Tsawwassen,Swartz Bay,2018,04,22,19,00,Coastal Renaissance,92
+2,Departure Bay,Horseshoe Bay,2018,04,21,22,10,Queen of Oak Bay,106
+1,Swartz Bay,Tsawwassen,2018,04,14,13,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,05,22,10,Queen of Oak Bay,107
+1,Swartz Bay,Tsawwassen,2018,04,26,14,00,Queen of New Westminster,88
+2,Departure Bay,Horseshoe Bay,2018,04,30,13,00,Queen of Oak Bay,106
+1,Tsawwassen,Swartz Bay,2018,04,23,13,00,Spirit of Vancouver Island,92
+3,Langdale,Horseshoe Bay,2018,04,19,13,05,Queen of Surrey,51
+3,Langdale,Horseshoe Bay,2018,04,09,18,40,Queen of Cowichan,42
+30,Duke Point,Tsawwassen,2018,04,29,12,45,Queen of Alberni,115
+8,Horseshoe Bay,Bowen Island,2018,04,15,14,20,Queen of Capilano,16
+30,Duke Point,Tsawwassen,2018,04,05,07,45,Queen of Alberni,117
+8,Horseshoe Bay,Bowen Island,2018,04,09,10,15,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,13,21,00,Coastal Renaissance,86
+2,Horseshoe Bay,Departure Bay,2018,04,12,22,10,Queen of Cowichan,106
+4,Swartz Bay,Fulford Harbour,2018,04,27,18,00,Quinitsa,52
+1,Tsawwassen,Swartz Bay,2018,04,28,15,00,Coastal Renaissance,94
+2,Departure Bay,Horseshoe Bay,2018,04,22,13,00,Queen of Oak Bay,106
+3,Horseshoe Bay,Langdale,2018,04,05,14,10,Queen of Surrey,42
+30,Tsawwassen,Duke Point,2018,04,10,20,15,Queen of Alberni,123
+8,Horseshoe Bay,Bowen Island,2018,04,07,21,00,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,27,15,00,Spirit of Vancouver Island,106
+30,Duke Point,Tsawwassen,2018,04,20,15,15,Queen of Coquitlam,141
+1,Swartz Bay,Tsawwassen,2018,04,01,21,00,Coastal Celebration,94
+30,Duke Point,Tsawwassen,2018,04,12,20,15,Queen of Coquitlam,125
+1,Swartz Bay,Tsawwassen,2018,04,03,13,00,Coastal Celebration,90
+1,Tsawwassen,Swartz Bay,2018,04,30,11,00,Coastal Renaissance,88
+2,Horseshoe Bay,Departure Bay,2018,04,01,20,05,Queen of Oak Bay,103
+1,Tsawwassen,Swartz Bay,2018,04,14,21,00,Spirit of Vancouver Island,88
+30,Duke Point,Tsawwassen,2018,04,22,22,45,Queen of Alberni,120
+2,Horseshoe Bay,Departure Bay,2018,04,10,20,05,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,20,11,55,Queen of Surrey,54
+30,Duke Point,Tsawwassen,2018,04,30,22,45,Queen of Alberni,122
+4,Swartz Bay,Fulford Harbour,2018,04,22,21,00,Skeena Queen,36
+3,Horseshoe Bay,Langdale,2018,04,04,14,10,Queen of Surrey,44
+8,Horseshoe Bay,Bowen Island,2018,04,11,15,30,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,18,21,00,Spirit of Vancouver Island,95
+4,Swartz Bay,Fulford Harbour,2018,04,27,13,00,Skeena Queen,40
+3,Langdale,Horseshoe Bay,2018,04,28,08,40,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,23,11,00,Skeena Queen,29
+2,Departure Bay,Horseshoe Bay,2018,04,07,15,20,Queen of Cowichan,102
+30,Tsawwassen,Duke Point,2018,04,21,15,15,Queen of Alberni,121
+2,Horseshoe Bay,Departure Bay,2018,04,22,22,10,Queen of Cowichan,116
+1,Swartz Bay,Tsawwassen,2018,04,30,08,00,Coastal Inspiration,91
+1,Swartz Bay,Tsawwassen,2018,04,30,10,00,Queen of New Westminster,90
+1,Tsawwassen,Swartz Bay,2018,04,07,17,00,Spirit of Vancouver Island,102
+1,Tsawwassen,Swartz Bay,2018,04,02,18,00,Coastal Renaissance,90
+30,Duke Point,Tsawwassen,2018,04,29,22,45,Queen of Alberni,120
+30,Tsawwassen,Duke Point,2018,04,14,15,15,Queen of Alberni,123
+30,Tsawwassen,Duke Point,2018,04,19,17,45,Queen of Coquitlam,129
+30,Duke Point,Tsawwassen,2018,04,01,20,15,Coastal Inspiration,119
+1,Swartz Bay,Tsawwassen,2018,04,27,13,00,Coastal Renaissance,86
+2,Departure Bay,Horseshoe Bay,2018,04,01,22,10,Queen of Oak Bay,108
+1,Swartz Bay,Tsawwassen,2018,04,16,11,00,Spirit of Vancouver Island,92
+1,Tsawwassen,Swartz Bay,2018,04,04,15,00,Coastal Renaissance,94
+30,Tsawwassen,Duke Point,2018,04,22,22,45,Queen of Coquitlam,128
+3,Langdale,Horseshoe Bay,2018,04,30,08,40,Queen of Surrey,42
+30,Tsawwassen,Duke Point,2018,04,11,13,30,Coastal Inspiration,122
+1,Swartz Bay,Tsawwassen,2018,04,29,13,00,Coastal Renaissance,90
+2,Horseshoe Bay,Departure Bay,2018,04,17,06,15,Queen of Oak Bay,107
+30,Duke Point,Tsawwassen,2018,04,03,17,45,Queen of Alberni,121
+2,Horseshoe Bay,Departure Bay,2018,04,11,20,05,Queen of Oak Bay,105
+30,Tsawwassen,Duke Point,2018,04,25,10,15,Queen of New Westminster,127
+2,Horseshoe Bay,Departure Bay,2018,04,14,06,15,Queen of Oak Bay,105
+30,Duke Point,Tsawwassen,2018,04,05,18,45,Queen of New Westminster,118
+1,Tsawwassen,Swartz Bay,2018,04,16,19,00,Coastal Renaissance,92
+4,Swartz Bay,Fulford Harbour,2018,04,27,17,00,Skeena Queen,34
+30,Duke Point,Tsawwassen,2018,04,09,17,45,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,08,14,20,Queen of Capilano,17
+30,Tsawwassen,Duke Point,2018,04,16,15,15,Queen of Alberni,129
+1,Swartz Bay,Tsawwassen,2018,04,17,15,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,12,15,20,Queen of Cowichan,106
+8,Horseshoe Bay,Bowen Island,2018,04,21,09,05,Queen of Capilano,23
+4,Swartz Bay,Fulford Harbour,2018,04,05,13,00,Skeena Queen,28
+2,Horseshoe Bay,Departure Bay,2018,04,14,18,35,Queen of Surrey,105
+1,Swartz Bay,Tsawwassen,2018,04,18,11,00,Spirit of Vancouver Island,90
+30,Duke Point,Tsawwassen,2018,04,07,12,45,Queen of Alberni,119
+30,Duke Point,Tsawwassen,2018,04,03,05,15,Coastal Inspiration,123
+2,Departure Bay,Horseshoe Bay,2018,04,21,06,15,Queen of Cowichan,99
+2,Horseshoe Bay,Departure Bay,2018,04,08,10,40,Queen of Oak Bay,104
+3,Langdale,Horseshoe Bay,2018,04,06,18,40,Queen of Cowichan,44
+8,Horseshoe Bay,Bowen Island,2018,04,03,18,50,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,21,07,45,Queen of Alberni,121
+1,Swartz Bay,Tsawwassen,2018,04,15,16,00,Coastal Inspiration,92
+30,Duke Point,Tsawwassen,2018,04,23,17,45,Queen of New Westminster,145
+8,Horseshoe Bay,Bowen Island,2018,04,23,12,35,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,10,15,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,20,11,00,Skeena Queen,34
+3,Langdale,Horseshoe Bay,2018,04,10,18,40,Queen of Cowichan,40
+3,Langdale,Horseshoe Bay,2018,04,08,13,05,Queen of Surrey,39
+1,Tsawwassen,Swartz Bay,2018,04,19,12,00,Queen of New Westminster,90
+1,Swartz Bay,Tsawwassen,2018,04,21,09,00,Coastal Renaissance,88
+1,Swartz Bay,Tsawwassen,2018,04,27,14,00,Queen of New Westminster,110
+8,Horseshoe Bay,Bowen Island,2018,04,15,05,50,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,01,17,45,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,27,19,00,Spirit of Vancouver Island,100
+8,Horseshoe Bay,Bowen Island,2018,04,28,08,00,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,15,14,00,Coastal Inspiration,92
+1,Tsawwassen,Swartz Bay,2018,04,19,11,00,Coastal Renaissance,88
+1,Tsawwassen,Swartz Bay,2018,04,15,12,00,Queen of New Westminster,86
+1,Swartz Bay,Tsawwassen,2018,04,13,12,00,Coastal Inspiration,92
+8,Horseshoe Bay,Bowen Island,2018,04,17,21,00,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,05,21,00,Coastal Renaissance,86
+2,Horseshoe Bay,Departure Bay,2018,04,30,15,45,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,29,09,45,Queen of Surrey,38
+8,Horseshoe Bay,Bowen Island,2018,04,10,08,00,Queen of Capilano,22
+2,Horseshoe Bay,Departure Bay,2018,04,26,13,00,Queen of Cowichan,104
+1,Swartz Bay,Tsawwassen,2018,04,13,11,00,Spirit of Vancouver Island,92
+1,Swartz Bay,Tsawwassen,2018,04,26,11,00,Spirit of Vancouver Island,92
+1,Swartz Bay,Tsawwassen,2018,04,03,08,00,Coastal Renaissance,92
+1,Swartz Bay,Tsawwassen,2018,04,11,21,00,Coastal Renaissance,84
+8,Horseshoe Bay,Bowen Island,2018,04,14,09,05,Queen of Capilano,21
+8,Horseshoe Bay,Bowen Island,2018,04,19,06,50,Queen of Capilano,20
+3,Langdale,Horseshoe Bay,2018,04,21,18,40,Queen of Cowichan,38
+1,Tsawwassen,Swartz Bay,2018,04,16,11,00,Coastal Renaissance,92
+1,Swartz Bay,Tsawwassen,2018,04,29,19,00,Spirit of Vancouver Island,94
+8,Horseshoe Bay,Bowen Island,2018,04,26,11,25,Queen of Capilano,33
+30,Tsawwassen,Duke Point,2018,04,18,15,15,Queen of Alberni,123
+8,Horseshoe Bay,Bowen Island,2018,04,20,11,25,Queen of Capilano,19
+1,Tsawwassen,Swartz Bay,2018,04,13,17,00,Spirit of Vancouver Island,92
+30,Tsawwassen,Duke Point,2018,04,07,10,15,Queen of Alberni,115
+30,Duke Point,Tsawwassen,2018,04,16,07,45,Queen of Alberni,127
+3,Horseshoe Bay,Langdale,2018,04,06,14,10,Queen of Surrey,48
+4,Swartz Bay,Fulford Harbour,2018,04,15,19,00,Skeena Queen,28
+1,Tsawwassen,Swartz Bay,2018,04,13,07,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,22,10,15,Queen of Capilano,17
+4,Swartz Bay,Fulford Harbour,2018,04,18,07,00,Skeena Queen,30
+3,Langdale,Horseshoe Bay,2018,04,28,18,40,Queen of Cowichan,40
+30,Duke Point,Tsawwassen,2018,04,02,22,45,Queen of Alberni,120
+8,Horseshoe Bay,Bowen Island,2018,04,18,15,30,Queen of Capilano,28
+8,Horseshoe Bay,Bowen Island,2018,04,04,17,45,Queen of Capilano,23
+8,Horseshoe Bay,Bowen Island,2018,04,01,18,50,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,05,13,00,Spirit of Vancouver Island,96
+8,Horseshoe Bay,Bowen Island,2018,04,15,17,45,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,30,10,15,Queen of Capilano,23
+1,Swartz Bay,Tsawwassen,2018,04,02,17,00,Coastal Celebration,88
+4,Swartz Bay,Fulford Harbour,2018,04,08,11,00,Skeena Queen,32
+2,Departure Bay,Horseshoe Bay,2018,04,14,13,00,Queen of Oak Bay,104
+8,Horseshoe Bay,Bowen Island,2018,04,25,12,35,Queen of Capilano,29
+3,Horseshoe Bay,Langdale,2018,04,21,22,55,Queen of Surrey,43
+30,Duke Point,Tsawwassen,2018,04,17,05,15,Queen of Coquitlam,123
+30,Duke Point,Tsawwassen,2018,04,14,10,15,Queen of Coquitlam,115
+8,Horseshoe Bay,Bowen Island,2018,04,20,18,50,Queen of Capilano,32
+3,Horseshoe Bay,Langdale,2018,04,04,22,55,Queen of Surrey,43
+30,Duke Point,Tsawwassen,2018,04,18,05,15,Queen of Coquitlam,129
+1,Swartz Bay,Tsawwassen,2018,04,02,08,00,Coastal Renaissance,90
+2,Horseshoe Bay,Departure Bay,2018,04,04,18,35,Queen of Surrey,109
+1,Tsawwassen,Swartz Bay,2018,04,23,10,00,Coastal Inspiration,90
+4,Swartz Bay,Fulford Harbour,2018,04,26,21,45,Skeena Queen,41
+2,Departure Bay,Horseshoe Bay,2018,04,20,06,15,Queen of Cowichan,103
+3,Langdale,Horseshoe Bay,2018,04,30,20,55,Queen of Cowichan,37
+2,Horseshoe Bay,Departure Bay,2018,04,20,18,35,Queen of Surrey,125
+1,Swartz Bay,Tsawwassen,2018,04,13,19,00,Spirit of Vancouver Island,92
+30,Tsawwassen,Duke Point,2018,04,30,10,15,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,06,11,25,Queen of Capilano,17
+3,Horseshoe Bay,Langdale,2018,04,10,09,45,Queen of Surrey,39
+3,Langdale,Horseshoe Bay,2018,04,02,19,40,Queen of Coquitlam,42
+1,Swartz Bay,Tsawwassen,2018,04,22,08,00,Coastal Inspiration,90
+4,Swartz Bay,Fulford Harbour,2018,04,12,19,00,Skeena Queen,30
+1,Swartz Bay,Tsawwassen,2018,04,17,11,30,Coastal Inspiration,92
+30,Duke Point,Tsawwassen,2018,04,12,10,15,Queen of Coquitlam,111
+8,Horseshoe Bay,Bowen Island,2018,04,02,17,45,Queen of Capilano,19
+3,Horseshoe Bay,Langdale,2018,04,26,11,55,Queen of Surrey,52
+3,Horseshoe Bay,Langdale,2018,04,16,19,50,Queen of Cowichan,46
+2,Horseshoe Bay,Departure Bay,2018,04,23,22,10,Queen of Cowichan,105
+3,Horseshoe Bay,Langdale,2018,04,16,22,55,Queen of Surrey,43
+2,Horseshoe Bay,Departure Bay,2018,04,06,13,00,Queen of Cowichan,102
+30,Duke Point,Tsawwassen,2018,04,19,17,45,Queen of Alberni,171
+2,Horseshoe Bay,Departure Bay,2018,04,04,06,15,Queen of Oak Bay,105
+30,Duke Point,Tsawwassen,2018,04,11,12,45,Queen of Alberni,121
+3,Horseshoe Bay,Langdale,2018,04,17,22,55,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,29,14,00,Queen of New Westminster,90
+2,Departure Bay,Horseshoe Bay,2018,04,30,20,45,Queen of Surrey,127
+4,Swartz Bay,Fulford Harbour,2018,04,09,09,00,Skeena Queen,30
+2,Departure Bay,Horseshoe Bay,2018,04,27,06,15,Queen of Cowichan,107
+4,Swartz Bay,Fulford Harbour,2018,04,19,17,00,Skeena Queen,34
+30,Duke Point,Tsawwassen,2018,04,22,10,15,Queen of Coquitlam,123
+30,Tsawwassen,Duke Point,2018,04,19,22,45,Queen of Coquitlam,122
+8,Horseshoe Bay,Bowen Island,2018,04,03,20,00,Queen of Capilano,24
+1,Tsawwassen,Swartz Bay,2018,04,18,09,00,Spirit of Vancouver Island,92
+1,Swartz Bay,Tsawwassen,2018,04,21,13,00,Coastal Renaissance,86
+1,Swartz Bay,Tsawwassen,2018,04,10,11,30,Coastal Inspiration,92
+1,Tsawwassen,Swartz Bay,2018,04,17,17,00,Spirit of Vancouver Island,94
+8,Horseshoe Bay,Bowen Island,2018,04,12,21,00,Queen of Capilano,18
+2,Departure Bay,Horseshoe Bay,2018,04,14,10,40,Queen of Cowichan,104
+8,Horseshoe Bay,Bowen Island,2018,04,25,06,50,Queen of Capilano,28
+1,Swartz Bay,Tsawwassen,2018,04,21,12,00,Coastal Inspiration,96
+8,Horseshoe Bay,Bowen Island,2018,04,30,11,25,Queen of Capilano,16
+3,Langdale,Horseshoe Bay,2018,04,22,15,15,Queen of Surrey,45
+1,Swartz Bay,Tsawwassen,2018,04,26,10,00,Queen of New Westminster,86
+3,Horseshoe Bay,Langdale,2018,04,27,14,10,Queen of Surrey,60
+4,Swartz Bay,Fulford Harbour,2018,04,02,11,00,Skeena Queen,34
+30,Duke Point,Tsawwassen,2018,04,20,20,15,Queen of Coquitlam,149
+30,Duke Point,Tsawwassen,2018,04,01,22,45,Queen of Alberni,120
+8,Horseshoe Bay,Bowen Island,2018,04,08,17,45,Queen of Capilano,19
+2,Horseshoe Bay,Departure Bay,2018,04,10,18,35,Queen of Surrey,107
+3,Langdale,Horseshoe Bay,2018,04,27,06,20,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,05,06,50,Queen of Capilano,22
+1,Swartz Bay,Tsawwassen,2018,04,19,19,00,Spirit of Vancouver Island,102
+2,Departure Bay,Horseshoe Bay,2018,04,05,17,55,Queen of Oak Bay,113
+30,Duke Point,Tsawwassen,2018,04,25,07,45,Queen of New Westminster,123
+3,Langdale,Horseshoe Bay,2018,04,13,08,40,Queen of Surrey,40
+8,Horseshoe Bay,Bowen Island,2018,04,25,10,15,Queen of Capilano,37
+4,Swartz Bay,Fulford Harbour,2018,04,10,19,00,Skeena Queen,26
+3,Langdale,Horseshoe Bay,2018,04,07,10,50,Queen of Surrey,56
+1,Tsawwassen,Swartz Bay,2018,04,17,09,00,Spirit of Vancouver Island,90
+1,Swartz Bay,Tsawwassen,2018,04,01,18,00,Queen of New Westminster,86
+1,Tsawwassen,Swartz Bay,2018,04,13,09,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,15,19,00,Coastal Renaissance,88
+1,Tsawwassen,Swartz Bay,2018,04,10,19,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,16,18,50,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,12,16,00,Coastal Inspiration,94
+1,Swartz Bay,Tsawwassen,2018,04,01,10,00,Queen of New Westminster,90
+3,Langdale,Horseshoe Bay,2018,04,03,18,40,Queen of Cowichan,42
+2,Horseshoe Bay,Departure Bay,2018,04,22,18,35,Queen of Surrey,105
+4,Swartz Bay,Fulford Harbour,2018,04,01,17,00,Skeena Queen,42
+30,Duke Point,Tsawwassen,2018,04,30,10,15,Queen of Coquitlam,119
+1,Swartz Bay,Tsawwassen,2018,04,07,21,00,Coastal Renaissance,92
+30,Duke Point,Tsawwassen,2018,04,21,10,15,Queen of Coquitlam,123
+1,Swartz Bay,Tsawwassen,2018,04,15,13,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,28,12,35,Queen of Capilano,39
+3,Langdale,Horseshoe Bay,2018,04,25,18,40,Queen of Cowichan,44
+2,Departure Bay,Horseshoe Bay,2018,04,09,06,15,Queen of Cowichan,107
+8,Horseshoe Bay,Bowen Island,2018,04,22,17,45,Queen of Capilano,17
+4,Swartz Bay,Fulford Harbour,2018,04,08,19,00,Skeena Queen,28
+4,Swartz Bay,Fulford Harbour,2018,04,28,17,00,Skeena Queen,34
+30,Tsawwassen,Duke Point,2018,04,20,20,45,Queen of New Westminster,131
+30,Duke Point,Tsawwassen,2018,04,24,20,15,Queen of Coquitlam,117
+1,Swartz Bay,Tsawwassen,2018,04,08,09,00,Coastal Renaissance,88
+3,Langdale,Horseshoe Bay,2018,04,17,13,05,Queen of Surrey,41
+2,Horseshoe Bay,Departure Bay,2018,04,16,08,25,Queen of Cowichan,111
+30,Duke Point,Tsawwassen,2018,04,25,20,15,Queen of Coquitlam,119
+3,Langdale,Horseshoe Bay,2018,04,19,08,40,Queen of Surrey,42
+30,Tsawwassen,Duke Point,2018,04,28,05,15,Queen of Alberni,119
+3,Horseshoe Bay,Langdale,2018,04,12,11,55,Queen of Surrey,41
+3,Langdale,Horseshoe Bay,2018,04,18,08,40,Queen of Surrey,38
+3,Langdale,Horseshoe Bay,2018,04,17,17,25,Queen of Surrey,41
+8,Horseshoe Bay,Bowen Island,2018,04,11,21,00,Queen of Capilano,17
+30,Tsawwassen,Duke Point,2018,04,19,15,15,Queen of Alberni,133
+30,Duke Point,Tsawwassen,2018,04,23,05,15,Queen of Coquitlam,125
+8,Horseshoe Bay,Bowen Island,2018,04,01,10,15,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,21,19,00,Spirit of Vancouver Island,90
+8,Horseshoe Bay,Bowen Island,2018,04,21,14,20,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,17,07,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,06,08,00,Queen of Capilano,22
+4,Swartz Bay,Fulford Harbour,2018,04,02,09,00,Skeena Queen,30
+4,Swartz Bay,Fulford Harbour,2018,04,06,13,00,Skeena Queen,28
+2,Horseshoe Bay,Departure Bay,2018,04,25,18,35,Queen of Surrey,111
+8,Horseshoe Bay,Bowen Island,2018,04,21,21,00,Queen of Capilano,17
+1,Swartz Bay,Tsawwassen,2018,04,07,19,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,20,19,00,Coastal Renaissance,92
+4,Swartz Bay,Fulford Harbour,2018,04,23,13,00,Skeena Queen,34
+30,Duke Point,Tsawwassen,2018,04,19,22,45,Queen of Alberni,160
+4,Swartz Bay,Fulford Harbour,2018,04,15,11,00,Skeena Queen,32
+30,Duke Point,Tsawwassen,2018,04,02,12,45,Queen of Alberni,117
+8,Horseshoe Bay,Bowen Island,2018,04,09,15,30,Queen of Capilano,20
+4,Swartz Bay,Fulford Harbour,2018,04,07,07,00,Skeena Queen,28
+1,Swartz Bay,Tsawwassen,2018,04,22,21,00,Coastal Renaissance,86
+8,Horseshoe Bay,Bowen Island,2018,04,17,20,00,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,07,12,45,Queen of Coquitlam,115
+4,Swartz Bay,Fulford Harbour,2018,04,06,15,00,Skeena Queen,32
+8,Horseshoe Bay,Bowen Island,2018,04,23,22,00,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,02,07,30,Queen of Surrey,41
+8,Horseshoe Bay,Bowen Island,2018,04,11,05,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,13,06,15,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,30,09,45,Queen of Surrey,42
+2,Horseshoe Bay,Departure Bay,2018,04,11,06,15,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,17,15,20,Queen of Cowichan,108
+1,Swartz Bay,Tsawwassen,2018,04,29,12,00,Coastal Inspiration,98
+1,Swartz Bay,Tsawwassen,2018,04,01,11,00,Spirit of Vancouver Island,94
+1,Swartz Bay,Tsawwassen,2018,04,23,19,00,Spirit of Vancouver Island,88
+3,Horseshoe Bay,Langdale,2018,04,09,19,50,Queen of Cowichan,46
+2,Departure Bay,Horseshoe Bay,2018,04,05,06,15,Queen of Cowichan,107
+3,Horseshoe Bay,Langdale,2018,04,11,14,10,Queen of Surrey,44
+2,Horseshoe Bay,Departure Bay,2018,04,07,13,00,Queen of Cowichan,104
+3,Horseshoe Bay,Langdale,2018,04,17,16,20,Queen of Surrey,40
+3,Langdale,Horseshoe Bay,2018,04,16,20,55,Queen of Cowichan,45
+30,Duke Point,Tsawwassen,2018,04,08,12,45,Queen of Alberni,123
+8,Horseshoe Bay,Bowen Island,2018,04,04,22,00,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,22,12,00,Queen of New Westminster,88
+2,Horseshoe Bay,Departure Bay,2018,04,22,15,45,Queen of Oak Bay,107
+30,Tsawwassen,Duke Point,2018,04,18,20,15,Queen of Alberni,123
+30,Tsawwassen,Duke Point,2018,04,09,20,15,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,30,15,30,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,17,20,55,Queen of Cowichan,39
+8,Horseshoe Bay,Bowen Island,2018,04,14,12,35,Queen of Capilano,21
+3,Horseshoe Bay,Langdale,2018,04,30,19,50,Queen of Cowichan,42
+1,Swartz Bay,Tsawwassen,2018,04,03,17,00,Coastal Celebration,88
+30,Tsawwassen,Duke Point,2018,04,30,22,45,Queen of Coquitlam,120
+1,Tsawwassen,Swartz Bay,2018,04,10,13,00,Spirit of Vancouver Island,92
+2,Horseshoe Bay,Departure Bay,2018,04,21,13,00,Queen of Cowichan,100
+2,Horseshoe Bay,Departure Bay,2018,04,05,20,05,Queen of Oak Bay,105
+2,Horseshoe Bay,Departure Bay,2018,04,07,10,40,Queen of Oak Bay,104
+3,Horseshoe Bay,Langdale,2018,04,07,09,45,Queen of Surrey,56
+1,Tsawwassen,Swartz Bay,2018,04,05,11,00,Coastal Renaissance,94
+1,Swartz Bay,Tsawwassen,2018,04,23,15,00,Spirit of Vancouver Island,92
+1,Tsawwassen,Swartz Bay,2018,04,15,18,00,Coastal Inspiration,90
+2,Departure Bay,Horseshoe Bay,2018,04,20,10,40,Queen of Cowichan,112
+3,Horseshoe Bay,Langdale,2018,04,01,14,45,Queen of Coquitlam,48
+1,Tsawwassen,Swartz Bay,2018,04,08,11,00,Coastal Renaissance,92
+30,Tsawwassen,Duke Point,2018,04,01,10,15,Queen of Alberni,118
+2,Horseshoe Bay,Departure Bay,2018,04,01,13,00,Queen of Cowichan,102
+4,Swartz Bay,Fulford Harbour,2018,04,17,15,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,29,16,00,Queen of New Westminster,88
+4,Swartz Bay,Fulford Harbour,2018,04,14,13,00,Skeena Queen,36
+8,Horseshoe Bay,Bowen Island,2018,04,02,08,00,Queen of Capilano,20
+3,Horseshoe Bay,Langdale,2018,04,20,07,30,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,29,13,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,08,10,15,Queen of Alberni,115
+30,Duke Point,Tsawwassen,2018,04,05,20,15,Queen of Coquitlam,117
+3,Langdale,Horseshoe Bay,2018,04,14,08,40,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,21,10,15,Queen of Capilano,17
+2,Departure Bay,Horseshoe Bay,2018,04,11,10,40,Queen of Cowichan,106
+30,Tsawwassen,Duke Point,2018,04,25,17,45,Queen of Coquitlam,125
+2,Departure Bay,Horseshoe Bay,2018,04,19,17,55,Queen of Oak Bay,107
+30,Duke Point,Tsawwassen,2018,04,14,15,15,Queen of Coquitlam,127
+1,Tsawwassen,Swartz Bay,2018,04,26,19,00,Coastal Renaissance,96
+8,Horseshoe Bay,Bowen Island,2018,04,29,08,00,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,04,11,00,Coastal Renaissance,92
+4,Swartz Bay,Fulford Harbour,2018,04,16,09,00,Skeena Queen,40
+8,Horseshoe Bay,Bowen Island,2018,04,18,05,50,Queen of Capilano,16
+1,Tsawwassen,Swartz Bay,2018,04,06,15,00,Coastal Renaissance,90
+1,Swartz Bay,Tsawwassen,2018,04,25,19,00,Spirit of Vancouver Island,102
+2,Horseshoe Bay,Departure Bay,2018,04,28,06,15,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,05,21,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,25,17,00,Spirit of Vancouver Island,99
+2,Horseshoe Bay,Departure Bay,2018,04,08,08,25,Queen of Cowichan,105
+30,Tsawwassen,Duke Point,2018,04,17,07,45,Queen of Coquitlam,117
+8,Horseshoe Bay,Bowen Island,2018,04,23,08,00,Queen of Capilano,22
+4,Swartz Bay,Fulford Harbour,2018,04,04,13,00,Skeena Queen,29
+4,Swartz Bay,Fulford Harbour,2018,04,06,09,00,Skeena Queen,28
+4,Swartz Bay,Fulford Harbour,2018,04,08,21,00,Skeena Queen,26
+8,Horseshoe Bay,Bowen Island,2018,04,04,18,50,Queen of Capilano,22
+8,Horseshoe Bay,Bowen Island,2018,04,24,18,50,Queen of Capilano,30
+2,Horseshoe Bay,Departure Bay,2018,04,12,20,05,Queen of Oak Bay,103
+2,Horseshoe Bay,Departure Bay,2018,04,01,18,35,Queen of Surrey,105
+2,Horseshoe Bay,Departure Bay,2018,04,25,13,00,Queen of Cowichan,104
+8,Horseshoe Bay,Bowen Island,2018,04,27,05,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,29,22,10,Queen of Cowichan,105
+30,Duke Point,Tsawwassen,2018,04,21,15,15,Queen of Coquitlam,121
+4,Swartz Bay,Fulford Harbour,2018,04,08,15,00,Skeena Queen,30
+3,Horseshoe Bay,Langdale,2018,04,08,19,50,Queen of Cowichan,40
+2,Horseshoe Bay,Departure Bay,2018,04,03,18,35,Queen of Surrey,105
+1,Swartz Bay,Tsawwassen,2018,04,15,17,00,Coastal Renaissance,94
+2,Horseshoe Bay,Departure Bay,2018,04,07,06,15,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,29,18,00,Queen of New Westminster,86
+1,Tsawwassen,Swartz Bay,2018,04,06,14,00,Coastal Inspiration,90
+2,Departure Bay,Horseshoe Bay,2018,04,28,22,10,Queen of Oak Bay,106
+30,Duke Point,Tsawwassen,2018,04,26,15,15,Queen of Coquitlam,133
+30,Tsawwassen,Duke Point,2018,04,19,05,15,Queen of Alberni,123
+1,Tsawwassen,Swartz Bay,2018,04,25,14,00,Coastal Inspiration,86
+3,Horseshoe Bay,Langdale,2018,04,21,16,20,Queen of Surrey,40
+3,Horseshoe Bay,Langdale,2018,04,03,19,50,Queen of Cowichan,40
+8,Horseshoe Bay,Bowen Island,2018,04,01,08,00,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,19,06,20,Queen of Surrey,42
+2,Departure Bay,Horseshoe Bay,2018,04,11,08,25,Queen of Oak Bay,111
+1,Swartz Bay,Tsawwassen,2018,04,28,19,00,Spirit of Vancouver Island,90
+2,Departure Bay,Horseshoe Bay,2018,04,10,15,20,Queen of Cowichan,104
+3,Horseshoe Bay,Langdale,2018,04,12,17,30,Queen of Cowichan,46
+1,Swartz Bay,Tsawwassen,2018,04,19,13,00,Coastal Renaissance,88
+30,Tsawwassen,Duke Point,2018,04,12,15,15,Queen of Alberni,123
+2,Horseshoe Bay,Departure Bay,2018,04,15,10,40,Queen of Oak Bay,106
+1,Tsawwassen,Swartz Bay,2018,04,23,21,00,Spirit of Vancouver Island,89
+1,Tsawwassen,Swartz Bay,2018,04,11,09,00,Spirit of Vancouver Island,94
+3,Langdale,Horseshoe Bay,2018,04,09,06,20,Queen of Surrey,42
+2,Horseshoe Bay,Departure Bay,2018,04,11,13,00,Queen of Cowichan,104
+1,Tsawwassen,Swartz Bay,2018,04,29,20,00,Queen of New Westminster,88
+1,Tsawwassen,Swartz Bay,2018,04,20,10,00,Coastal Inspiration,90
+2,Horseshoe Bay,Departure Bay,2018,04,21,22,10,Queen of Cowichan,107
+2,Horseshoe Bay,Departure Bay,2018,04,19,06,15,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,01,20,00,Coastal Renaissance,96
+30,Duke Point,Tsawwassen,2018,04,10,15,15,Queen of Coquitlam,119
+1,Swartz Bay,Tsawwassen,2018,04,22,10,00,Queen of New Westminster,90
+8,Horseshoe Bay,Bowen Island,2018,04,13,21,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,19,15,30,Queen of Capilano,22
+30,Duke Point,Tsawwassen,2018,04,29,20,15,Queen of Coquitlam,163
+1,Swartz Bay,Tsawwassen,2018,04,02,10,00,Queen of New Westminster,88
+30,Duke Point,Tsawwassen,2018,04,06,22,45,Queen of Alberni,124
+1,Tsawwassen,Swartz Bay,2018,04,22,10,00,Coastal Inspiration,92
+2,Horseshoe Bay,Departure Bay,2018,04,18,22,10,Queen of Cowichan,105
+2,Departure Bay,Horseshoe Bay,2018,04,17,22,10,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,02,10,15,Queen of Capilano,19
+30,Duke Point,Tsawwassen,2018,04,17,12,45,Queen of Alberni,117
+8,Horseshoe Bay,Bowen Island,2018,04,04,06,50,Queen of Capilano,26
+30,Tsawwassen,Duke Point,2018,04,15,22,45,Queen of Coquitlam,120
+8,Horseshoe Bay,Bowen Island,2018,04,27,06,50,Queen of Capilano,20
+4,Swartz Bay,Fulford Harbour,2018,04,19,13,00,Skeena Queen,34
+3,Langdale,Horseshoe Bay,2018,04,16,18,40,Queen of Cowichan,44
+8,Horseshoe Bay,Bowen Island,2018,04,29,16,35,Queen of Capilano,17
+3,Horseshoe Bay,Langdale,2018,04,15,19,50,Queen of Cowichan,42
+8,Horseshoe Bay,Bowen Island,2018,04,18,08,00,Queen of Capilano,24
+8,Horseshoe Bay,Bowen Island,2018,04,07,18,50,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,06,16,00,Coastal Inspiration,92
+8,Horseshoe Bay,Bowen Island,2018,04,03,12,35,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,19,07,00,Spirit of Vancouver Island,92
+2,Horseshoe Bay,Departure Bay,2018,04,27,08,25,Queen of Cowichan,105
+8,Horseshoe Bay,Bowen Island,2018,04,26,17,45,Queen of Capilano,21
+3,Horseshoe Bay,Langdale,2018,04,23,19,50,Queen of Cowichan,36
+1,Tsawwassen,Swartz Bay,2018,04,11,15,00,Coastal Renaissance,92
+1,Swartz Bay,Tsawwassen,2018,04,28,17,00,Coastal Renaissance,88
+30,Tsawwassen,Duke Point,2018,04,10,10,15,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,19,11,25,Queen of Capilano,25
+3,Langdale,Horseshoe Bay,2018,04,06,20,55,Queen of Cowichan,39
+30,Tsawwassen,Duke Point,2018,04,03,10,15,Queen of Alberni,121
+4,Swartz Bay,Fulford Harbour,2018,04,18,21,00,Skeena Queen,86
+4,Swartz Bay,Fulford Harbour,2018,04,03,17,00,Skeena Queen,34
+1,Tsawwassen,Swartz Bay,2018,04,29,22,00,Coastal Inspiration,84
+30,Tsawwassen,Duke Point,2018,04,16,17,45,Queen of Coquitlam,121
+8,Horseshoe Bay,Bowen Island,2018,04,25,16,35,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,17,09,45,Queen of Surrey,41
+1,Swartz Bay,Tsawwassen,2018,04,16,17,00,Coastal Renaissance,86
+8,Horseshoe Bay,Bowen Island,2018,04,29,12,35,Queen of Capilano,29
+4,Swartz Bay,Fulford Harbour,2018,04,11,15,00,Skeena Queen,36
+2,Horseshoe Bay,Departure Bay,2018,04,17,15,45,Queen of Oak Bay,105
+2,Horseshoe Bay,Departure Bay,2018,04,25,22,10,Queen of Cowichan,107
+1,Swartz Bay,Tsawwassen,2018,04,01,19,00,Spirit of Vancouver Island,96
+30,Tsawwassen,Duke Point,2018,04,30,20,15,Queen of Alberni,123
+4,Swartz Bay,Fulford Harbour,2018,04,03,13,00,Skeena Queen,34
+4,Swartz Bay,Fulford Harbour,2018,04,04,21,00,Skeena Queen,30
+3,Horseshoe Bay,Langdale,2018,04,04,11,55,Queen of Surrey,43
+1,Tsawwassen,Swartz Bay,2018,04,30,15,00,Coastal Renaissance,96
+8,Horseshoe Bay,Bowen Island,2018,04,14,06,50,Queen of Capilano,24
+1,Swartz Bay,Tsawwassen,2018,04,19,12,00,Coastal Inspiration,92
+4,Swartz Bay,Fulford Harbour,2018,04,17,17,00,Skeena Queen,32
+2,Horseshoe Bay,Departure Bay,2018,04,06,08,25,Queen of Cowichan,107
+3,Langdale,Horseshoe Bay,2018,04,29,06,20,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,11,11,00,Spirit of Vancouver Island,98
+2,Horseshoe Bay,Departure Bay,2018,04,29,18,35,Queen of Surrey,131
+3,Horseshoe Bay,Langdale,2018,04,06,11,55,Queen of Surrey,46
+1,Swartz Bay,Tsawwassen,2018,04,07,11,00,Spirit of Vancouver Island,102
+3,Langdale,Horseshoe Bay,2018,04,27,17,25,Queen of Surrey,67
+2,Horseshoe Bay,Departure Bay,2018,04,05,08,25,Queen of Cowichan,107
+2,Horseshoe Bay,Departure Bay,2018,04,03,15,45,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,02,22,00,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,25,15,45,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,27,09,05,Queen of Capilano,21
+2,Departure Bay,Horseshoe Bay,2018,04,25,22,10,Queen of Oak Bay,107
+3,Horseshoe Bay,Langdale,2018,04,28,16,20,Queen of Surrey,56
+3,Langdale,Horseshoe Bay,2018,04,10,10,50,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,07,07,45,Queen of Alberni,123
+1,Tsawwassen,Swartz Bay,2018,04,04,14,00,Coastal Inspiration,88
+30,Tsawwassen,Duke Point,2018,04,02,15,15,Queen of Alberni,117
+2,Horseshoe Bay,Departure Bay,2018,04,21,06,15,Queen of Oak Bay,105
+4,Swartz Bay,Fulford Harbour,2018,04,12,15,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,14,10,00,Coastal Inspiration,94
+1,Tsawwassen,Swartz Bay,2018,04,27,09,00,Spirit of Vancouver Island,92
+30,Duke Point,Tsawwassen,2018,04,19,15,15,Queen of Coquitlam,127
+3,Horseshoe Bay,Langdale,2018,04,06,17,30,Queen of Cowichan,42
+30,Tsawwassen,Duke Point,2018,04,10,17,45,Queen of Coquitlam,119
+8,Horseshoe Bay,Bowen Island,2018,04,12,11,25,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,08,17,00,Coastal Renaissance,86
+30,Duke Point,Tsawwassen,2018,04,20,07,45,Queen of Alberni,119
+3,Horseshoe Bay,Langdale,2018,04,15,14,10,Queen of Surrey,41
+30,Tsawwassen,Duke Point,2018,04,18,05,15,Queen of Alberni,121
+3,Langdale,Horseshoe Bay,2018,04,22,08,40,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,03,15,15,Coastal Inspiration,121
+3,Horseshoe Bay,Langdale,2018,04,19,14,10,Queen of Surrey,56
+2,Horseshoe Bay,Departure Bay,2018,04,27,20,05,Queen of Oak Bay,125
+1,Swartz Bay,Tsawwassen,2018,04,23,21,00,Coastal Renaissance,84
+8,Horseshoe Bay,Bowen Island,2018,04,01,15,30,Queen of Capilano,24
+1,Swartz Bay,Tsawwassen,2018,04,26,07,00,Spirit of Vancouver Island,90
+8,Horseshoe Bay,Bowen Island,2018,04,13,20,00,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,09,08,25,Queen of Cowichan,105
+3,Langdale,Horseshoe Bay,2018,04,25,20,55,Queen of Cowichan,43
+2,Departure Bay,Horseshoe Bay,2018,04,06,13,00,Queen of Oak Bay,104
+3,Horseshoe Bay,Langdale,2018,04,02,19,50,Queen of Cowichan,42
+4,Swartz Bay,Fulford Harbour,2018,04,14,11,00,Skeena Queen,36
+3,Horseshoe Bay,Langdale,2018,04,24,11,55,Queen of Surrey,41
+1,Tsawwassen,Swartz Bay,2018,04,27,14,00,Coastal Inspiration,94
+30,Tsawwassen,Duke Point,2018,04,29,20,15,Queen of Alberni,123
+30,Duke Point,Tsawwassen,2018,04,12,12,45,Queen of Alberni,117
+8,Horseshoe Bay,Bowen Island,2018,04,06,14,20,Queen of Capilano,20
+2,Departure Bay,Horseshoe Bay,2018,04,08,13,00,Queen of Oak Bay,104
+8,Horseshoe Bay,Bowen Island,2018,04,21,15,30,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,16,15,45,Queen of Oak Bay,105
+30,Tsawwassen,Duke Point,2018,04,06,12,45,Queen of Coquitlam,119
+3,Langdale,Horseshoe Bay,2018,04,17,18,40,Queen of Cowichan,44
+30,Tsawwassen,Duke Point,2018,04,08,22,45,Queen of Coquitlam,134
+3,Horseshoe Bay,Langdale,2018,04,30,16,20,Queen of Surrey,65
+1,Tsawwassen,Swartz Bay,2018,04,22,11,00,Coastal Renaissance,90
+2,Horseshoe Bay,Departure Bay,2018,04,05,22,10,Queen of Cowichan,107
+8,Horseshoe Bay,Bowen Island,2018,04,12,17,45,Queen of Capilano,25
+8,Horseshoe Bay,Bowen Island,2018,04,19,18,50,Queen of Capilano,24
+2,Horseshoe Bay,Departure Bay,2018,04,29,15,45,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,05,09,00,Spirit of Vancouver Island,94
+30,Duke Point,Tsawwassen,2018,04,07,17,45,Queen of Alberni,123
+30,Tsawwassen,Duke Point,2018,04,10,12,45,Queen of Coquitlam,113
+30,Tsawwassen,Duke Point,2018,04,20,20,15,Queen of Alberni,121
+4,Swartz Bay,Fulford Harbour,2018,04,02,17,00,Skeena Queen,28
+3,Horseshoe Bay,Langdale,2018,04,10,22,55,Queen of Surrey,44
+1,Tsawwassen,Swartz Bay,2018,04,28,21,00,Spirit of Vancouver Island,88
+8,Horseshoe Bay,Bowen Island,2018,04,12,22,00,Queen of Capilano,22
+30,Duke Point,Tsawwassen,2018,04,27,15,15,Queen of Coquitlam,137
+2,Departure Bay,Horseshoe Bay,2018,04,02,10,40,Queen of Cowichan,104
+8,Horseshoe Bay,Bowen Island,2018,04,15,09,05,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,21,07,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,26,18,00,Coastal Inspiration,86
+2,Departure Bay,Horseshoe Bay,2018,04,26,08,25,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,27,22,00,Queen of Capilano,30
+3,Langdale,Horseshoe Bay,2018,04,20,10,50,Queen of Surrey,52
+3,Langdale,Horseshoe Bay,2018,04,08,10,50,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,25,12,45,Queen of New Westminster,123
+3,Langdale,Horseshoe Bay,2018,04,23,06,20,Queen of Surrey,44
+2,Departure Bay,Horseshoe Bay,2018,04,26,17,55,Queen of Oak Bay,111
+8,Horseshoe Bay,Bowen Island,2018,04,10,11,25,Queen of Capilano,20
+2,Departure Bay,Horseshoe Bay,2018,04,27,13,00,Queen of Oak Bay,104
+8,Horseshoe Bay,Bowen Island,2018,04,05,05,50,Queen of Capilano,18
+2,Departure Bay,Horseshoe Bay,2018,04,09,15,20,Queen of Cowichan,106
+4,Swartz Bay,Fulford Harbour,2018,04,16,15,00,Skeena Queen,36
+3,Horseshoe Bay,Langdale,2018,04,10,19,50,Queen of Cowichan,44
+2,Departure Bay,Horseshoe Bay,2018,04,05,08,25,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,05,16,00,Coastal Inspiration,90
+3,Langdale,Horseshoe Bay,2018,04,12,06,20,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,14,15,00,Skeena Queen,36
+30,Duke Point,Tsawwassen,2018,04,13,05,15,Queen of Coquitlam,119
+3,Horseshoe Bay,Langdale,2018,04,23,11,55,Queen of Surrey,41
+30,Duke Point,Tsawwassen,2018,04,16,17,45,Queen of Alberni,121
+2,Horseshoe Bay,Departure Bay,2018,04,14,20,05,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,12,21,00,Spirit of Vancouver Island,88
+30,Tsawwassen,Duke Point,2018,04,03,15,15,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,12,06,50,Queen of Capilano,20
+1,Tsawwassen,Swartz Bay,2018,04,28,14,00,Coastal Inspiration,92
+30,Tsawwassen,Duke Point,2018,04,12,07,45,Queen of Coquitlam,118
+30,Duke Point,Tsawwassen,2018,04,03,10,15,Coastal Inspiration,119
+3,Horseshoe Bay,Langdale,2018,04,21,14,10,Queen of Surrey,39
+30,Duke Point,Tsawwassen,2018,04,02,20,15,Coastal Inspiration,115
+3,Horseshoe Bay,Langdale,2018,04,12,07,30,Queen of Surrey,40
+8,Horseshoe Bay,Bowen Island,2018,04,17,11,25,Queen of Capilano,23
+30,Tsawwassen,Duke Point,2018,04,20,12,45,Queen of Coquitlam,131
+4,Swartz Bay,Fulford Harbour,2018,04,12,21,00,Skeena Queen,28
+30,Tsawwassen,Duke Point,2018,04,06,17,45,Queen of Coquitlam,125
+2,Horseshoe Bay,Departure Bay,2018,04,10,08,25,Queen of Cowichan,105
+30,Duke Point,Tsawwassen,2018,04,18,12,45,Queen of Alberni,117
+4,Swartz Bay,Fulford Harbour,2018,04,27,09,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,26,16,35,Queen of Capilano,25
+1,Tsawwassen,Swartz Bay,2018,04,07,19,00,Coastal Renaissance,100
+30,Duke Point,Tsawwassen,2018,04,03,22,45,Queen of Alberni,120
+8,Horseshoe Bay,Bowen Island,2018,04,08,12,35,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,08,08,00,Queen of Capilano,17
+30,Duke Point,Tsawwassen,2018,04,27,05,15,Queen of Coquitlam,123
+30,Duke Point,Tsawwassen,2018,04,03,20,15,Coastal Inspiration,119
+2,Horseshoe Bay,Departure Bay,2018,04,07,22,10,Queen of Cowichan,105
+1,Swartz Bay,Tsawwassen,2018,04,04,21,00,Coastal Renaissance,92
+3,Horseshoe Bay,Langdale,2018,04,09,09,45,Queen of Surrey,41
+8,Horseshoe Bay,Bowen Island,2018,04,16,15,30,Queen of Capilano,17
+1,Swartz Bay,Tsawwassen,2018,04,10,13,00,Coastal Renaissance,88
+4,Swartz Bay,Fulford Harbour,2018,04,12,09,00,Skeena Queen,34
+4,Swartz Bay,Fulford Harbour,2018,04,03,11,00,Skeena Queen,30
+2,Departure Bay,Horseshoe Bay,2018,04,09,08,25,Queen of Oak Bay,105
+2,Horseshoe Bay,Departure Bay,2018,04,26,06,15,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,04,21,00,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,02,12,00,Queen of New Westminster,90
+30,Duke Point,Tsawwassen,2018,04,01,15,15,Coastal Inspiration,127
+3,Langdale,Horseshoe Bay,2018,04,12,08,40,Queen of Surrey,42
+3,Langdale,Horseshoe Bay,2018,04,22,17,25,Queen of Surrey,43
+3,Langdale,Horseshoe Bay,2018,04,10,20,55,Queen of Cowichan,45
+2,Departure Bay,Horseshoe Bay,2018,04,01,13,00,Queen of Oak Bay,104
+2,Horseshoe Bay,Departure Bay,2018,04,05,15,45,Queen of Oak Bay,105
+3,Langdale,Horseshoe Bay,2018,04,23,08,40,Queen of Surrey,42
+3,Langdale,Horseshoe Bay,2018,04,20,06,20,Queen of Surrey,42
+3,Langdale,Horseshoe Bay,2018,04,05,20,55,Queen of Cowichan,39
+8,Horseshoe Bay,Bowen Island,2018,04,29,20,00,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,05,19,50,Queen of Cowichan,44
+2,Departure Bay,Horseshoe Bay,2018,04,03,06,15,Queen of Cowichan,101
+3,Langdale,Horseshoe Bay,2018,04,23,18,40,Queen of Cowichan,42
+3,Langdale,Horseshoe Bay,2018,04,14,18,40,Queen of Cowichan,38
+30,Duke Point,Tsawwassen,2018,04,20,05,15,Queen of Coquitlam,145
+30,Duke Point,Tsawwassen,2018,04,24,22,45,Queen of New Westminster,120
+2,Departure Bay,Horseshoe Bay,2018,04,28,08,25,Queen of Oak Bay,107
+4,Swartz Bay,Fulford Harbour,2018,04,26,13,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,09,18,50,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,03,16,35,Queen of Capilano,19
+30,Duke Point,Tsawwassen,2018,04,24,17,45,Queen of New Westminster,127
+1,Swartz Bay,Tsawwassen,2018,04,13,09,00,Coastal Renaissance,88
+2,Horseshoe Bay,Departure Bay,2018,04,22,20,05,Queen of Oak Bay,117
+1,Swartz Bay,Tsawwassen,2018,04,20,15,00,Spirit of Vancouver Island,90
+3,Langdale,Horseshoe Bay,2018,04,11,13,05,Queen of Surrey,39
+8,Horseshoe Bay,Bowen Island,2018,04,01,20,00,Queen of Capilano,20
+1,Swartz Bay,Tsawwassen,2018,04,22,18,00,Queen of New Westminster,88
+30,Tsawwassen,Duke Point,2018,04,23,20,15,Queen of New Westminster,151
+2,Horseshoe Bay,Departure Bay,2018,04,20,13,00,Queen of Cowichan,110
+1,Tsawwassen,Swartz Bay,2018,04,15,21,00,Spirit of Vancouver Island,88
+3,Langdale,Horseshoe Bay,2018,04,12,20,55,Queen of Cowichan,39
+8,Horseshoe Bay,Bowen Island,2018,04,09,21,00,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,20,14,00,Queen of New Westminster,88
+1,Tsawwassen,Swartz Bay,2018,04,25,21,00,Spirit of Vancouver Island,96
+8,Horseshoe Bay,Bowen Island,2018,04,10,14,20,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,27,23,15,Queen of New Westminster,121
+30,Duke Point,Tsawwassen,2018,04,23,15,15,Queen of Coquitlam,121
+1,Swartz Bay,Tsawwassen,2018,04,02,16,00,Coastal Renaissance,90
+3,Langdale,Horseshoe Bay,2018,04,14,10,50,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,27,07,45,Queen of Alberni,119
+1,Tsawwassen,Swartz Bay,2018,04,22,17,00,Spirit of Vancouver Island,96
+1,Tsawwassen,Swartz Bay,2018,04,02,17,00,Spirit of Vancouver Island,94
+1,Swartz Bay,Tsawwassen,2018,04,30,13,00,Coastal Renaissance,88
+2,Horseshoe Bay,Departure Bay,2018,04,27,22,10,Queen of Cowichan,108
+3,Horseshoe Bay,Langdale,2018,04,24,07,30,Queen of Surrey,42
+2,Horseshoe Bay,Departure Bay,2018,04,20,10,40,Queen of Oak Bay,106
+3,Langdale,Horseshoe Bay,2018,04,16,13,05,Queen of Surrey,43
+3,Langdale,Horseshoe Bay,2018,04,28,15,15,Queen of Surrey,51
+30,Duke Point,Tsawwassen,2018,04,05,15,15,Queen of Coquitlam,125
+4,Swartz Bay,Fulford Harbour,2018,04,11,17,00,Skeena Queen,34
+3,Langdale,Horseshoe Bay,2018,04,02,18,40,Queen of Cowichan,40
+8,Horseshoe Bay,Bowen Island,2018,04,11,06,50,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,12,15,00,Coastal Renaissance,98
+1,Swartz Bay,Tsawwassen,2018,04,11,19,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,29,18,00,Coastal Inspiration,88
+4,Swartz Bay,Fulford Harbour,2018,04,19,15,00,Skeena Queen,40
+2,Departure Bay,Horseshoe Bay,2018,04,18,06,15,Queen of Cowichan,105
+8,Horseshoe Bay,Bowen Island,2018,04,28,10,15,Queen of Capilano,31
+1,Swartz Bay,Tsawwassen,2018,04,05,07,00,Spirit of Vancouver Island,92
+30,Duke Point,Tsawwassen,2018,04,06,17,45,Queen of Alberni,121
+30,Tsawwassen,Duke Point,2018,04,15,10,15,Queen of Alberni,128
+8,Horseshoe Bay,Bowen Island,2018,04,07,14,20,Queen of Capilano,16
+1,Tsawwassen,Swartz Bay,2018,04,04,19,00,Coastal Renaissance,90
+1,Swartz Bay,Tsawwassen,2018,04,29,10,00,Queen of New Westminster,94
+1,Tsawwassen,Swartz Bay,2018,04,27,17,00,Spirit of Vancouver Island,106
+1,Swartz Bay,Tsawwassen,2018,04,26,19,00,Spirit of Vancouver Island,100
+2,Departure Bay,Horseshoe Bay,2018,04,10,17,55,Queen of Oak Bay,103
+3,Langdale,Horseshoe Bay,2018,04,26,18,40,Queen of Cowichan,46
+3,Langdale,Horseshoe Bay,2018,04,24,13,05,Queen of Surrey,43
+30,Duke Point,Tsawwassen,2018,04,02,15,15,Coastal Inspiration,127
+3,Horseshoe Bay,Langdale,2018,04,15,11,55,Queen of Surrey,45
+3,Langdale,Horseshoe Bay,2018,04,23,20,55,Queen of Cowichan,41
+2,Departure Bay,Horseshoe Bay,2018,04,29,22,10,Queen of Oak Bay,121
+30,Tsawwassen,Duke Point,2018,04,22,17,45,Queen of Coquitlam,131
+30,Tsawwassen,Duke Point,2018,04,03,20,15,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,09,19,00,Coastal Renaissance,90
+30,Tsawwassen,Duke Point,2018,04,01,22,45,Coastal Inspiration,120
+2,Horseshoe Bay,Departure Bay,2018,04,07,18,35,Queen of Surrey,105
+8,Horseshoe Bay,Bowen Island,2018,04,22,18,50,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,10,10,15,Queen of Coquitlam,113
+8,Horseshoe Bay,Bowen Island,2018,04,22,11,25,Queen of Capilano,16
+3,Horseshoe Bay,Langdale,2018,04,23,22,55,Queen of Surrey,42
+2,Horseshoe Bay,Departure Bay,2018,04,03,20,05,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,23,06,15,Queen of Cowichan,99
+8,Horseshoe Bay,Bowen Island,2018,04,13,18,50,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,16,07,45,Queen of Coquitlam,127
+1,Tsawwassen,Swartz Bay,2018,04,12,13,00,Spirit of Vancouver Island,98
+1,Tsawwassen,Swartz Bay,2018,04,11,11,00,Coastal Renaissance,94
+1,Swartz Bay,Tsawwassen,2018,04,01,15,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,20,16,00,Queen of New Westminster,92
+8,Horseshoe Bay,Bowen Island,2018,04,14,16,35,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,12,18,50,Queen of Capilano,24
+8,Horseshoe Bay,Bowen Island,2018,04,27,12,35,Queen of Capilano,21
+2,Departure Bay,Horseshoe Bay,2018,04,10,13,00,Queen of Oak Bay,104
+4,Swartz Bay,Fulford Harbour,2018,04,16,07,00,Skeena Queen,32
+30,Tsawwassen,Duke Point,2018,04,11,05,15,Queen of Alberni,125
+2,Horseshoe Bay,Departure Bay,2018,04,28,20,05,Queen of Oak Bay,107
+1,Tsawwassen,Swartz Bay,2018,04,09,15,00,Coastal Renaissance,90
+3,Langdale,Horseshoe Bay,2018,04,09,13,05,Queen of Surrey,37
+30,Tsawwassen,Duke Point,2018,04,16,05,15,Queen of Alberni,121
+30,Duke Point,Tsawwassen,2018,04,06,12,45,Queen of Alberni,119
+1,Tsawwassen,Swartz Bay,2018,04,26,11,00,Coastal Renaissance,92
+3,Langdale,Horseshoe Bay,2018,04,01,17,25,Queen of Surrey,41
+1,Tsawwassen,Swartz Bay,2018,04,15,13,00,Spirit of Vancouver Island,96
+3,Langdale,Horseshoe Bay,2018,04,09,10,50,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,09,11,55,Queen of Surrey,44
+1,Tsawwassen,Swartz Bay,2018,04,27,12,00,Queen of New Westminster,116
+1,Swartz Bay,Tsawwassen,2018,04,28,08,00,Coastal Inspiration,92
+2,Departure Bay,Horseshoe Bay,2018,04,03,20,45,Queen of Surrey,109
+30,Tsawwassen,Duke Point,2018,04,23,12,45,Queen of Coquitlam,129
+1,Swartz Bay,Tsawwassen,2018,04,02,11,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,19,14,00,Coastal Inspiration,90
+8,Horseshoe Bay,Bowen Island,2018,04,07,06,50,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,03,11,25,Queen of Capilano,25
+8,Horseshoe Bay,Bowen Island,2018,04,13,08,00,Queen of Capilano,24
+2,Horseshoe Bay,Departure Bay,2018,04,07,15,45,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,15,12,35,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,16,17,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,22,22,55,Queen of Surrey,44
+1,Swartz Bay,Tsawwassen,2018,04,27,12,00,Coastal Inspiration,90
+30,Tsawwassen,Duke Point,2018,04,29,22,45,Queen of Coquitlam,156
+1,Swartz Bay,Tsawwassen,2018,04,30,15,00,Spirit of Vancouver Island,92
+4,Swartz Bay,Fulford Harbour,2018,04,07,21,00,Skeena Queen,36
+30,Duke Point,Tsawwassen,2018,04,14,07,45,Queen of Alberni,123
+3,Langdale,Horseshoe Bay,2018,04,12,10,50,Queen of Surrey,42
+30,Tsawwassen,Duke Point,2018,04,30,12,00,Queen of New Westminster,124
+8,Horseshoe Bay,Bowen Island,2018,04,28,16,35,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,03,06,50,Queen of Capilano,26
+1,Swartz Bay,Tsawwassen,2018,04,27,17,00,Coastal Renaissance,86
+3,Horseshoe Bay,Langdale,2018,04,07,11,55,Queen of Surrey,51
+8,Horseshoe Bay,Bowen Island,2018,04,21,17,45,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,10,07,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,10,12,35,Queen of Capilano,21
+4,Swartz Bay,Fulford Harbour,2018,04,17,21,00,Skeena Queen,28
+1,Tsawwassen,Swartz Bay,2018,04,21,13,00,Spirit of Vancouver Island,90
+1,Tsawwassen,Swartz Bay,2018,04,21,09,00,Spirit of Vancouver Island,92
+1,Swartz Bay,Tsawwassen,2018,04,25,13,00,Coastal Renaissance,92
+1,Tsawwassen,Swartz Bay,2018,04,18,11,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,03,14,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,10,21,00,Queen of Capilano,20
+2,Horseshoe Bay,Departure Bay,2018,04,07,20,05,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,30,13,00,Spirit of Vancouver Island,92
+2,Horseshoe Bay,Departure Bay,2018,04,27,15,45,Queen of Oak Bay,109
+3,Langdale,Horseshoe Bay,2018,04,20,20,55,Queen of Cowichan,137
+3,Langdale,Horseshoe Bay,2018,04,14,13,05,Queen of Surrey,39
+8,Horseshoe Bay,Bowen Island,2018,04,18,09,05,Queen of Capilano,23
+2,Horseshoe Bay,Departure Bay,2018,04,04,22,10,Queen of Cowichan,109
+30,Duke Point,Tsawwassen,2018,04,07,05,15,Queen of Coquitlam,123
+2,Horseshoe Bay,Departure Bay,2018,04,27,18,35,Queen of Surrey,135
+30,Duke Point,Tsawwassen,2018,04,06,10,15,Queen of Coquitlam,121
+1,Tsawwassen,Swartz Bay,2018,04,06,18,00,Coastal Inspiration,92
+30,Duke Point,Tsawwassen,2018,04,27,20,15,Queen of Coquitlam,151
+1,Tsawwassen,Swartz Bay,2018,04,30,17,00,Spirit of Vancouver Island,96
+2,Horseshoe Bay,Departure Bay,2018,04,24,18,35,Queen of Surrey,105
+1,Swartz Bay,Tsawwassen,2018,04,19,14,00,Queen of New Westminster,86
+4,Swartz Bay,Fulford Harbour,2018,04,30,09,00,Skeena Queen,29
+4,Swartz Bay,Fulford Harbour,2018,04,23,21,45,Skeena Queen,31
+2,Horseshoe Bay,Departure Bay,2018,04,04,10,40,Queen of Oak Bay,106
+30,Tsawwassen,Duke Point,2018,04,09,07,45,Queen of Coquitlam,121
+8,Horseshoe Bay,Bowen Island,2018,04,29,05,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,15,08,25,Queen of Cowichan,101
+3,Horseshoe Bay,Langdale,2018,04,26,14,10,Queen of Surrey,60
+3,Langdale,Horseshoe Bay,2018,04,19,18,40,Queen of Cowichan,40
+30,Duke Point,Tsawwassen,2018,04,20,17,45,Queen of Alberni,127
+30,Tsawwassen,Duke Point,2018,04,17,12,45,Queen of Coquitlam,115
+1,Tsawwassen,Swartz Bay,2018,04,03,11,00,Coastal Celebration,94
+1,Swartz Bay,Tsawwassen,2018,04,25,07,00,Spirit of Vancouver Island,94
+4,Swartz Bay,Fulford Harbour,2018,04,10,15,00,Skeena Queen,32
+1,Tsawwassen,Swartz Bay,2018,04,21,14,00,Coastal Inspiration,84
+3,Horseshoe Bay,Langdale,2018,04,13,11,55,Queen of Surrey,39
+4,Swartz Bay,Fulford Harbour,2018,04,13,19,00,Skeena Queen,32
+8,Horseshoe Bay,Bowen Island,2018,04,11,11,25,Queen of Capilano,22
+3,Horseshoe Bay,Langdale,2018,04,11,16,20,Queen of Surrey,46
+1,Tsawwassen,Swartz Bay,2018,04,11,13,00,Spirit of Vancouver Island,104
+30,Tsawwassen,Duke Point,2018,04,13,12,45,Queen of Coquitlam,117
+30,Tsawwassen,Duke Point,2018,04,14,17,45,Queen of Coquitlam,113
+3,Langdale,Horseshoe Bay,2018,04,06,08,40,Queen of Surrey,42
+3,Langdale,Horseshoe Bay,2018,04,30,15,15,Queen of Surrey,61
+8,Horseshoe Bay,Bowen Island,2018,04,17,06,50,Queen of Capilano,20
+1,Swartz Bay,Tsawwassen,2018,04,22,14,00,Queen of New Westminster,90
+3,Langdale,Horseshoe Bay,2018,04,18,17,25,Queen of Surrey,41
+3,Langdale,Horseshoe Bay,2018,04,25,17,25,Queen of Surrey,49
+8,Horseshoe Bay,Bowen Island,2018,04,12,05,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,26,10,40,Queen of Oak Bay,108
+30,Duke Point,Tsawwassen,2018,04,12,05,15,Queen of Coquitlam,121
+1,Swartz Bay,Tsawwassen,2018,04,27,21,00,Coastal Renaissance,92
+3,Horseshoe Bay,Langdale,2018,04,03,09,45,Queen of Surrey,45
+3,Langdale,Horseshoe Bay,2018,04,02,08,40,Queen of Surrey,38
+4,Swartz Bay,Fulford Harbour,2018,04,29,15,00,Skeena Queen,32
+4,Swartz Bay,Fulford Harbour,2018,04,30,21,45,Skeena Queen,31
+3,Langdale,Horseshoe Bay,2018,04,27,15,15,Queen of Surrey,57
+3,Langdale,Horseshoe Bay,2018,04,05,06,20,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,21,15,00,Spirit of Vancouver Island,90
+1,Swartz Bay,Tsawwassen,2018,04,07,09,00,Coastal Renaissance,88
+3,Langdale,Horseshoe Bay,2018,04,15,10,50,Queen of Surrey,44
+30,Duke Point,Tsawwassen,2018,04,12,18,45,Queen of New Westminster,115
+3,Horseshoe Bay,Langdale,2018,04,26,07,30,Queen of Surrey,38
+3,Langdale,Horseshoe Bay,2018,04,22,13,05,Queen of Surrey,41
+4,Swartz Bay,Fulford Harbour,2018,04,22,09,00,Skeena Queen,32
+2,Departure Bay,Horseshoe Bay,2018,04,06,20,45,Queen of Surrey,111
+2,Horseshoe Bay,Departure Bay,2018,04,09,22,10,Queen of Cowichan,106
+30,Tsawwassen,Duke Point,2018,04,12,05,15,Queen of Alberni,119
+2,Horseshoe Bay,Departure Bay,2018,04,29,20,05,Queen of Oak Bay,113
+2,Horseshoe Bay,Departure Bay,2018,04,09,06,15,Queen of Oak Bay,103
+2,Horseshoe Bay,Departure Bay,2018,04,01,10,40,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,23,14,10,Queen of Surrey,40
+4,Swartz Bay,Fulford Harbour,2018,04,26,07,00,Skeena Queen,36
+8,Horseshoe Bay,Bowen Island,2018,04,27,15,30,Queen of Capilano,24
+3,Langdale,Horseshoe Bay,2018,04,18,13,05,Queen of Surrey,39
+4,Swartz Bay,Fulford Harbour,2018,04,04,07,00,Skeena Queen,28
+8,Horseshoe Bay,Bowen Island,2018,04,12,16,35,Queen of Capilano,25
+8,Horseshoe Bay,Bowen Island,2018,04,30,18,50,Queen of Capilano,18
+4,Swartz Bay,Fulford Harbour,2018,04,25,13,00,Skeena Queen,30
+2,Departure Bay,Horseshoe Bay,2018,04,02,22,10,Queen of Oak Bay,111
+8,Horseshoe Bay,Bowen Island,2018,04,26,10,15,Queen of Capilano,33
+2,Departure Bay,Horseshoe Bay,2018,04,23,08,25,Queen of Oak Bay,105
+3,Langdale,Horseshoe Bay,2018,04,04,18,40,Queen of Cowichan,40
+1,Swartz Bay,Tsawwassen,2018,04,27,16,00,Coastal Inspiration,96
+1,Swartz Bay,Tsawwassen,2018,04,06,07,00,Spirit of Vancouver Island,88
+30,Duke Point,Tsawwassen,2018,04,15,10,15,Queen of Coquitlam,121
+1,Tsawwassen,Swartz Bay,2018,04,01,08,00,Queen of New Westminster,92
+8,Horseshoe Bay,Bowen Island,2018,04,12,20,00,Queen of Capilano,22
+3,Horseshoe Bay,Langdale,2018,04,14,09,45,Queen of Surrey,39
+30,Tsawwassen,Duke Point,2018,04,05,12,45,Queen of Coquitlam,113
+30,Tsawwassen,Duke Point,2018,04,15,15,15,Queen of Alberni,142
+1,Swartz Bay,Tsawwassen,2018,04,12,17,00,Coastal Renaissance,108
+1,Tsawwassen,Swartz Bay,2018,04,14,19,00,Coastal Renaissance,88
+4,Swartz Bay,Fulford Harbour,2018,04,05,19,00,Skeena Queen,34
+2,Departure Bay,Horseshoe Bay,2018,04,01,12,25,Queen of Coquitlam,119
+3,Langdale,Horseshoe Bay,2018,04,14,17,25,Queen of Surrey,41
+2,Horseshoe Bay,Departure Bay,2018,04,28,15,45,Queen of Oak Bay,107
+2,Horseshoe Bay,Departure Bay,2018,04,09,20,05,Queen of Oak Bay,107
+3,Horseshoe Bay,Langdale,2018,04,25,07,30,Queen of Surrey,42
+1,Tsawwassen,Swartz Bay,2018,04,08,07,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,16,09,05,Queen of Capilano,23
+2,Departure Bay,Horseshoe Bay,2018,04,23,22,10,Queen of Oak Bay,111
+8,Horseshoe Bay,Bowen Island,2018,04,29,17,45,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,24,10,40,Queen of Oak Bay,108
+4,Swartz Bay,Fulford Harbour,2018,04,14,17,00,Skeena Queen,32
+30,Duke Point,Tsawwassen,2018,04,05,10,15,Queen of Coquitlam,112
+3,Langdale,Horseshoe Bay,2018,04,03,06,20,Queen of Surrey,40
+1,Tsawwassen,Swartz Bay,2018,04,01,21,00,Spirit of Vancouver Island,88
+3,Horseshoe Bay,Langdale,2018,04,26,22,55,Queen of Surrey,69
+1,Swartz Bay,Tsawwassen,2018,04,18,17,00,Coastal Renaissance,104
+1,Tsawwassen,Swartz Bay,2018,04,08,19,00,Coastal Renaissance,90
+3,Langdale,Horseshoe Bay,2018,04,24,15,15,Queen of Surrey,41
+4,Swartz Bay,Fulford Harbour,2018,04,06,07,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,27,07,45,Queen of Coquitlam,125
+2,Horseshoe Bay,Departure Bay,2018,04,01,17,05,Queen of Coquitlam,104
+8,Horseshoe Bay,Bowen Island,2018,04,25,08,00,Queen of Capilano,32
+8,Horseshoe Bay,Bowen Island,2018,04,27,17,45,Queen of Capilano,31
+1,Tsawwassen,Swartz Bay,2018,04,19,15,00,Coastal Renaissance,92
+30,Tsawwassen,Duke Point,2018,04,02,20,15,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,19,09,00,Spirit of Vancouver Island,96
+8,Horseshoe Bay,Bowen Island,2018,04,23,20,00,Queen of Capilano,20
+1,Swartz Bay,Tsawwassen,2018,04,18,11,30,Coastal Inspiration,92
+30,Tsawwassen,Duke Point,2018,04,22,20,15,Queen of Alberni,123
+3,Langdale,Horseshoe Bay,2018,04,09,17,25,Queen of Surrey,39
+2,Horseshoe Bay,Departure Bay,2018,04,24,22,10,Queen of Cowichan,106
+3,Horseshoe Bay,Langdale,2018,04,16,16,20,Queen of Surrey,50
+3,Horseshoe Bay,Langdale,2018,04,07,16,20,Queen of Surrey,44
+3,Langdale,Horseshoe Bay,2018,04,16,08,40,Queen of Surrey,40
+30,Tsawwassen,Duke Point,2018,04,05,15,15,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,13,11,25,Queen of Capilano,22
+30,Tsawwassen,Duke Point,2018,04,01,15,15,Queen of Alberni,115
+2,Horseshoe Bay,Departure Bay,2018,04,03,08,25,Queen of Cowichan,105
+2,Horseshoe Bay,Departure Bay,2018,04,17,10,40,Queen of Oak Bay,104
+1,Tsawwassen,Swartz Bay,2018,04,26,12,00,Queen of New Westminster,88
+8,Horseshoe Bay,Bowen Island,2018,04,10,06,50,Queen of Capilano,26
+8,Horseshoe Bay,Bowen Island,2018,04,07,05,50,Queen of Capilano,15
+8,Horseshoe Bay,Bowen Island,2018,04,25,14,20,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,05,17,45,Queen of Coquitlam,116
+1,Tsawwassen,Swartz Bay,2018,04,03,09,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,06,20,00,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,13,18,00,Coastal Inspiration,94
+3,Langdale,Horseshoe Bay,2018,04,28,06,20,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,27,22,45,Queen of Alberni,120
+3,Horseshoe Bay,Langdale,2018,04,13,09,45,Queen of Surrey,39
+3,Langdale,Horseshoe Bay,2018,04,04,15,15,Queen of Surrey,43
+2,Departure Bay,Horseshoe Bay,2018,04,12,10,40,Queen of Cowichan,104
+4,Swartz Bay,Fulford Harbour,2018,04,13,13,00,Skeena Queen,28
+3,Horseshoe Bay,Langdale,2018,04,12,16,20,Queen of Surrey,56
+8,Horseshoe Bay,Bowen Island,2018,04,02,06,50,Queen of Capilano,24
+2,Departure Bay,Horseshoe Bay,2018,04,22,22,10,Queen of Oak Bay,119
+2,Horseshoe Bay,Departure Bay,2018,04,29,08,25,Queen of Cowichan,101
+2,Horseshoe Bay,Departure Bay,2018,04,01,08,25,Queen of Cowichan,103
+30,Tsawwassen,Duke Point,2018,04,21,07,45,Queen of Coquitlam,119
+3,Langdale,Horseshoe Bay,2018,04,09,20,55,Queen of Cowichan,43
+1,Tsawwassen,Swartz Bay,2018,04,03,07,00,Coastal Celebration,92
+2,Departure Bay,Horseshoe Bay,2018,04,29,08,25,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,27,07,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,14,08,25,Queen of Oak Bay,105
+2,Horseshoe Bay,Departure Bay,2018,04,18,10,40,Queen of Oak Bay,106
+2,Horseshoe Bay,Departure Bay,2018,04,02,15,45,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,06,21,00,Coastal Renaissance,88
+3,Langdale,Horseshoe Bay,2018,04,13,13,05,Queen of Surrey,41
+3,Horseshoe Bay,Langdale,2018,04,06,19,50,Queen of Cowichan,44
+8,Horseshoe Bay,Bowen Island,2018,04,09,12,35,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,06,18,35,Queen of Surrey,115
+1,Swartz Bay,Tsawwassen,2018,04,28,21,00,Coastal Renaissance,88
+3,Langdale,Horseshoe Bay,2018,04,25,13,05,Queen of Surrey,43
+8,Horseshoe Bay,Bowen Island,2018,04,25,20,00,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,29,18,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,10,13,00,Queen of Cowichan,104
+8,Horseshoe Bay,Bowen Island,2018,04,16,11,25,Queen of Capilano,22
+8,Horseshoe Bay,Bowen Island,2018,04,04,16,35,Queen of Capilano,23
+3,Langdale,Horseshoe Bay,2018,04,01,06,20,Queen of Surrey,46
+1,Tsawwassen,Swartz Bay,2018,04,15,17,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,18,19,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,27,10,15,Queen of Capilano,17
+2,Departure Bay,Horseshoe Bay,2018,04,08,22,10,Queen of Oak Bay,108
+1,Swartz Bay,Tsawwassen,2018,04,20,16,00,Coastal Inspiration,92
+2,Horseshoe Bay,Departure Bay,2018,04,20,15,45,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,05,17,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,29,10,00,Coastal Inspiration,94
+1,Swartz Bay,Tsawwassen,2018,04,04,19,00,Spirit of Vancouver Island,96
+8,Horseshoe Bay,Bowen Island,2018,04,03,22,00,Queen of Capilano,22
+8,Horseshoe Bay,Bowen Island,2018,04,06,06,50,Queen of Capilano,20
+1,Tsawwassen,Swartz Bay,2018,04,23,09,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,07,22,10,Queen of Oak Bay,107
+1,Tsawwassen,Swartz Bay,2018,04,01,15,00,Coastal Celebration,100
+30,Tsawwassen,Duke Point,2018,04,06,15,15,Queen of Alberni,121
+1,Tsawwassen,Swartz Bay,2018,04,06,21,00,Spirit of Vancouver Island,88
+8,Horseshoe Bay,Bowen Island,2018,04,20,06,50,Queen of Capilano,18
+2,Departure Bay,Horseshoe Bay,2018,04,07,06,15,Queen of Cowichan,105
+8,Horseshoe Bay,Bowen Island,2018,04,23,06,50,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,13,20,55,Queen of Cowichan,39
+30,Tsawwassen,Duke Point,2018,04,13,10,15,Queen of Alberni,155
+3,Langdale,Horseshoe Bay,2018,04,05,13,05,Queen of Surrey,41
+30,Duke Point,Tsawwassen,2018,04,19,20,15,Queen of Coquitlam,123
+30,Duke Point,Tsawwassen,2018,04,24,05,15,Queen of Coquitlam,125
+1,Tsawwassen,Swartz Bay,2018,04,25,11,00,Coastal Renaissance,92
+3,Langdale,Horseshoe Bay,2018,04,02,15,15,Queen of Surrey,51
+2,Horseshoe Bay,Departure Bay,2018,04,12,06,15,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,08,17,30,Queen of Cowichan,44
+4,Swartz Bay,Fulford Harbour,2018,04,14,19,00,Skeena Queen,32
+8,Horseshoe Bay,Bowen Island,2018,04,05,20,00,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,08,20,55,Queen of Cowichan,39
+8,Horseshoe Bay,Bowen Island,2018,04,02,14,20,Queen of Capilano,20
+1,Swartz Bay,Tsawwassen,2018,04,11,09,00,Coastal Renaissance,96
+2,Departure Bay,Horseshoe Bay,2018,04,23,13,00,Queen of Oak Bay,104
+3,Langdale,Horseshoe Bay,2018,04,10,17,25,Queen of Surrey,43
+2,Departure Bay,Horseshoe Bay,2018,04,26,15,20,Queen of Cowichan,106
+2,Departure Bay,Horseshoe Bay,2018,04,07,13,00,Queen of Oak Bay,104
+2,Departure Bay,Horseshoe Bay,2018,04,23,10,40,Queen of Cowichan,102
+30,Tsawwassen,Duke Point,2018,04,29,10,15,Queen of Alberni,115
+30,Tsawwassen,Duke Point,2018,04,22,10,15,Queen of Alberni,117
+30,Duke Point,Tsawwassen,2018,04,02,17,45,Queen of Alberni,119
+2,Departure Bay,Horseshoe Bay,2018,04,19,13,00,Queen of Oak Bay,106
+4,Swartz Bay,Fulford Harbour,2018,04,05,15,00,Skeena Queen,30
+4,Swartz Bay,Fulford Harbour,2018,04,28,19,00,Skeena Queen,34
+1,Tsawwassen,Swartz Bay,2018,04,27,16,00,Queen of New Westminster,110
+1,Swartz Bay,Tsawwassen,2018,04,18,21,00,Coastal Renaissance,84
+3,Horseshoe Bay,Langdale,2018,04,10,07,30,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,14,07,30,Queen of Surrey,40
+2,Horseshoe Bay,Departure Bay,2018,04,05,06,15,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,15,09,45,Queen of Surrey,40
+1,Tsawwassen,Swartz Bay,2018,04,17,18,30,Coastal Inspiration,78
+3,Langdale,Horseshoe Bay,2018,04,01,15,15,Queen of Surrey,47
+30,Duke Point,Tsawwassen,2018,04,08,15,15,Queen of Coquitlam,141
+1,Swartz Bay,Tsawwassen,2018,04,02,09,00,Coastal Celebration,90
+3,Langdale,Horseshoe Bay,2018,04,11,20,55,Queen of Cowichan,39
+4,Swartz Bay,Fulford Harbour,2018,04,02,07,00,Skeena Queen,30
+2,Horseshoe Bay,Departure Bay,2018,04,02,06,15,Queen of Oak Bay,107
+3,Horseshoe Bay,Langdale,2018,04,29,14,10,Queen of Surrey,48
+8,Horseshoe Bay,Bowen Island,2018,04,24,10,15,Queen of Capilano,19
+1,Tsawwassen,Swartz Bay,2018,04,11,19,00,Coastal Renaissance,86
+2,Horseshoe Bay,Departure Bay,2018,04,02,22,10,Queen of Cowichan,114
+1,Tsawwassen,Swartz Bay,2018,04,06,09,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,28,19,50,Queen of Cowichan,40
+30,Duke Point,Tsawwassen,2018,04,23,20,15,Queen of Coquitlam,117
+1,Tsawwassen,Swartz Bay,2018,04,23,14,00,Coastal Inspiration,86
+3,Langdale,Horseshoe Bay,2018,04,13,15,15,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,23,17,00,Coastal Renaissance,88
+30,Tsawwassen,Duke Point,2018,04,27,10,15,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,29,17,00,Spirit of Vancouver Island,92
+1,Tsawwassen,Swartz Bay,2018,04,09,13,00,Spirit of Vancouver Island,90
+4,Swartz Bay,Fulford Harbour,2018,04,07,15,00,Skeena Queen,32
+8,Horseshoe Bay,Bowen Island,2018,04,19,10,15,Queen of Capilano,27
+1,Tsawwassen,Swartz Bay,2018,04,14,15,00,Coastal Renaissance,94
+8,Horseshoe Bay,Bowen Island,2018,04,22,12,35,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,19,17,00,Spirit of Vancouver Island,100
+30,Tsawwassen,Duke Point,2018,04,07,17,45,Queen of Coquitlam,119
+1,Swartz Bay,Tsawwassen,2018,04,10,11,00,Spirit of Vancouver Island,88
+1,Swartz Bay,Tsawwassen,2018,04,14,09,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,08,17,00,Spirit of Vancouver Island,90
+4,Swartz Bay,Fulford Harbour,2018,04,20,07,00,Skeena Queen,32
+3,Langdale,Horseshoe Bay,2018,04,21,15,15,Queen of Surrey,41
+30,Duke Point,Tsawwassen,2018,04,22,12,45,Queen of Alberni,115
+3,Horseshoe Bay,Langdale,2018,04,14,22,55,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,19,05,50,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,30,11,55,Queen of Surrey,42
+1,Tsawwassen,Swartz Bay,2018,04,29,09,00,Spirit of Vancouver Island,88
+3,Langdale,Horseshoe Bay,2018,04,26,20,55,Queen of Cowichan,45
+2,Departure Bay,Horseshoe Bay,2018,04,02,11,40,Queen of Coquitlam,106
+3,Horseshoe Bay,Langdale,2018,04,08,07,30,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,10,11,00,Skeena Queen,30
+3,Langdale,Horseshoe Bay,2018,04,03,15,15,Queen of Surrey,45
+1,Tsawwassen,Swartz Bay,2018,04,08,14,00,Coastal Inspiration,90
+3,Langdale,Horseshoe Bay,2018,04,19,17,25,Queen of Surrey,57
+2,Horseshoe Bay,Departure Bay,2018,04,24,15,45,Queen of Oak Bay,103
+2,Departure Bay,Horseshoe Bay,2018,04,08,15,20,Queen of Cowichan,104
+1,Tsawwassen,Swartz Bay,2018,04,16,09,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,22,08,25,Queen of Oak Bay,103
+30,Tsawwassen,Duke Point,2018,04,01,20,15,Queen of Alberni,117
+1,Swartz Bay,Tsawwassen,2018,04,08,12,00,Coastal Inspiration,92
+8,Horseshoe Bay,Bowen Island,2018,04,29,14,20,Queen of Capilano,19
+3,Langdale,Horseshoe Bay,2018,04,21,06,20,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,05,16,20,Queen of Surrey,48
+1,Tsawwassen,Swartz Bay,2018,04,16,13,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,20,08,25,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,19,06,15,Queen of Cowichan,103
+3,Horseshoe Bay,Langdale,2018,04,01,09,45,Queen of Surrey,43
+3,Langdale,Horseshoe Bay,2018,04,08,18,40,Queen of Cowichan,40
+1,Swartz Bay,Tsawwassen,2018,04,20,21,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,30,09,00,Spirit of Vancouver Island,90
+3,Langdale,Horseshoe Bay,2018,04,04,20,55,Queen of Cowichan,41
+2,Horseshoe Bay,Departure Bay,2018,04,02,18,35,Queen of Surrey,109
+3,Horseshoe Bay,Langdale,2018,04,29,11,55,Queen of Surrey,39
+30,Duke Point,Tsawwassen,2018,04,02,05,15,Coastal Inspiration,125
+2,Horseshoe Bay,Departure Bay,2018,04,02,14,00,Queen of Coquitlam,104
+8,Horseshoe Bay,Bowen Island,2018,04,02,11,25,Queen of Capilano,21
+8,Horseshoe Bay,Bowen Island,2018,04,20,08,00,Queen of Capilano,20
+30,Duke Point,Tsawwassen,2018,04,08,17,45,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,21,18,50,Queen of Capilano,24
+3,Horseshoe Bay,Langdale,2018,04,15,16,20,Queen of Surrey,48
+30,Duke Point,Tsawwassen,2018,04,25,10,15,Queen of Coquitlam,117
+2,Horseshoe Bay,Departure Bay,2018,04,19,10,40,Queen of Oak Bay,106
+3,Langdale,Horseshoe Bay,2018,04,08,15,15,Queen of Surrey,43
+4,Swartz Bay,Fulford Harbour,2018,04,02,19,00,Skeena Queen,32
+1,Swartz Bay,Tsawwassen,2018,04,25,12,00,Coastal Inspiration,90
+2,Departure Bay,Horseshoe Bay,2018,04,30,08,25,Queen of Oak Bay,105
+2,Horseshoe Bay,Departure Bay,2018,04,27,06,15,Queen of Oak Bay,103
+8,Horseshoe Bay,Bowen Island,2018,04,24,11,25,Queen of Capilano,17
+3,Horseshoe Bay,Langdale,2018,04,11,19,50,Queen of Cowichan,40
+2,Departure Bay,Horseshoe Bay,2018,04,02,17,55,Queen of Oak Bay,103
+1,Tsawwassen,Swartz Bay,2018,04,20,07,00,Coastal Renaissance,92
+4,Swartz Bay,Fulford Harbour,2018,04,16,13,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,30,12,35,Queen of Capilano,17
+1,Swartz Bay,Tsawwassen,2018,04,07,07,00,Spirit of Vancouver Island,90
+2,Horseshoe Bay,Departure Bay,2018,04,17,08,25,Queen of Cowichan,101
+8,Horseshoe Bay,Bowen Island,2018,04,08,20,00,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,21,10,40,Queen of Oak Bay,104
+2,Departure Bay,Horseshoe Bay,2018,04,26,10,40,Queen of Cowichan,108
+2,Horseshoe Bay,Departure Bay,2018,04,23,18,35,Queen of Surrey,107
+30,Tsawwassen,Duke Point,2018,04,27,22,45,Queen of Coquitlam,155
+4,Swartz Bay,Fulford Harbour,2018,04,19,19,00,Skeena Queen,40
+30,Tsawwassen,Duke Point,2018,04,20,22,45,Queen of Coquitlam,135
+3,Langdale,Horseshoe Bay,2018,04,16,06,20,Queen of Surrey,44
+1,Swartz Bay,Tsawwassen,2018,04,17,11,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,14,20,45,Queen of Surrey,107
+30,Tsawwassen,Duke Point,2018,04,26,22,45,Queen of Coquitlam,121
+2,Horseshoe Bay,Departure Bay,2018,04,23,10,40,Queen of Oak Bay,106
+1,Tsawwassen,Swartz Bay,2018,04,10,11,00,Coastal Renaissance,92
+2,Departure Bay,Horseshoe Bay,2018,04,09,17,55,Queen of Oak Bay,103
+3,Langdale,Horseshoe Bay,2018,04,01,20,55,Queen of Cowichan,51
+1,Swartz Bay,Tsawwassen,2018,04,14,17,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,03,17,45,Queen of Capilano,21
+3,Horseshoe Bay,Langdale,2018,04,02,11,55,Queen of Surrey,41
+4,Swartz Bay,Fulford Harbour,2018,04,30,19,00,Skeena Queen,30
+3,Horseshoe Bay,Langdale,2018,04,03,16,20,Queen of Surrey,44
+1,Tsawwassen,Swartz Bay,2018,04,03,15,00,Coastal Celebration,94
+3,Horseshoe Bay,Langdale,2018,04,25,11,55,Queen of Surrey,47
+1,Swartz Bay,Tsawwassen,2018,04,28,14,00,Queen of New Westminster,88
+2,Horseshoe Bay,Departure Bay,2018,04,10,15,45,Queen of Oak Bay,109
+30,Duke Point,Tsawwassen,2018,04,09,22,45,Queen of Alberni,120
+1,Tsawwassen,Swartz Bay,2018,04,20,11,00,Coastal Renaissance,92
+30,Duke Point,Tsawwassen,2018,04,28,12,45,Queen of Alberni,121
+2,Horseshoe Bay,Departure Bay,2018,04,03,13,00,Queen of Cowichan,102
+2,Horseshoe Bay,Departure Bay,2018,04,13,22,10,Queen of Cowichan,106
+30,Tsawwassen,Duke Point,2018,04,01,17,45,Coastal Inspiration,117
+8,Horseshoe Bay,Bowen Island,2018,04,18,20,00,Queen of Capilano,18
+4,Swartz Bay,Fulford Harbour,2018,04,06,11,00,Skeena Queen,30
+1,Swartz Bay,Tsawwassen,2018,04,29,16,00,Coastal Inspiration,88
+3,Langdale,Horseshoe Bay,2018,04,11,17,25,Queen of Surrey,45
+3,Langdale,Horseshoe Bay,2018,04,19,15,15,Queen of Surrey,59
+30,Tsawwassen,Duke Point,2018,04,30,17,45,Queen of Coquitlam,119
+3,Horseshoe Bay,Langdale,2018,04,10,14,10,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,19,07,45,Queen of Alberni,117
+3,Langdale,Horseshoe Bay,2018,04,24,20,55,Queen of Cowichan,43
+2,Departure Bay,Horseshoe Bay,2018,04,06,15,20,Queen of Cowichan,104
+2,Horseshoe Bay,Departure Bay,2018,04,12,10,40,Queen of Oak Bay,104
+30,Tsawwassen,Duke Point,2018,04,26,07,45,Queen of Coquitlam,117
+2,Departure Bay,Horseshoe Bay,2018,04,17,13,00,Queen of Oak Bay,106
+1,Tsawwassen,Swartz Bay,2018,04,29,07,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,29,21,45,Skeena Queen,35
+8,Horseshoe Bay,Bowen Island,2018,04,26,22,00,Queen of Capilano,24
+30,Tsawwassen,Duke Point,2018,04,25,22,45,Queen of Coquitlam,120
+30,Duke Point,Tsawwassen,2018,04,13,07,45,Queen of Alberni,143
+8,Horseshoe Bay,Bowen Island,2018,04,07,12,35,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,06,22,10,Queen of Cowichan,107
+30,Duke Point,Tsawwassen,2018,04,12,15,15,Queen of Coquitlam,123
+8,Horseshoe Bay,Bowen Island,2018,04,05,15,30,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,01,14,10,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,23,12,00,Coastal Inspiration,94
+30,Duke Point,Tsawwassen,2018,04,12,22,45,Queen of Alberni,120
+3,Horseshoe Bay,Langdale,2018,04,22,07,30,Queen of Surrey,44
+30,Tsawwassen,Duke Point,2018,04,19,12,45,Queen of Coquitlam,117
+2,Horseshoe Bay,Departure Bay,2018,04,11,10,40,Queen of Oak Bay,104
+2,Horseshoe Bay,Departure Bay,2018,04,30,20,05,Queen of Oak Bay,107
+30,Tsawwassen,Duke Point,2018,04,28,10,15,Queen of Alberni,129
+30,Tsawwassen,Duke Point,2018,04,08,20,15,Queen of Alberni,121
+3,Langdale,Horseshoe Bay,2018,04,24,08,40,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,28,13,00,Skeena Queen,32
+3,Horseshoe Bay,Langdale,2018,04,09,22,55,Queen of Surrey,43
+1,Tsawwassen,Swartz Bay,2018,04,22,15,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,15,09,00,Skeena Queen,32
+2,Departure Bay,Horseshoe Bay,2018,04,02,20,45,Queen of Surrey,109
+2,Departure Bay,Horseshoe Bay,2018,04,18,20,45,Queen of Surrey,107
+4,Swartz Bay,Fulford Harbour,2018,04,17,09,00,Skeena Queen,32
+30,Duke Point,Tsawwassen,2018,04,18,10,15,Queen of Coquitlam,121
+1,Swartz Bay,Tsawwassen,2018,04,08,15,00,Spirit of Vancouver Island,90
+3,Langdale,Horseshoe Bay,2018,04,22,10,50,Queen of Surrey,44
+8,Horseshoe Bay,Bowen Island,2018,04,17,16,35,Queen of Capilano,19
+1,Tsawwassen,Swartz Bay,2018,04,27,11,00,Coastal Renaissance,94
+30,Duke Point,Tsawwassen,2018,04,09,10,15,Queen of Coquitlam,121
+1,Swartz Bay,Tsawwassen,2018,04,26,17,00,Coastal Renaissance,100
+30,Duke Point,Tsawwassen,2018,04,21,17,45,Queen of Alberni,119
+2,Horseshoe Bay,Departure Bay,2018,04,03,10,40,Queen of Oak Bay,104
+1,Swartz Bay,Tsawwassen,2018,04,15,09,00,Coastal Renaissance,98
+30,Duke Point,Tsawwassen,2018,04,01,12,45,Queen of Alberni,117
+4,Swartz Bay,Fulford Harbour,2018,04,10,07,00,Skeena Queen,32
+30,Duke Point,Tsawwassen,2018,04,29,17,45,Queen of Alberni,123
+2,Horseshoe Bay,Departure Bay,2018,04,17,18,35,Queen of Surrey,107
+30,Duke Point,Tsawwassen,2018,04,05,12,45,Queen of Alberni,119
+3,Horseshoe Bay,Langdale,2018,04,08,22,55,Queen of Surrey,52
+4,Swartz Bay,Fulford Harbour,2018,04,16,17,00,Skeena Queen,30
+30,Duke Point,Tsawwassen,2018,04,06,15,15,Queen of Coquitlam,125
+8,Horseshoe Bay,Bowen Island,2018,04,06,09,05,Queen of Capilano,23
+4,Swartz Bay,Fulford Harbour,2018,04,10,09,00,Skeena Queen,28
+4,Swartz Bay,Fulford Harbour,2018,04,18,13,00,Skeena Queen,46
+2,Horseshoe Bay,Departure Bay,2018,04,16,06,15,Queen of Oak Bay,109
+1,Tsawwassen,Swartz Bay,2018,04,14,17,00,Spirit of Vancouver Island,92
+3,Langdale,Horseshoe Bay,2018,04,22,06,20,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,15,07,30,Queen of Surrey,40
+8,Horseshoe Bay,Bowen Island,2018,04,18,17,45,Queen of Capilano,27
+4,Swartz Bay,Fulford Harbour,2018,04,18,15,00,Skeena Queen,40
+4,Swartz Bay,Fulford Harbour,2018,04,13,17,00,Skeena Queen,30
+4,Swartz Bay,Fulford Harbour,2018,04,25,21,45,Skeena Queen,39
+30,Duke Point,Tsawwassen,2018,04,26,07,45,Queen of Alberni,115
+1,Swartz Bay,Tsawwassen,2018,04,27,09,00,Coastal Renaissance,90
+30,Tsawwassen,Duke Point,2018,04,29,15,15,Queen of Alberni,121
+2,Departure Bay,Horseshoe Bay,2018,04,04,08,25,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,26,09,45,Queen of Surrey,41
+3,Langdale,Horseshoe Bay,2018,04,30,17,25,Queen of Surrey,71
+1,Tsawwassen,Swartz Bay,2018,04,26,09,00,Spirit of Vancouver Island,92
+30,Duke Point,Tsawwassen,2018,04,06,07,45,Queen of Alberni,119
+30,Tsawwassen,Duke Point,2018,04,07,07,45,Queen of Coquitlam,119
+3,Langdale,Horseshoe Bay,2018,04,25,15,15,Queen of Surrey,45
+3,Langdale,Horseshoe Bay,2018,04,15,06,20,Queen of Surrey,40
+3,Langdale,Horseshoe Bay,2018,04,17,10,50,Queen of Surrey,40
+2,Departure Bay,Horseshoe Bay,2018,04,19,08,25,Queen of Oak Bay,107
+1,Swartz Bay,Tsawwassen,2018,04,25,08,00,Coastal Inspiration,90
+2,Horseshoe Bay,Departure Bay,2018,04,13,15,45,Queen of Oak Bay,103
+2,Departure Bay,Horseshoe Bay,2018,04,30,15,20,Queen of Cowichan,106
+3,Horseshoe Bay,Langdale,2018,04,04,07,30,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,18,07,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,25,09,45,Queen of Surrey,45
+1,Tsawwassen,Swartz Bay,2018,04,09,17,00,Spirit of Vancouver Island,90
+8,Horseshoe Bay,Bowen Island,2018,04,19,22,00,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,13,13,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,28,09,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,22,19,50,Queen of Cowichan,38
+8,Horseshoe Bay,Bowen Island,2018,04,26,20,00,Queen of Capilano,22
+3,Horseshoe Bay,Langdale,2018,04,30,17,30,Queen of Cowichan,40
+1,Swartz Bay,Tsawwassen,2018,04,20,19,00,Spirit of Vancouver Island,92
+30,Duke Point,Tsawwassen,2018,04,10,05,15,Queen of Coquitlam,119
+3,Horseshoe Bay,Langdale,2018,04,17,17,30,Queen of Cowichan,46
+3,Langdale,Horseshoe Bay,2018,04,23,10,50,Queen of Surrey,44
+4,Swartz Bay,Fulford Harbour,2018,04,07,17,00,Skeena Queen,28
+8,Horseshoe Bay,Bowen Island,2018,04,09,11,25,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,15,15,30,Queen of Capilano,16
+4,Swartz Bay,Fulford Harbour,2018,04,28,09,00,Skeena Queen,34
+3,Langdale,Horseshoe Bay,2018,04,24,10,50,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,09,15,00,Skeena Queen,30
+1,Swartz Bay,Tsawwassen,2018,04,08,16,00,Coastal Inspiration,90
+8,Horseshoe Bay,Bowen Island,2018,04,02,09,05,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,13,14,20,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,29,20,55,Queen of Cowichan,45
+2,Horseshoe Bay,Departure Bay,2018,04,07,08,25,Queen of Cowichan,107
+1,Swartz Bay,Tsawwassen,2018,04,04,09,00,Coastal Renaissance,96
+30,Duke Point,Tsawwassen,2018,04,14,17,45,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,01,07,00,Coastal Celebration,94
+2,Departure Bay,Horseshoe Bay,2018,04,24,17,55,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,08,09,45,Queen of Surrey,40
+1,Tsawwassen,Swartz Bay,2018,04,01,09,00,Spirit of Vancouver Island,93
+30,Tsawwassen,Duke Point,2018,04,11,17,45,Queen of Coquitlam,117
+3,Horseshoe Bay,Langdale,2018,04,19,11,55,Queen of Surrey,52
+4,Swartz Bay,Fulford Harbour,2018,04,21,21,00,Skeena Queen,26
+30,Duke Point,Tsawwassen,2018,04,19,10,15,Queen of Coquitlam,119
+30,Duke Point,Tsawwassen,2018,04,26,20,15,Queen of Coquitlam,121
+3,Horseshoe Bay,Langdale,2018,04,14,19,50,Queen of Cowichan,40
+8,Horseshoe Bay,Bowen Island,2018,04,03,08,00,Queen of Capilano,26
+8,Horseshoe Bay,Bowen Island,2018,04,20,22,00,Queen of Capilano,28
+2,Horseshoe Bay,Departure Bay,2018,04,26,08,25,Queen of Cowichan,111
+1,Tsawwassen,Swartz Bay,2018,04,22,21,00,Spirit of Vancouver Island,92
+4,Swartz Bay,Fulford Harbour,2018,04,13,09,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,14,05,50,Queen of Capilano,20
+1,Tsawwassen,Swartz Bay,2018,04,19,13,00,Spirit of Vancouver Island,90
+1,Swartz Bay,Tsawwassen,2018,04,30,21,00,Coastal Renaissance,88
+1,Tsawwassen,Swartz Bay,2018,04,12,14,00,Coastal Inspiration,94
+1,Swartz Bay,Tsawwassen,2018,04,28,11,00,Spirit of Vancouver Island,92
+30,Tsawwassen,Duke Point,2018,04,09,22,45,Queen of Coquitlam,120
+3,Horseshoe Bay,Langdale,2018,04,26,16,20,Queen of Surrey,68
+8,Horseshoe Bay,Bowen Island,2018,04,29,10,15,Queen of Capilano,19
+4,Swartz Bay,Fulford Harbour,2018,04,16,21,00,Skeena Queen,36
+4,Swartz Bay,Fulford Harbour,2018,04,15,17,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,26,08,00,Queen of New Westminster,86
+3,Horseshoe Bay,Langdale,2018,04,09,16,20,Queen of Surrey,39
+30,Duke Point,Tsawwassen,2018,04,24,07,45,Queen of New Westminster,123
+2,Horseshoe Bay,Departure Bay,2018,04,28,08,25,Queen of Cowichan,109
+1,Swartz Bay,Tsawwassen,2018,04,03,21,00,Coastal Celebration,89
+30,Tsawwassen,Duke Point,2018,04,04,20,15,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,06,22,00,Queen of Capilano,16
+30,Tsawwassen,Duke Point,2018,04,14,10,15,Queen of Alberni,121
+1,Tsawwassen,Swartz Bay,2018,04,09,11,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,30,22,00,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,17,13,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,10,22,00,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,17,17,45,Queen of Coquitlam,119
+30,Tsawwassen,Duke Point,2018,04,25,05,15,Queen of New Westminster,127
+2,Horseshoe Bay,Departure Bay,2018,04,24,08,25,Queen of Cowichan,107
+30,Tsawwassen,Duke Point,2018,04,03,22,45,Coastal Inspiration,122
+2,Horseshoe Bay,Departure Bay,2018,04,16,13,00,Queen of Cowichan,102
+2,Departure Bay,Horseshoe Bay,2018,04,13,17,55,Queen of Oak Bay,103
+30,Duke Point,Tsawwassen,2018,04,30,17,45,Queen of Alberni,125
+8,Horseshoe Bay,Bowen Island,2018,04,16,10,15,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,20,17,00,Spirit of Vancouver Island,94
+30,Tsawwassen,Duke Point,2018,04,02,07,45,Coastal Inspiration,117
+3,Horseshoe Bay,Langdale,2018,04,11,17,30,Queen of Cowichan,50
+30,Duke Point,Tsawwassen,2018,04,10,07,45,Queen of Alberni,115
+30,Tsawwassen,Duke Point,2018,04,05,05,15,Queen of Alberni,123
+3,Langdale,Horseshoe Bay,2018,04,03,08,40,Queen of Surrey,40
+2,Departure Bay,Horseshoe Bay,2018,04,29,06,15,Queen of Cowichan,101
+3,Langdale,Horseshoe Bay,2018,04,01,10,50,Queen of Surrey,44
+2,Departure Bay,Horseshoe Bay,2018,04,15,10,40,Queen of Cowichan,104
+2,Departure Bay,Horseshoe Bay,2018,04,15,13,00,Queen of Oak Bay,104
+1,Swartz Bay,Tsawwassen,2018,04,30,12,00,Coastal Inspiration,92
+4,Swartz Bay,Fulford Harbour,2018,04,07,11,00,Skeena Queen,38
+3,Langdale,Horseshoe Bay,2018,04,25,08,40,Queen of Surrey,42
+3,Langdale,Horseshoe Bay,2018,04,07,08,40,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,18,15,00,Spirit of Vancouver Island,96
+3,Horseshoe Bay,Langdale,2018,04,10,16,20,Queen of Surrey,44
+30,Duke Point,Tsawwassen,2018,04,16,18,45,Queen of New Westminster,115
+8,Horseshoe Bay,Bowen Island,2018,04,25,15,30,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,20,20,00,Queen of Capilano,36
+3,Langdale,Horseshoe Bay,2018,04,15,13,05,Queen of Surrey,41
+3,Horseshoe Bay,Langdale,2018,04,03,14,10,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,28,18,00,Queen of New Westminster,91
+30,Duke Point,Tsawwassen,2018,04,04,10,15,Queen of Coquitlam,117
+3,Langdale,Horseshoe Bay,2018,04,18,06,20,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,13,15,30,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,28,10,40,Queen of Oak Bay,104
+2,Horseshoe Bay,Departure Bay,2018,04,14,13,00,Queen of Cowichan,108
+8,Horseshoe Bay,Bowen Island,2018,04,16,20,00,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,30,09,00,Coastal Renaissance,90
+2,Horseshoe Bay,Departure Bay,2018,04,04,13,00,Queen of Cowichan,102
+1,Swartz Bay,Tsawwassen,2018,04,16,12,00,Coastal Inspiration,90
+1,Swartz Bay,Tsawwassen,2018,04,19,09,00,Coastal Renaissance,94
+3,Horseshoe Bay,Langdale,2018,04,05,09,45,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,20,10,00,Queen of New Westminster,90
+2,Departure Bay,Horseshoe Bay,2018,04,27,10,40,Queen of Cowichan,104
+1,Tsawwassen,Swartz Bay,2018,04,20,18,00,Coastal Inspiration,92
+2,Horseshoe Bay,Departure Bay,2018,04,01,15,45,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,12,07,00,Coastal Renaissance,88
+4,Swartz Bay,Fulford Harbour,2018,04,22,19,00,Skeena Queen,46
+3,Langdale,Horseshoe Bay,2018,04,05,08,40,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,03,11,00,Spirit of Vancouver Island,94
+8,Horseshoe Bay,Bowen Island,2018,04,16,12,35,Queen of Capilano,17
+1,Swartz Bay,Tsawwassen,2018,04,29,22,00,Queen of New Westminster,82
+2,Horseshoe Bay,Departure Bay,2018,04,29,06,15,Queen of Oak Bay,107
+8,Horseshoe Bay,Bowen Island,2018,04,16,17,45,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,13,20,05,Queen of Oak Bay,109
+3,Horseshoe Bay,Langdale,2018,04,23,17,30,Queen of Cowichan,44
+3,Langdale,Horseshoe Bay,2018,04,28,20,55,Queen of Cowichan,43
+1,Swartz Bay,Tsawwassen,2018,04,15,21,00,Coastal Renaissance,94
+4,Swartz Bay,Fulford Harbour,2018,04,12,13,00,Skeena Queen,26
+30,Duke Point,Tsawwassen,2018,04,18,20,15,Queen of Coquitlam,121
+2,Departure Bay,Horseshoe Bay,2018,04,04,17,55,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,15,17,55,Queen of Oak Bay,109
+8,Horseshoe Bay,Bowen Island,2018,04,26,14,20,Queen of Capilano,22
+1,Swartz Bay,Tsawwassen,2018,04,29,21,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,02,21,00,Queen of Capilano,26
+30,Duke Point,Tsawwassen,2018,04,17,07,45,Queen of Alberni,121
+30,Duke Point,Tsawwassen,2018,04,02,07,45,Queen of Alberni,115
+8,Horseshoe Bay,Bowen Island,2018,04,27,08,00,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,17,17,45,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,19,19,00,Coastal Renaissance,92
+4,Swartz Bay,Fulford Harbour,2018,04,15,13,00,Skeena Queen,28
+1,Swartz Bay,Tsawwassen,2018,04,10,15,00,Spirit of Vancouver Island,90
+2,Horseshoe Bay,Departure Bay,2018,04,18,06,15,Queen of Oak Bay,105
+30,Duke Point,Tsawwassen,2018,04,15,17,45,Queen of Alberni,135
+4,Swartz Bay,Fulford Harbour,2018,04,14,21,00,Skeena Queen,36
+1,Swartz Bay,Tsawwassen,2018,04,22,11,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,20,21,00,Queen of Capilano,34
+30,Duke Point,Tsawwassen,2018,04,16,15,15,Queen of Coquitlam,123
+2,Horseshoe Bay,Departure Bay,2018,04,20,20,05,Queen of Oak Bay,113
+8,Horseshoe Bay,Bowen Island,2018,04,12,14,20,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,20,09,05,Queen of Capilano,23
+4,Swartz Bay,Fulford Harbour,2018,04,05,07,00,Skeena Queen,46
+2,Horseshoe Bay,Departure Bay,2018,04,17,22,10,Queen of Cowichan,105
+2,Departure Bay,Horseshoe Bay,2018,04,10,06,15,Queen of Cowichan,109
+3,Langdale,Horseshoe Bay,2018,04,17,15,15,Queen of Surrey,41
+3,Horseshoe Bay,Langdale,2018,04,15,22,55,Queen of Surrey,59
+2,Horseshoe Bay,Departure Bay,2018,04,22,10,40,Queen of Oak Bay,106
+1,Swartz Bay,Tsawwassen,2018,04,29,08,00,Coastal Inspiration,110
+30,Duke Point,Tsawwassen,2018,04,05,05,15,Queen of Coquitlam,125
+2,Departure Bay,Horseshoe Bay,2018,04,01,08,25,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,18,22,10,Queen of Oak Bay,122
+2,Departure Bay,Horseshoe Bay,2018,04,25,10,40,Queen of Cowichan,106
+4,Swartz Bay,Fulford Harbour,2018,04,26,17,00,Skeena Queen,38
+1,Swartz Bay,Tsawwassen,2018,04,14,07,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,05,09,05,Queen of Capilano,23
+4,Swartz Bay,Fulford Harbour,2018,04,06,17,00,Skeena Queen,32
+1,Tsawwassen,Swartz Bay,2018,04,22,22,00,Coastal Inspiration,84
+30,Tsawwassen,Duke Point,2018,04,15,12,45,Queen of Coquitlam,117
+3,Horseshoe Bay,Langdale,2018,04,02,22,55,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,29,15,00,Spirit of Vancouver Island,94
+1,Tsawwassen,Swartz Bay,2018,04,29,12,00,Queen of New Westminster,88
+1,Tsawwassen,Swartz Bay,2018,04,22,13,00,Spirit of Vancouver Island,90
+1,Tsawwassen,Swartz Bay,2018,04,29,15,00,Coastal Renaissance,102
+30,Tsawwassen,Duke Point,2018,04,29,12,45,Queen of Coquitlam,111
+1,Tsawwassen,Swartz Bay,2018,04,19,07,00,Coastal Renaissance,90
+1,Swartz Bay,Tsawwassen,2018,04,21,21,00,Coastal Renaissance,88
+1,Swartz Bay,Tsawwassen,2018,04,02,18,00,Queen of New Westminster,86
+3,Horseshoe Bay,Langdale,2018,04,01,07,30,Queen of Surrey,40
+2,Horseshoe Bay,Departure Bay,2018,04,18,20,05,Queen of Oak Bay,121
+30,Duke Point,Tsawwassen,2018,04,16,05,15,Queen of Coquitlam,137
+1,Tsawwassen,Swartz Bay,2018,04,02,09,00,Spirit of Vancouver Island,88
+3,Langdale,Horseshoe Bay,2018,04,04,17,25,Queen of Surrey,39
+1,Tsawwassen,Swartz Bay,2018,04,22,08,00,Queen of New Westminster,86
+1,Swartz Bay,Tsawwassen,2018,04,11,07,00,Spirit of Vancouver Island,100
+4,Swartz Bay,Fulford Harbour,2018,04,17,11,00,Skeena Queen,38
+4,Swartz Bay,Fulford Harbour,2018,04,09,13,00,Skeena Queen,28
+4,Swartz Bay,Fulford Harbour,2018,04,05,11,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,20,17,45,Queen of Coquitlam,145
+30,Tsawwassen,Duke Point,2018,04,13,17,45,Queen of Coquitlam,137
+1,Swartz Bay,Tsawwassen,2018,04,30,19,00,Spirit of Vancouver Island,94
+3,Langdale,Horseshoe Bay,2018,04,17,06,20,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,03,10,15,Queen of Capilano,31
+1,Swartz Bay,Tsawwassen,2018,04,05,13,00,Coastal Renaissance,96
+3,Horseshoe Bay,Langdale,2018,04,22,09,45,Queen of Surrey,41
+3,Langdale,Horseshoe Bay,2018,04,02,10,50,Queen of Surrey,38
+30,Tsawwassen,Duke Point,2018,04,18,12,45,Queen of Coquitlam,119
+30,Duke Point,Tsawwassen,2018,04,17,20,15,Queen of Coquitlam,121
+2,Horseshoe Bay,Departure Bay,2018,04,16,20,05,Queen of Oak Bay,105
+2,Horseshoe Bay,Departure Bay,2018,04,25,08,25,Queen of Cowichan,103
+2,Horseshoe Bay,Departure Bay,2018,04,15,15,45,Queen of Oak Bay,103
+1,Tsawwassen,Swartz Bay,2018,04,17,15,00,Coastal Renaissance,96
+1,Tsawwassen,Swartz Bay,2018,04,15,11,00,Coastal Renaissance,100
+1,Tsawwassen,Swartz Bay,2018,04,08,21,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,22,06,15,Queen of Cowichan,99
+4,Swartz Bay,Fulford Harbour,2018,04,22,17,00,Skeena Queen,76
+8,Horseshoe Bay,Bowen Island,2018,04,20,10,15,Queen of Capilano,17
+1,Swartz Bay,Tsawwassen,2018,04,12,07,00,Spirit of Vancouver Island,90
+2,Departure Bay,Horseshoe Bay,2018,04,20,13,00,Queen of Oak Bay,104
+2,Horseshoe Bay,Departure Bay,2018,04,21,18,35,Queen of Surrey,105
+1,Swartz Bay,Tsawwassen,2018,04,14,19,00,Spirit of Vancouver Island,90
+30,Duke Point,Tsawwassen,2018,04,24,12,45,Queen of New Westminster,123
+4,Swartz Bay,Fulford Harbour,2018,04,04,17,00,Skeena Queen,32
+1,Tsawwassen,Swartz Bay,2018,04,18,07,00,Coastal Renaissance,88
+2,Horseshoe Bay,Departure Bay,2018,04,23,06,15,Queen of Oak Bay,103
+3,Langdale,Horseshoe Bay,2018,04,26,06,20,Queen of Surrey,40
+2,Departure Bay,Horseshoe Bay,2018,04,04,06,15,Queen of Cowichan,105
+1,Swartz Bay,Tsawwassen,2018,04,22,13,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,20,15,00,Skeena Queen,46
+1,Swartz Bay,Tsawwassen,2018,04,10,21,00,Coastal Renaissance,86
+2,Departure Bay,Horseshoe Bay,2018,04,11,15,20,Queen of Cowichan,106
+30,Tsawwassen,Duke Point,2018,04,11,15,15,Queen of Alberni,119
+3,Horseshoe Bay,Langdale,2018,04,16,07,30,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,29,09,00,Coastal Renaissance,88
+2,Horseshoe Bay,Departure Bay,2018,04,22,13,00,Queen of Cowichan,102
+8,Horseshoe Bay,Bowen Island,2018,04,21,22,00,Queen of Capilano,17
+30,Duke Point,Tsawwassen,2018,04,30,07,45,Queen of Alberni,117
+3,Langdale,Horseshoe Bay,2018,04,25,06,20,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,14,17,45,Queen of Capilano,19
+30,Tsawwassen,Duke Point,2018,04,08,12,45,Queen of Coquitlam,123
+30,Tsawwassen,Duke Point,2018,04,14,07,45,Queen of Coquitlam,113
+2,Departure Bay,Horseshoe Bay,2018,04,02,16,20,Queen of Coquitlam,104
+2,Horseshoe Bay,Departure Bay,2018,04,08,06,15,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,04,15,20,Queen of Cowichan,106
+30,Tsawwassen,Duke Point,2018,04,21,12,45,Queen of Coquitlam,119
+8,Horseshoe Bay,Bowen Island,2018,04,01,16,35,Queen of Capilano,25
+2,Departure Bay,Horseshoe Bay,2018,04,25,13,00,Queen of Oak Bay,106
+30,Tsawwassen,Duke Point,2018,04,07,15,15,Queen of Alberni,123
+8,Horseshoe Bay,Bowen Island,2018,04,07,09,05,Queen of Capilano,19
+2,Departure Bay,Horseshoe Bay,2018,04,12,13,00,Queen of Oak Bay,104
+4,Swartz Bay,Fulford Harbour,2018,04,30,07,00,Skeena Queen,38
+4,Swartz Bay,Fulford Harbour,2018,04,06,21,00,Skeena Queen,34
+3,Langdale,Horseshoe Bay,2018,04,28,17,25,Queen of Surrey,53
+8,Horseshoe Bay,Bowen Island,2018,04,15,10,15,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,04,08,00,Queen of Capilano,28
+2,Horseshoe Bay,Departure Bay,2018,04,05,10,40,Queen of Oak Bay,104
+1,Tsawwassen,Swartz Bay,2018,04,19,18,00,Coastal Inspiration,84
+8,Horseshoe Bay,Bowen Island,2018,04,06,17,45,Queen of Capilano,16
+1,Tsawwassen,Swartz Bay,2018,04,28,13,00,Spirit of Vancouver Island,94
+4,Swartz Bay,Fulford Harbour,2018,04,13,07,00,Skeena Queen,32
+3,Langdale,Horseshoe Bay,2018,04,10,08,40,Queen of Surrey,42
+3,Langdale,Horseshoe Bay,2018,04,06,15,15,Queen of Surrey,49
+3,Horseshoe Bay,Langdale,2018,04,02,14,10,Queen of Surrey,50
+1,Tsawwassen,Swartz Bay,2018,04,08,15,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,27,21,00,Spirit of Vancouver Island,92
+1,Swartz Bay,Tsawwassen,2018,04,18,09,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,25,21,00,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,03,11,55,Queen of Surrey,41
+3,Horseshoe Bay,Langdale,2018,04,06,07,30,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,24,19,50,Queen of Cowichan,42
+4,Swartz Bay,Fulford Harbour,2018,04,09,07,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,26,17,00,Spirit of Vancouver Island,98
+1,Swartz Bay,Tsawwassen,2018,04,08,19,00,Spirit of Vancouver Island,90
+2,Departure Bay,Horseshoe Bay,2018,04,24,08,25,Queen of Oak Bay,105
+1,Tsawwassen,Swartz Bay,2018,04,26,15,00,Coastal Renaissance,100
+2,Departure Bay,Horseshoe Bay,2018,04,03,22,10,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,17,08,25,Queen of Oak Bay,107
+30,Tsawwassen,Duke Point,2018,04,26,17,45,Queen of Coquitlam,129
+1,Swartz Bay,Tsawwassen,2018,04,27,11,00,Spirit of Vancouver Island,100
+30,Duke Point,Tsawwassen,2018,04,18,07,45,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,27,21,00,Queen of Capilano,32
+8,Horseshoe Bay,Bowen Island,2018,04,10,18,50,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,05,17,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,25,15,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,23,16,35,Queen of Capilano,21
+30,Tsawwassen,Duke Point,2018,04,15,17,45,Queen of Coquitlam,123
+1,Swartz Bay,Tsawwassen,2018,04,09,09,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,18,11,25,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,15,09,00,Spirit of Vancouver Island,98
+3,Horseshoe Bay,Langdale,2018,04,14,11,55,Queen of Surrey,40
+3,Langdale,Horseshoe Bay,2018,04,22,20,55,Queen of Cowichan,39
+1,Swartz Bay,Tsawwassen,2018,04,27,10,00,Queen of New Westminster,118
+3,Langdale,Horseshoe Bay,2018,04,14,20,55,Queen of Cowichan,41
+1,Swartz Bay,Tsawwassen,2018,04,22,17,00,Coastal Renaissance,90
+30,Duke Point,Tsawwassen,2018,04,10,17,45,Queen of Alberni,119
+2,Horseshoe Bay,Departure Bay,2018,04,19,18,35,Queen of Surrey,117
+8,Horseshoe Bay,Bowen Island,2018,04,12,08,00,Queen of Capilano,22
+8,Horseshoe Bay,Bowen Island,2018,04,01,12,35,Queen of Capilano,21
+8,Horseshoe Bay,Bowen Island,2018,04,25,05,50,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,14,11,25,Queen of Capilano,24
+3,Langdale,Horseshoe Bay,2018,04,20,15,15,Queen of Surrey,55
+2,Departure Bay,Horseshoe Bay,2018,04,13,22,10,Queen of Oak Bay,109
+2,Departure Bay,Horseshoe Bay,2018,04,06,22,10,Queen of Oak Bay,121
+1,Tsawwassen,Swartz Bay,2018,04,06,17,00,Spirit of Vancouver Island,96
+3,Horseshoe Bay,Langdale,2018,04,28,09,45,Queen of Surrey,47
+1,Tsawwassen,Swartz Bay,2018,04,16,10,00,Coastal Inspiration,108
+8,Horseshoe Bay,Bowen Island,2018,04,15,11,25,Queen of Capilano,16
+30,Duke Point,Tsawwassen,2018,04,11,22,45,Queen of Alberni,121
+1,Tsawwassen,Swartz Bay,2018,04,25,15,00,Coastal Renaissance,94
+1,Swartz Bay,Tsawwassen,2018,04,06,11,00,Spirit of Vancouver Island,92
+2,Horseshoe Bay,Departure Bay,2018,04,26,15,45,Queen of Oak Bay,105
+30,Tsawwassen,Duke Point,2018,04,12,16,15,Queen of New Westminster,121
+1,Swartz Bay,Tsawwassen,2018,04,04,07,00,Spirit of Vancouver Island,88
+1,Tsawwassen,Swartz Bay,2018,04,12,09,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,09,09,05,Queen of Capilano,21
+1,Swartz Bay,Tsawwassen,2018,04,13,16,00,Coastal Inspiration,92
+1,Swartz Bay,Tsawwassen,2018,04,23,13,00,Coastal Renaissance,94
+30,Duke Point,Tsawwassen,2018,04,21,05,15,Queen of Coquitlam,127
+1,Swartz Bay,Tsawwassen,2018,04,20,18,00,Queen of New Westminster,94
+8,Horseshoe Bay,Bowen Island,2018,04,14,18,50,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,30,05,15,Queen of Coquitlam,119
+4,Swartz Bay,Fulford Harbour,2018,04,15,15,00,Skeena Queen,32
+2,Departure Bay,Horseshoe Bay,2018,04,06,17,55,Queen of Oak Bay,121
+1,Swartz Bay,Tsawwassen,2018,04,12,09,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,09,14,20,Queen of Capilano,18
+2,Departure Bay,Horseshoe Bay,2018,04,09,20,45,Queen of Surrey,103
+1,Swartz Bay,Tsawwassen,2018,04,27,08,00,Coastal Inspiration,92
+1,Swartz Bay,Tsawwassen,2018,04,03,19,00,Spirit of Vancouver Island,90
+2,Horseshoe Bay,Departure Bay,2018,04,18,18,35,Queen of Surrey,107
+1,Swartz Bay,Tsawwassen,2018,04,26,21,00,Coastal Renaissance,86
+3,Horseshoe Bay,Langdale,2018,04,18,16,20,Queen of Surrey,42
+3,Langdale,Horseshoe Bay,2018,04,16,10,50,Queen of Surrey,58
+8,Horseshoe Bay,Bowen Island,2018,04,09,17,45,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,30,07,00,Spirit of Vancouver Island,92
+1,Swartz Bay,Tsawwassen,2018,04,09,15,00,Spirit of Vancouver Island,90
+3,Horseshoe Bay,Langdale,2018,04,05,17,30,Queen of Cowichan,42
+1,Swartz Bay,Tsawwassen,2018,04,16,09,00,Coastal Renaissance,92
+3,Horseshoe Bay,Langdale,2018,04,01,22,55,Queen of Surrey,44
+1,Tsawwassen,Swartz Bay,2018,04,01,18,00,Coastal Renaissance,90
+30,Tsawwassen,Duke Point,2018,04,12,20,15,Queen of Alberni,120
+1,Tsawwassen,Swartz Bay,2018,04,28,12,00,Queen of New Westminster,92
+1,Swartz Bay,Tsawwassen,2018,04,09,13,00,Coastal Renaissance,87
+1,Swartz Bay,Tsawwassen,2018,04,28,09,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,11,12,35,Queen of Capilano,17
+3,Langdale,Horseshoe Bay,2018,04,20,13,05,Queen of Surrey,53
+1,Tsawwassen,Swartz Bay,2018,04,22,07,00,Coastal Renaissance,100
+2,Departure Bay,Horseshoe Bay,2018,04,09,22,10,Queen of Oak Bay,106
+30,Duke Point,Tsawwassen,2018,04,17,16,00,Coastal Inspiration,120
+2,Horseshoe Bay,Departure Bay,2018,04,13,10,40,Queen of Oak Bay,108
+8,Horseshoe Bay,Bowen Island,2018,04,07,17,45,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,27,18,00,Queen of New Westminster,120
+8,Horseshoe Bay,Bowen Island,2018,04,07,11,25,Queen of Capilano,17
+30,Duke Point,Tsawwassen,2018,04,17,10,15,Queen of Coquitlam,117
+3,Horseshoe Bay,Langdale,2018,04,25,16,20,Queen of Surrey,48
+1,Swartz Bay,Tsawwassen,2018,04,11,13,00,Coastal Renaissance,94
+1,Tsawwassen,Swartz Bay,2018,04,01,22,00,Coastal Renaissance,78
+8,Horseshoe Bay,Bowen Island,2018,04,18,12,35,Queen of Capilano,17
+30,Duke Point,Tsawwassen,2018,04,01,17,45,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,27,19,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,14,10,15,Queen of Capilano,21
+2,Departure Bay,Horseshoe Bay,2018,04,11,17,55,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,28,14,20,Queen of Capilano,24
+3,Horseshoe Bay,Langdale,2018,04,13,17,30,Queen of Cowichan,50
+1,Tsawwassen,Swartz Bay,2018,04,29,19,00,Coastal Renaissance,92
+2,Departure Bay,Horseshoe Bay,2018,04,14,17,55,Queen of Oak Bay,103
+1,Tsawwassen,Swartz Bay,2018,04,29,21,00,Spirit of Vancouver Island,88
+3,Horseshoe Bay,Langdale,2018,04,15,17,30,Queen of Cowichan,42
+4,Swartz Bay,Fulford Harbour,2018,04,19,11,00,Skeena Queen,40
+1,Swartz Bay,Tsawwassen,2018,04,19,17,00,Coastal Renaissance,90
+1,Swartz Bay,Tsawwassen,2018,04,27,07,00,Spirit of Vancouver Island,94
+4,Swartz Bay,Fulford Harbour,2018,04,16,11,00,Skeena Queen,48
+1,Swartz Bay,Tsawwassen,2018,04,28,07,00,Spirit of Vancouver Island,90
+1,Tsawwassen,Swartz Bay,2018,04,18,18,30,Coastal Inspiration,86
+2,Horseshoe Bay,Departure Bay,2018,04,01,22,10,Queen of Cowichan,110
+1,Tsawwassen,Swartz Bay,2018,04,09,07,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,21,08,25,Queen of Oak Bay,103
+2,Departure Bay,Horseshoe Bay,2018,04,25,20,45,Queen of Surrey,103
+8,Horseshoe Bay,Bowen Island,2018,04,08,11,25,Queen of Capilano,23
+4,Swartz Bay,Fulford Harbour,2018,04,22,11,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,30,14,00,Coastal Inspiration,86
+3,Horseshoe Bay,Langdale,2018,04,18,07,30,Queen of Surrey,41
+3,Horseshoe Bay,Langdale,2018,04,18,19,50,Queen of Cowichan,44
+30,Tsawwassen,Duke Point,2018,04,04,17,45,Queen of Coquitlam,113
+3,Langdale,Horseshoe Bay,2018,04,03,10,50,Queen of Surrey,45
+1,Swartz Bay,Tsawwassen,2018,04,25,09,00,Coastal Renaissance,94
+3,Langdale,Horseshoe Bay,2018,04,23,15,15,Queen of Surrey,41
+8,Horseshoe Bay,Bowen Island,2018,04,30,20,00,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,30,22,55,Queen of Surrey,55
+30,Tsawwassen,Duke Point,2018,04,14,12,45,Queen of Coquitlam,115
+30,Duke Point,Tsawwassen,2018,04,30,14,30,Queen of New Westminster,128
+1,Tsawwassen,Swartz Bay,2018,04,02,21,00,Spirit of Vancouver Island,90
+2,Departure Bay,Horseshoe Bay,2018,04,05,10,40,Queen of Cowichan,106
+30,Duke Point,Tsawwassen,2018,04,17,15,15,Queen of Coquitlam,123
+1,Swartz Bay,Tsawwassen,2018,04,21,08,00,Coastal Inspiration,92
+2,Departure Bay,Horseshoe Bay,2018,04,13,20,45,Queen of Surrey,107
+3,Horseshoe Bay,Langdale,2018,04,30,07,30,Queen of Surrey,40
+1,Swartz Bay,Tsawwassen,2018,04,09,12,00,Coastal Inspiration,90
+3,Langdale,Horseshoe Bay,2018,04,18,18,40,Queen of Cowichan,42
+8,Horseshoe Bay,Bowen Island,2018,04,19,08,00,Queen of Capilano,24
+1,Swartz Bay,Tsawwassen,2018,04,11,15,00,Spirit of Vancouver Island,110
+2,Horseshoe Bay,Departure Bay,2018,04,24,20,05,Queen of Oak Bay,103
+30,Tsawwassen,Duke Point,2018,04,10,22,45,Queen of Coquitlam,123
+3,Langdale,Horseshoe Bay,2018,04,03,20,55,Queen of Cowichan,41
+1,Tsawwassen,Swartz Bay,2018,04,26,21,00,Spirit of Vancouver Island,97
+3,Langdale,Horseshoe Bay,2018,04,17,08,40,Queen of Surrey,40
+3,Langdale,Horseshoe Bay,2018,04,08,17,25,Queen of Surrey,49
+2,Departure Bay,Horseshoe Bay,2018,04,12,22,10,Queen of Oak Bay,106
+8,Horseshoe Bay,Bowen Island,2018,04,06,12,35,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,24,14,20,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,13,18,35,Queen of Surrey,109
+1,Tsawwassen,Swartz Bay,2018,04,14,11,00,Coastal Renaissance,98
+4,Swartz Bay,Fulford Harbour,2018,04,14,07,00,Skeena Queen,40
+3,Langdale,Horseshoe Bay,2018,04,11,08,40,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,01,14,00,Queen of New Westminster,88
+1,Tsawwassen,Swartz Bay,2018,04,25,13,00,Spirit of Vancouver Island,92
+4,Swartz Bay,Fulford Harbour,2018,04,19,09,00,Skeena Queen,48
+8,Horseshoe Bay,Bowen Island,2018,04,09,20,00,Queen of Capilano,16
+2,Departure Bay,Horseshoe Bay,2018,04,19,15,20,Queen of Cowichan,104
+3,Horseshoe Bay,Langdale,2018,04,01,17,30,Queen of Cowichan,44
+8,Horseshoe Bay,Bowen Island,2018,04,08,22,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,10,05,50,Queen of Capilano,20
+3,Langdale,Horseshoe Bay,2018,04,15,18,40,Queen of Cowichan,42
+30,Duke Point,Tsawwassen,2018,04,03,12,45,Queen of Alberni,119
+1,Swartz Bay,Tsawwassen,2018,04,14,15,00,Spirit of Vancouver Island,90
+2,Horseshoe Bay,Departure Bay,2018,04,15,13,00,Queen of Cowichan,98
+1,Tsawwassen,Swartz Bay,2018,04,16,14,00,Coastal Inspiration,88
+2,Departure Bay,Horseshoe Bay,2018,04,03,17,55,Queen of Oak Bay,105
+4,Swartz Bay,Fulford Harbour,2018,04,06,19,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,22,08,00,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,20,07,45,Queen of Coquitlam,131
+2,Departure Bay,Horseshoe Bay,2018,04,12,08,25,Queen of Oak Bay,107
+1,Swartz Bay,Tsawwassen,2018,04,17,17,00,Coastal Renaissance,100
+30,Duke Point,Tsawwassen,2018,04,20,10,15,Queen of Coquitlam,127
+1,Swartz Bay,Tsawwassen,2018,04,06,19,00,Spirit of Vancouver Island,88
+1,Swartz Bay,Tsawwassen,2018,04,20,17,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,25,17,45,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,01,22,00,Queen of Capilano,28
+30,Tsawwassen,Duke Point,2018,04,02,17,45,Coastal Inspiration,121
+8,Horseshoe Bay,Bowen Island,2018,04,02,12,35,Queen of Capilano,19
+30,Duke Point,Tsawwassen,2018,04,10,12,45,Queen of Alberni,117
+30,Tsawwassen,Duke Point,2018,04,06,05,15,Queen of Alberni,117
+4,Swartz Bay,Fulford Harbour,2018,04,03,21,00,Skeena Queen,26
+3,Langdale,Horseshoe Bay,2018,04,26,17,25,Queen of Surrey,69
+30,Duke Point,Tsawwassen,2018,04,21,12,45,Queen of Alberni,115
+30,Tsawwassen,Duke Point,2018,04,13,07,45,Queen of Coquitlam,112
+1,Tsawwassen,Swartz Bay,2018,04,11,18,30,Coastal Inspiration,82
+1,Tsawwassen,Swartz Bay,2018,04,10,09,00,Spirit of Vancouver Island,90
+1,Swartz Bay,Tsawwassen,2018,04,01,09,00,Coastal Celebration,96
+3,Langdale,Horseshoe Bay,2018,04,05,17,25,Queen of Surrey,49
+1,Tsawwassen,Swartz Bay,2018,04,28,11,00,Coastal Renaissance,94
+2,Departure Bay,Horseshoe Bay,2018,04,19,10,40,Queen of Cowichan,106
+1,Tsawwassen,Swartz Bay,2018,04,22,16,00,Queen of New Westminster,92
+30,Tsawwassen,Duke Point,2018,04,16,12,45,Queen of Coquitlam,117
+8,Horseshoe Bay,Bowen Island,2018,04,26,08,00,Queen of Capilano,28
+1,Swartz Bay,Tsawwassen,2018,04,15,18,00,Queen of New Westminster,88
+8,Horseshoe Bay,Bowen Island,2018,04,13,16,35,Queen of Capilano,21
+1,Tsawwassen,Swartz Bay,2018,04,20,21,00,Spirit of Vancouver Island,90
+3,Langdale,Horseshoe Bay,2018,04,29,17,25,Queen of Surrey,63
+8,Horseshoe Bay,Bowen Island,2018,04,10,15,30,Queen of Capilano,18
+4,Swartz Bay,Fulford Harbour,2018,04,29,09,00,Skeena Queen,32
+8,Horseshoe Bay,Bowen Island,2018,04,08,10,15,Queen of Capilano,17
+3,Langdale,Horseshoe Bay,2018,04,29,08,40,Queen of Surrey,40
+1,Swartz Bay,Tsawwassen,2018,04,07,08,00,Coastal Inspiration,100
+1,Swartz Bay,Tsawwassen,2018,04,01,16,00,Coastal Renaissance,90
+3,Horseshoe Bay,Langdale,2018,04,27,11,55,Queen of Surrey,53
+1,Swartz Bay,Tsawwassen,2018,04,08,18,00,Queen of New Westminster,88
+30,Tsawwassen,Duke Point,2018,04,23,05,15,Queen of New Westminster,127
+2,Horseshoe Bay,Departure Bay,2018,04,21,20,05,Queen of Oak Bay,103
+8,Horseshoe Bay,Bowen Island,2018,04,16,16,35,Queen of Capilano,17
+1,Swartz Bay,Tsawwassen,2018,04,04,17,00,Coastal Renaissance,90
+8,Horseshoe Bay,Bowen Island,2018,04,13,09,05,Queen of Capilano,23
+1,Swartz Bay,Tsawwassen,2018,04,15,11,00,Spirit of Vancouver Island,96
+4,Swartz Bay,Fulford Harbour,2018,04,30,17,00,Skeena Queen,40
+3,Horseshoe Bay,Langdale,2018,04,26,17,30,Queen of Cowichan,44
+1,Tsawwassen,Swartz Bay,2018,04,03,10,00,Coastal Renaissance,92
+2,Horseshoe Bay,Departure Bay,2018,04,29,13,00,Queen of Cowichan,104
+2,Horseshoe Bay,Departure Bay,2018,04,09,13,00,Queen of Cowichan,100
+3,Langdale,Horseshoe Bay,2018,04,21,13,05,Queen of Surrey,43
+1,Tsawwassen,Swartz Bay,2018,04,30,07,00,Coastal Renaissance,94
+8,Horseshoe Bay,Bowen Island,2018,04,11,09,05,Queen of Capilano,31
+2,Departure Bay,Horseshoe Bay,2018,04,10,08,25,Queen of Oak Bay,107
+8,Horseshoe Bay,Bowen Island,2018,04,05,17,45,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,08,13,00,Coastal Renaissance,88
+2,Horseshoe Bay,Departure Bay,2018,04,30,18,35,Queen of Surrey,131
+8,Horseshoe Bay,Bowen Island,2018,04,02,18,50,Queen of Capilano,22
+4,Swartz Bay,Fulford Harbour,2018,04,04,11,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,26,09,05,Queen of Capilano,33
+4,Swartz Bay,Fulford Harbour,2018,04,28,15,00,Skeena Queen,28
+1,Tsawwassen,Swartz Bay,2018,04,29,11,00,Coastal Renaissance,90
+3,Horseshoe Bay,Langdale,2018,04,07,22,55,Queen of Surrey,43
+8,Horseshoe Bay,Bowen Island,2018,04,19,09,05,Queen of Capilano,27
+30,Tsawwassen,Duke Point,2018,04,02,22,45,Coastal Inspiration,124
+30,Duke Point,Tsawwassen,2018,04,19,05,15,Queen of Coquitlam,123
+30,Tsawwassen,Duke Point,2018,04,02,05,15,Queen of Alberni,118
+2,Departure Bay,Horseshoe Bay,2018,04,12,20,45,Queen of Surrey,105
+2,Horseshoe Bay,Departure Bay,2018,04,30,10,40,Queen of Oak Bay,104
+1,Swartz Bay,Tsawwassen,2018,04,29,17,00,Coastal Renaissance,100
+30,Duke Point,Tsawwassen,2018,04,27,10,15,Queen of Coquitlam,125
+2,Horseshoe Bay,Departure Bay,2018,04,06,10,40,Queen of Oak Bay,106
+30,Tsawwassen,Duke Point,2018,04,06,22,45,Queen of Coquitlam,120
+2,Departure Bay,Horseshoe Bay,2018,04,13,06,15,Queen of Cowichan,109
+8,Horseshoe Bay,Bowen Island,2018,04,10,10,15,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,05,19,00,Coastal Renaissance,90
+2,Horseshoe Bay,Departure Bay,2018,04,15,06,15,Queen of Oak Bay,107
+8,Horseshoe Bay,Bowen Island,2018,04,30,08,00,Queen of Capilano,22
+4,Swartz Bay,Fulford Harbour,2018,04,21,13,00,Skeena Queen,30
+1,Swartz Bay,Tsawwassen,2018,04,12,11,00,Spirit of Vancouver Island,90
+1,Swartz Bay,Tsawwassen,2018,04,10,07,00,Spirit of Vancouver Island,88
+3,Langdale,Horseshoe Bay,2018,04,08,06,20,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,22,17,30,Queen of Cowichan,40
+3,Langdale,Horseshoe Bay,2018,04,07,17,25,Queen of Surrey,45
+8,Horseshoe Bay,Bowen Island,2018,04,03,05,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,06,20,05,Queen of Oak Bay,121
+4,Swartz Bay,Fulford Harbour,2018,04,08,13,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,06,16,35,Queen of Capilano,21
+1,Tsawwassen,Swartz Bay,2018,04,11,21,00,Spirit of Vancouver Island,84
+1,Tsawwassen,Swartz Bay,2018,04,17,13,00,Spirit of Vancouver Island,98
+2,Departure Bay,Horseshoe Bay,2018,04,01,20,45,Queen of Surrey,109
+8,Horseshoe Bay,Bowen Island,2018,04,16,22,00,Queen of Capilano,16
+8,Horseshoe Bay,Bowen Island,2018,04,03,09,05,Queen of Capilano,31
+2,Horseshoe Bay,Departure Bay,2018,04,10,06,15,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,22,11,55,Queen of Surrey,41
+3,Langdale,Horseshoe Bay,2018,04,16,15,15,Queen of Surrey,49
+3,Horseshoe Bay,Langdale,2018,04,18,09,45,Queen of Surrey,41
+30,Tsawwassen,Duke Point,2018,04,03,05,15,Queen of Alberni,119
+1,Swartz Bay,Tsawwassen,2018,04,08,14,00,Queen of New Westminster,92
+1,Swartz Bay,Tsawwassen,2018,04,29,11,00,Spirit of Vancouver Island,88
+3,Horseshoe Bay,Langdale,2018,04,21,09,45,Queen of Surrey,40
+8,Horseshoe Bay,Bowen Island,2018,04,24,06,50,Queen of Capilano,20
+3,Horseshoe Bay,Langdale,2018,04,24,09,45,Queen of Surrey,41
+3,Horseshoe Bay,Langdale,2018,04,11,11,55,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,11,21,00,Skeena Queen,32
+8,Horseshoe Bay,Bowen Island,2018,04,04,05,50,Queen of Capilano,18
+4,Swartz Bay,Fulford Harbour,2018,04,13,11,00,Skeena Queen,30
+3,Horseshoe Bay,Langdale,2018,04,10,11,55,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,21,11,00,Spirit of Vancouver Island,94
+3,Langdale,Horseshoe Bay,2018,04,21,10,50,Queen of Surrey,44
+3,Langdale,Horseshoe Bay,2018,04,24,18,40,Queen of Cowichan,40
+8,Horseshoe Bay,Bowen Island,2018,04,22,14,20,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,17,22,00,Queen of Capilano,16
+30,Tsawwassen,Duke Point,2018,04,17,22,45,Queen of Coquitlam,120
+30,Duke Point,Tsawwassen,2018,04,12,17,45,Queen of Alberni,122
+4,Swartz Bay,Fulford Harbour,2018,04,18,19,00,Skeena Queen,44
+4,Swartz Bay,Fulford Harbour,2018,04,05,17,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,21,11,25,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,16,18,35,Queen of Surrey,107
+8,Horseshoe Bay,Bowen Island,2018,04,26,15,30,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,18,10,15,Queen of Capilano,23
+4,Swartz Bay,Fulford Harbour,2018,04,17,19,00,Skeena Queen,34
+30,Tsawwassen,Duke Point,2018,04,26,20,15,Queen of Alberni,121
+2,Horseshoe Bay,Departure Bay,2018,04,15,18,35,Queen of Surrey,125
+8,Horseshoe Bay,Bowen Island,2018,04,05,10,15,Queen of Capilano,19
+2,Departure Bay,Horseshoe Bay,2018,04,24,20,45,Queen of Surrey,109
+3,Langdale,Horseshoe Bay,2018,04,13,18,40,Queen of Cowichan,46
+1,Swartz Bay,Tsawwassen,2018,04,30,17,00,Coastal Renaissance,90
+3,Langdale,Horseshoe Bay,2018,04,15,17,25,Queen of Surrey,53
+8,Horseshoe Bay,Bowen Island,2018,04,05,12,35,Queen of Capilano,17
+4,Swartz Bay,Fulford Harbour,2018,04,01,15,00,Skeena Queen,42
+30,Tsawwassen,Duke Point,2018,04,16,22,45,Queen of Coquitlam,120
+8,Horseshoe Bay,Bowen Island,2018,04,04,15,30,Queen of Capilano,21
+3,Langdale,Horseshoe Bay,2018,04,19,10,50,Queen of Surrey,52
+8,Horseshoe Bay,Bowen Island,2018,04,26,05,50,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,11,18,50,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,18,15,00,Coastal Renaissance,88
+2,Departure Bay,Horseshoe Bay,2018,04,14,15,20,Queen of Cowichan,100
+8,Horseshoe Bay,Bowen Island,2018,04,20,12,35,Queen of Capilano,15
+1,Swartz Bay,Tsawwassen,2018,04,15,07,00,Spirit of Vancouver Island,98
+3,Horseshoe Bay,Langdale,2018,04,01,19,50,Queen of Cowichan,42
+1,Tsawwassen,Swartz Bay,2018,04,11,17,00,Spirit of Vancouver Island,106
+30,Duke Point,Tsawwassen,2018,04,15,15,15,Queen of Coquitlam,129
+3,Horseshoe Bay,Langdale,2018,04,06,22,55,Queen of Surrey,47
+3,Horseshoe Bay,Langdale,2018,04,29,07,30,Queen of Surrey,40
+1,Swartz Bay,Tsawwassen,2018,04,22,07,00,Spirit of Vancouver Island,98
+8,Horseshoe Bay,Bowen Island,2018,04,08,09,05,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,21,21,00,Spirit of Vancouver Island,92
+30,Duke Point,Tsawwassen,2018,04,13,10,15,Queen of Coquitlam,115
+1,Tsawwassen,Swartz Bay,2018,04,17,11,00,Coastal Renaissance,88
+1,Swartz Bay,Tsawwassen,2018,04,06,09,00,Coastal Renaissance,88
+3,Langdale,Horseshoe Bay,2018,04,04,06,20,Queen of Surrey,40
+2,Departure Bay,Horseshoe Bay,2018,04,13,15,20,Queen of Cowichan,112
+3,Langdale,Horseshoe Bay,2018,04,27,13,05,Queen of Surrey,51
+4,Swartz Bay,Fulford Harbour,2018,04,22,13,00,Skeena Queen,120
+1,Tsawwassen,Swartz Bay,2018,04,07,11,00,Coastal Renaissance,86
+3,Langdale,Horseshoe Bay,2018,04,15,15,15,Queen of Surrey,49
+4,Swartz Bay,Fulford Harbour,2018,04,09,21,00,Skeena Queen,26
+3,Horseshoe Bay,Langdale,2018,04,04,09,45,Queen of Surrey,45
+3,Langdale,Horseshoe Bay,2018,04,04,08,40,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,14,16,20,Queen of Surrey,41
+1,Swartz Bay,Tsawwassen,2018,04,02,15,00,Spirit of Vancouver Island,88
+3,Horseshoe Bay,Langdale,2018,04,17,14,10,Queen of Surrey,44
+30,Tsawwassen,Duke Point,2018,04,10,13,30,Coastal Inspiration,118
+30,Duke Point,Tsawwassen,2018,04,28,15,15,Queen of Coquitlam,131
+2,Departure Bay,Horseshoe Bay,2018,04,22,10,40,Queen of Cowichan,106
+3,Horseshoe Bay,Langdale,2018,04,24,17,30,Queen of Cowichan,46
+30,Duke Point,Tsawwassen,2018,04,28,10,15,Queen of Coquitlam,151
+2,Horseshoe Bay,Departure Bay,2018,04,22,06,15,Queen of Oak Bay,105
+4,Swartz Bay,Fulford Harbour,2018,04,01,21,00,Skeena Queen,26
+3,Horseshoe Bay,Langdale,2018,04,23,07,30,Queen of Surrey,41
+2,Horseshoe Bay,Departure Bay,2018,04,30,13,00,Queen of Cowichan,110
+2,Departure Bay,Horseshoe Bay,2018,04,02,15,20,Queen of Cowichan,102
+8,Horseshoe Bay,Bowen Island,2018,04,04,11,25,Queen of Capilano,28
+30,Tsawwassen,Duke Point,2018,04,05,07,45,Queen of Coquitlam,115
+4,Swartz Bay,Fulford Harbour,2018,04,01,09,00,Skeena Queen,30
+4,Swartz Bay,Fulford Harbour,2018,04,21,19,00,Skeena Queen,28
+30,Duke Point,Tsawwassen,2018,04,15,22,45,Queen of Alberni,121
+30,Tsawwassen,Duke Point,2018,04,01,12,45,Coastal Inspiration,119
+4,Swartz Bay,Fulford Harbour,2018,04,25,07,00,Skeena Queen,34
+1,Swartz Bay,Tsawwassen,2018,04,05,15,00,Spirit of Vancouver Island,94
+3,Horseshoe Bay,Langdale,2018,04,19,16,20,Queen of Surrey,60
+30,Tsawwassen,Duke Point,2018,04,18,17,45,Queen of Coquitlam,123
+1,Tsawwassen,Swartz Bay,2018,04,25,19,00,Coastal Renaissance,94
+3,Horseshoe Bay,Langdale,2018,04,11,22,55,Queen of Surrey,44
+1,Swartz Bay,Tsawwassen,2018,04,28,15,00,Spirit of Vancouver Island,92
+1,Swartz Bay,Tsawwassen,2018,04,26,16,00,Coastal Inspiration,94
+1,Swartz Bay,Tsawwassen,2018,04,29,07,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,20,22,10,Queen of Oak Bay,106
+1,Swartz Bay,Tsawwassen,2018,04,17,21,00,Coastal Renaissance,88
+30,Duke Point,Tsawwassen,2018,04,04,05,15,Queen of Coquitlam,125
+8,Horseshoe Bay,Bowen Island,2018,04,21,16,35,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,04,12,00,Coastal Inspiration,94
+1,Tsawwassen,Swartz Bay,2018,04,02,11,00,Coastal Celebration,92
+8,Horseshoe Bay,Bowen Island,2018,04,24,15,30,Queen of Capilano,24
+1,Swartz Bay,Tsawwassen,2018,04,23,07,00,Spirit of Vancouver Island,90
+30,Tsawwassen,Duke Point,2018,04,17,15,15,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,10,17,45,Queen of Capilano,17
+2,Departure Bay,Horseshoe Bay,2018,04,09,13,00,Queen of Oak Bay,104
+8,Horseshoe Bay,Bowen Island,2018,04,21,06,50,Queen of Capilano,20
+30,Tsawwassen,Duke Point,2018,04,09,12,45,Queen of Coquitlam,125
+2,Departure Bay,Horseshoe Bay,2018,04,28,10,40,Queen of Cowichan,102
+8,Horseshoe Bay,Bowen Island,2018,04,13,17,45,Queen of Capilano,17
+30,Duke Point,Tsawwassen,2018,04,25,15,15,Queen of Coquitlam,127
+2,Horseshoe Bay,Departure Bay,2018,04,23,08,25,Queen of Cowichan,101
+1,Tsawwassen,Swartz Bay,2018,04,27,08,00,Queen of New Westminster,112
+8,Horseshoe Bay,Bowen Island,2018,04,30,17,45,Queen of Capilano,17
+30,Tsawwassen,Duke Point,2018,04,04,05,15,Queen of Alberni,119
+1,Swartz Bay,Tsawwassen,2018,04,19,21,00,Coastal Renaissance,92
+1,Swartz Bay,Tsawwassen,2018,04,22,09,00,Coastal Renaissance,90
+1,Swartz Bay,Tsawwassen,2018,04,08,11,00,Spirit of Vancouver Island,90
+2,Departure Bay,Horseshoe Bay,2018,04,18,10,40,Queen of Cowichan,106
+4,Swartz Bay,Fulford Harbour,2018,04,12,17,00,Skeena Queen,38
+4,Swartz Bay,Fulford Harbour,2018,04,02,13,00,Skeena Queen,28
+3,Langdale,Horseshoe Bay,2018,04,03,17,25,Queen of Surrey,41
+30,Tsawwassen,Duke Point,2018,04,18,10,15,Queen of Alberni,119
+1,Swartz Bay,Tsawwassen,2018,04,23,11,00,Spirit of Vancouver Island,96
+2,Departure Bay,Horseshoe Bay,2018,04,09,10,40,Queen of Cowichan,106
+30,Tsawwassen,Duke Point,2018,04,08,17,45,Queen of Coquitlam,135
+3,Langdale,Horseshoe Bay,2018,04,04,10,50,Queen of Surrey,46
+1,Tsawwassen,Swartz Bay,2018,04,15,07,00,Coastal Renaissance,96
+30,Duke Point,Tsawwassen,2018,04,27,12,45,Queen of Alberni,125
+4,Swartz Bay,Fulford Harbour,2018,04,28,11,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,11,08,00,Queen of Capilano,23
+2,Departure Bay,Horseshoe Bay,2018,04,26,13,00,Queen of Oak Bay,106
+1,Swartz Bay,Tsawwassen,2018,04,30,11,00,Spirit of Vancouver Island,88
+8,Horseshoe Bay,Bowen Island,2018,04,07,08,00,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,05,11,00,Spirit of Vancouver Island,98
+8,Horseshoe Bay,Bowen Island,2018,04,06,15,30,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,15,22,10,Queen of Cowichan,105
+1,Swartz Bay,Tsawwassen,2018,04,02,12,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,23,09,05,Queen of Capilano,23
+8,Horseshoe Bay,Bowen Island,2018,04,02,15,30,Queen of Capilano,20
+1,Tsawwassen,Swartz Bay,2018,04,23,15,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,25,15,20,Queen of Cowichan,104
+3,Horseshoe Bay,Langdale,2018,04,23,09,45,Queen of Surrey,45
+1,Swartz Bay,Tsawwassen,2018,04,01,17,00,Coastal Celebration,98
+3,Langdale,Horseshoe Bay,2018,04,06,06,20,Queen of Surrey,40
+1,Tsawwassen,Swartz Bay,2018,04,14,13,00,Spirit of Vancouver Island,96
+4,Swartz Bay,Fulford Harbour,2018,04,22,15,00,Skeena Queen,102
+4,Swartz Bay,Fulford Harbour,2018,04,10,13,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,17,20,15,Queen of Alberni,125
+2,Departure Bay,Horseshoe Bay,2018,04,30,22,10,Queen of Oak Bay,106
+4,Swartz Bay,Fulford Harbour,2018,04,04,09,00,Skeena Queen,30
+30,Duke Point,Tsawwassen,2018,04,16,22,45,Queen of Alberni,120
+1,Swartz Bay,Tsawwassen,2018,04,16,15,00,Spirit of Vancouver Island,90
+8,Horseshoe Bay,Bowen Island,2018,04,28,22,00,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,13,18,00,Queen of New Westminster,90
+8,Horseshoe Bay,Bowen Island,2018,04,29,11,25,Queen of Capilano,23
+1,Tsawwassen,Swartz Bay,2018,04,13,14,00,Coastal Inspiration,90
+30,Tsawwassen,Duke Point,2018,04,27,05,15,Queen of Alberni,129
+1,Swartz Bay,Tsawwassen,2018,04,19,15,00,Spirit of Vancouver Island,88
+8,Horseshoe Bay,Bowen Island,2018,04,07,10,15,Queen of Capilano,19
+8,Horseshoe Bay,Bowen Island,2018,04,15,16,35,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,19,22,10,Queen of Cowichan,108
+4,Swartz Bay,Fulford Harbour,2018,04,11,07,00,Skeena Queen,32
+30,Tsawwassen,Duke Point,2018,04,14,05,15,Queen of Alberni,113
+1,Tsawwassen,Swartz Bay,2018,04,04,17,00,Spirit of Vancouver Island,100
+1,Swartz Bay,Tsawwassen,2018,04,26,09,00,Coastal Renaissance,88
+1,Tsawwassen,Swartz Bay,2018,04,20,14,00,Coastal Inspiration,92
+2,Departure Bay,Horseshoe Bay,2018,04,29,13,00,Queen of Oak Bay,112
+1,Tsawwassen,Swartz Bay,2018,04,04,13,00,Spirit of Vancouver Island,94
+3,Langdale,Horseshoe Bay,2018,04,20,17,25,Queen of Surrey,53
+1,Tsawwassen,Swartz Bay,2018,04,06,16,00,Queen of New Westminster,98
+1,Swartz Bay,Tsawwassen,2018,04,09,07,00,Spirit of Vancouver Island,86
+1,Tsawwassen,Swartz Bay,2018,04,05,07,00,Coastal Renaissance,98
+8,Horseshoe Bay,Bowen Island,2018,04,17,14,20,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,06,21,00,Queen of Capilano,17
+30,Duke Point,Tsawwassen,2018,04,18,22,45,Queen of Alberni,120
+8,Horseshoe Bay,Bowen Island,2018,04,08,05,50,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,21,17,30,Queen of Cowichan,44
+3,Horseshoe Bay,Langdale,2018,04,08,14,10,Queen of Surrey,38
+8,Horseshoe Bay,Bowen Island,2018,04,02,16,35,Queen of Capilano,23
+3,Horseshoe Bay,Langdale,2018,04,13,19,50,Queen of Cowichan,40
+1,Tsawwassen,Swartz Bay,2018,04,02,07,00,Coastal Celebration,92
+30,Duke Point,Tsawwassen,2018,04,07,10,15,Queen of Coquitlam,121
+2,Horseshoe Bay,Departure Bay,2018,04,12,13,00,Queen of Cowichan,106
+3,Langdale,Horseshoe Bay,2018,04,11,06,20,Queen of Surrey,44
+8,Horseshoe Bay,Bowen Island,2018,04,23,18,50,Queen of Capilano,18
+4,Swartz Bay,Fulford Harbour,2018,04,29,19,00,Skeena Queen,44
+2,Departure Bay,Horseshoe Bay,2018,04,27,20,45,Queen of Surrey,139
+8,Horseshoe Bay,Bowen Island,2018,04,28,15,30,Queen of Capilano,22
+1,Swartz Bay,Tsawwassen,2018,04,09,21,00,Coastal Renaissance,88
+2,Departure Bay,Horseshoe Bay,2018,04,07,20,45,Queen of Surrey,111
+1,Swartz Bay,Tsawwassen,2018,04,04,13,00,Coastal Renaissance,92
+4,Swartz Bay,Fulford Harbour,2018,04,21,15,00,Skeena Queen,30
+2,Departure Bay,Horseshoe Bay,2018,04,08,08,25,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,05,09,00,Coastal Renaissance,96
+2,Departure Bay,Horseshoe Bay,2018,04,19,20,45,Queen of Surrey,109
+4,Swartz Bay,Fulford Harbour,2018,04,07,13,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,05,08,00,Queen of Capilano,20
+30,Tsawwassen,Duke Point,2018,04,23,17,45,Queen of Coquitlam,119
+2,Departure Bay,Horseshoe Bay,2018,04,19,22,10,Queen of Oak Bay,107
+2,Departure Bay,Horseshoe Bay,2018,04,25,08,25,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,15,19,00,Spirit of Vancouver Island,94
+2,Departure Bay,Horseshoe Bay,2018,04,10,22,10,Queen of Oak Bay,106
+1,Tsawwassen,Swartz Bay,2018,04,01,12,00,Queen of New Westminster,88
+8,Horseshoe Bay,Bowen Island,2018,04,09,05,50,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,04,15,15,Queen of Coquitlam,131
+3,Horseshoe Bay,Langdale,2018,04,09,07,30,Queen of Surrey,40
+3,Langdale,Horseshoe Bay,2018,04,30,10,50,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,20,05,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,13,08,25,Queen of Cowichan,103
+1,Tsawwassen,Swartz Bay,2018,04,12,11,00,Coastal Renaissance,96
+4,Swartz Bay,Fulford Harbour,2018,04,11,11,00,Skeena Queen,37
+30,Duke Point,Tsawwassen,2018,04,08,10,15,Queen of Coquitlam,123
+2,Horseshoe Bay,Departure Bay,2018,04,18,08,25,Queen of Cowichan,101
+3,Horseshoe Bay,Langdale,2018,04,12,22,55,Queen of Surrey,43
+8,Horseshoe Bay,Bowen Island,2018,04,26,21,00,Queen of Capilano,27
+2,Departure Bay,Horseshoe Bay,2018,04,02,06,15,Queen of Cowichan,103
+8,Horseshoe Bay,Bowen Island,2018,04,22,22,00,Queen of Capilano,22
+8,Horseshoe Bay,Bowen Island,2018,04,12,09,05,Queen of Capilano,25
+2,Departure Bay,Horseshoe Bay,2018,04,06,06,15,Queen of Cowichan,107
+8,Horseshoe Bay,Bowen Island,2018,04,29,09,05,Queen of Capilano,19
+30,Tsawwassen,Duke Point,2018,04,25,15,15,Queen of New Westminster,133
+4,Swartz Bay,Fulford Harbour,2018,04,28,07,00,Skeena Queen,32
+30,Tsawwassen,Duke Point,2018,04,04,12,45,Queen of Coquitlam,119
+30,Duke Point,Tsawwassen,2018,04,23,22,45,Queen of New Westminster,145
+3,Langdale,Horseshoe Bay,2018,04,15,08,40,Queen of Surrey,42
+1,Tsawwassen,Swartz Bay,2018,04,21,12,00,Queen of New Westminster,86
+3,Langdale,Horseshoe Bay,2018,04,29,13,05,Queen of Surrey,39
+30,Tsawwassen,Duke Point,2018,04,21,05,15,Queen of Alberni,119
+2,Departure Bay,Horseshoe Bay,2018,04,21,10,40,Queen of Cowichan,104
+4,Swartz Bay,Fulford Harbour,2018,04,26,11,00,Skeena Queen,30
+2,Departure Bay,Horseshoe Bay,2018,04,01,06,15,Queen of Cowichan,111
+2,Departure Bay,Horseshoe Bay,2018,04,07,17,55,Queen of Oak Bay,103
+2,Departure Bay,Horseshoe Bay,2018,04,24,15,20,Queen of Cowichan,104
+3,Horseshoe Bay,Langdale,2018,04,20,19,50,Queen of Cowichan,42
+1,Swartz Bay,Tsawwassen,2018,04,04,15,00,Spirit of Vancouver Island,96
+2,Departure Bay,Horseshoe Bay,2018,04,13,08,25,Queen of Oak Bay,107
+30,Duke Point,Tsawwassen,2018,04,11,05,15,Queen of Coquitlam,125
+8,Horseshoe Bay,Bowen Island,2018,04,06,05,50,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,12,12,45,Queen of Coquitlam,115
+30,Tsawwassen,Duke Point,2018,04,07,05,15,Queen of Alberni,116
+1,Tsawwassen,Swartz Bay,2018,04,07,10,00,Coastal Inspiration,88
+1,Tsawwassen,Swartz Bay,2018,04,08,12,00,Queen of New Westminster,86
+4,Swartz Bay,Fulford Harbour,2018,04,29,17,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,21,12,35,Queen of Capilano,17
+8,Horseshoe Bay,Bowen Island,2018,04,13,22,00,Queen of Capilano,24
+1,Tsawwassen,Swartz Bay,2018,04,03,17,00,Spirit of Vancouver Island,92
+2,Horseshoe Bay,Departure Bay,2018,04,16,22,10,Queen of Cowichan,106
+3,Langdale,Horseshoe Bay,2018,04,09,08,40,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,04,20,15,Queen of Coquitlam,119
+1,Swartz Bay,Tsawwassen,2018,04,13,07,00,Spirit of Vancouver Island,88
+1,Tsawwassen,Swartz Bay,2018,04,23,11,00,Coastal Renaissance,94
+30,Duke Point,Tsawwassen,2018,04,04,22,45,Queen of Alberni,120
+8,Horseshoe Bay,Bowen Island,2018,04,02,05,50,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,24,09,05,Queen of Capilano,21
+2,Horseshoe Bay,Departure Bay,2018,04,10,10,40,Queen of Oak Bay,104
+1,Tsawwassen,Swartz Bay,2018,04,01,13,00,Spirit of Vancouver Island,94
+3,Horseshoe Bay,Langdale,2018,04,20,22,55,Queen of Surrey,62
+2,Departure Bay,Horseshoe Bay,2018,04,23,20,45,Queen of Surrey,109
+8,Horseshoe Bay,Bowen Island,2018,04,06,18,50,Queen of Capilano,21
+1,Swartz Bay,Tsawwassen,2018,04,19,11,00,Spirit of Vancouver Island,92
+30,Duke Point,Tsawwassen,2018,04,16,20,15,Queen of Coquitlam,117
+8,Horseshoe Bay,Bowen Island,2018,04,16,05,50,Queen of Capilano,26
+2,Departure Bay,Horseshoe Bay,2018,04,11,06,15,Queen of Cowichan,121
+30,Tsawwassen,Duke Point,2018,04,23,15,15,Queen of New Westminster,147
+2,Departure Bay,Horseshoe Bay,2018,04,17,06,15,Queen of Cowichan,103
+8,Horseshoe Bay,Bowen Island,2018,04,23,11,25,Queen of Capilano,17
+4,Swartz Bay,Fulford Harbour,2018,04,04,15,00,Skeena Queen,36
+30,Duke Point,Tsawwassen,2018,04,09,05,15,Queen of Coquitlam,123
+1,Swartz Bay,Tsawwassen,2018,04,03,12,00,Coastal Renaissance,94
+4,Swartz Bay,Fulford Harbour,2018,04,27,07,00,Skeena Queen,36
+2,Horseshoe Bay,Departure Bay,2018,04,28,18,35,Queen of Surrey,113
+8,Horseshoe Bay,Bowen Island,2018,04,15,18,50,Queen of Capilano,16
+4,Swartz Bay,Fulford Harbour,2018,04,23,19,00,Skeena Queen,30
+4,Swartz Bay,Fulford Harbour,2018,04,05,21,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,02,10,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,26,19,00,Skeena Queen,32
+30,Tsawwassen,Duke Point,2018,04,05,10,15,Queen of Alberni,119
+30,Duke Point,Tsawwassen,2018,04,08,20,15,Queen of Coquitlam,139
+30,Duke Point,Tsawwassen,2018,04,10,16,00,Coastal Inspiration,120
+1,Swartz Bay,Tsawwassen,2018,04,22,20,00,Coastal Inspiration,90
+3,Horseshoe Bay,Langdale,2018,04,02,18,30,Queen of Coquitlam,36
+2,Departure Bay,Horseshoe Bay,2018,04,11,13,00,Queen of Oak Bay,108
+4,Swartz Bay,Fulford Harbour,2018,04,01,11,00,Skeena Queen,32
+1,Swartz Bay,Tsawwassen,2018,04,14,08,00,Coastal Inspiration,92
+30,Duke Point,Tsawwassen,2018,04,23,07,45,Queen of New Westminster,127
+1,Swartz Bay,Tsawwassen,2018,04,16,19,00,Spirit of Vancouver Island,90
+3,Horseshoe Bay,Langdale,2018,04,05,11,55,Queen of Surrey,43
+30,Tsawwassen,Duke Point,2018,04,12,10,15,Queen of Alberni,117
+30,Duke Point,Tsawwassen,2018,04,13,17,45,Queen of Alberni,161
+1,Tsawwassen,Swartz Bay,2018,04,21,19,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,29,15,20,Queen of Cowichan,108
+2,Horseshoe Bay,Departure Bay,2018,04,04,15,45,Queen of Oak Bay,104
+4,Swartz Bay,Fulford Harbour,2018,04,28,21,00,Skeena Queen,46
+3,Langdale,Horseshoe Bay,2018,04,05,10,50,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,18,21,00,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,02,07,00,Spirit of Vancouver Island,94
+4,Swartz Bay,Fulford Harbour,2018,04,25,19,00,Skeena Queen,34
+1,Swartz Bay,Tsawwassen,2018,04,12,13,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,06,07,00,Coastal Renaissance,92
+30,Tsawwassen,Duke Point,2018,04,09,15,15,Queen of Alberni,123
+2,Departure Bay,Horseshoe Bay,2018,04,02,08,25,Queen of Oak Bay,103
+3,Horseshoe Bay,Langdale,2018,04,22,14,10,Queen of Surrey,41
+1,Tsawwassen,Swartz Bay,2018,04,28,10,00,Coastal Inspiration,100
+1,Swartz Bay,Tsawwassen,2018,04,13,17,00,Coastal Renaissance,90
+4,Swartz Bay,Fulford Harbour,2018,04,09,17,00,Skeena Queen,30
+3,Horseshoe Bay,Langdale,2018,04,03,22,55,Queen of Surrey,43
+30,Duke Point,Tsawwassen,2018,04,29,15,15,Queen of Coquitlam,139
+3,Langdale,Horseshoe Bay,2018,04,30,13,05,Queen of Surrey,41
+8,Horseshoe Bay,Bowen Island,2018,04,14,08,00,Queen of Capilano,20
+3,Langdale,Horseshoe Bay,2018,04,07,06,20,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,11,10,15,Queen of Coquitlam,115
+1,Tsawwassen,Swartz Bay,2018,04,19,21,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,07,22,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,17,05,50,Queen of Capilano,16
+30,Duke Point,Tsawwassen,2018,04,20,12,45,Queen of Alberni,119
+2,Horseshoe Bay,Departure Bay,2018,04,26,20,05,Queen of Oak Bay,109
+8,Horseshoe Bay,Bowen Island,2018,04,30,16,35,Queen of Capilano,19
+30,Duke Point,Tsawwassen,2018,04,04,07,45,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,14,07,00,Coastal Renaissance,88
+3,Horseshoe Bay,Langdale,2018,04,18,22,55,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,22,05,50,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,20,12,00,Queen of New Westminster,94
+30,Duke Point,Tsawwassen,2018,04,13,12,45,Queen of Alberni,163
+2,Departure Bay,Horseshoe Bay,2018,04,28,20,45,Queen of Surrey,109
+30,Duke Point,Tsawwassen,2018,04,10,22,45,Queen of Alberni,120
+2,Departure Bay,Horseshoe Bay,2018,04,15,15,20,Queen of Cowichan,106
+3,Horseshoe Bay,Langdale,2018,04,14,17,30,Queen of Cowichan,40
+4,Swartz Bay,Fulford Harbour,2018,04,19,21,00,Skeena Queen,90
+8,Horseshoe Bay,Bowen Island,2018,04,05,16,35,Queen of Capilano,17
+3,Langdale,Horseshoe Bay,2018,04,23,17,25,Queen of Surrey,43
+3,Langdale,Horseshoe Bay,2018,04,21,08,40,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,02,13,00,Coastal Celebration,88
+1,Swartz Bay,Tsawwassen,2018,04,07,17,00,Coastal Renaissance,102
+2,Horseshoe Bay,Departure Bay,2018,04,24,06,15,Queen of Oak Bay,107
+1,Tsawwassen,Swartz Bay,2018,04,15,16,00,Queen of New Westminster,86
+1,Tsawwassen,Swartz Bay,2018,04,13,10,00,Coastal Inspiration,90
+2,Horseshoe Bay,Departure Bay,2018,04,25,06,15,Queen of Oak Bay,105
+2,Departure Bay,Horseshoe Bay,2018,04,28,17,55,Queen of Oak Bay,103
+1,Swartz Bay,Tsawwassen,2018,04,09,11,00,Spirit of Vancouver Island,88
+2,Departure Bay,Horseshoe Bay,2018,04,03,08,25,Queen of Oak Bay,105
+30,Duke Point,Tsawwassen,2018,04,18,17,45,Queen of Alberni,123
+1,Tsawwassen,Swartz Bay,2018,04,29,08,00,Queen of New Westminster,84
+8,Horseshoe Bay,Bowen Island,2018,04,11,16,35,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,17,11,55,Queen of Surrey,41
+1,Swartz Bay,Tsawwassen,2018,04,05,19,00,Spirit of Vancouver Island,88
+1,Tsawwassen,Swartz Bay,2018,04,02,13,00,Spirit of Vancouver Island,90
+1,Tsawwassen,Swartz Bay,2018,04,09,21,00,Spirit of Vancouver Island,90
+30,Tsawwassen,Duke Point,2018,04,23,07,45,Queen of Coquitlam,117
+4,Swartz Bay,Fulford Harbour,2018,04,20,09,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,20,05,15,Queen of Alberni,119
+3,Langdale,Horseshoe Bay,2018,04,20,18,40,Queen of Cowichan,40
+2,Horseshoe Bay,Departure Bay,2018,04,22,08,25,Queen of Cowichan,103
+3,Horseshoe Bay,Langdale,2018,04,12,14,10,Queen of Surrey,46
+1,Tsawwassen,Swartz Bay,2018,04,27,10,00,Coastal Inspiration,88
+2,Horseshoe Bay,Departure Bay,2018,04,19,13,00,Queen of Cowichan,104
+3,Horseshoe Bay,Langdale,2018,04,24,22,55,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,01,07,00,Spirit of Vancouver Island,98
+1,Swartz Bay,Tsawwassen,2018,04,18,19,00,Spirit of Vancouver Island,106
+1,Swartz Bay,Tsawwassen,2018,04,01,13,00,Coastal Celebration,92
+3,Horseshoe Bay,Langdale,2018,04,01,16,20,Queen of Surrey,40
+3,Langdale,Horseshoe Bay,2018,04,03,13,05,Queen of Surrey,41
+8,Horseshoe Bay,Bowen Island,2018,04,01,11,25,Queen of Capilano,17
+30,Tsawwassen,Duke Point,2018,04,09,16,15,Queen of New Westminster,125
+2,Horseshoe Bay,Departure Bay,2018,04,29,10,40,Queen of Oak Bay,118
+30,Tsawwassen,Duke Point,2018,04,25,12,45,Queen of Coquitlam,121
+4,Swartz Bay,Fulford Harbour,2018,04,12,07,00,Skeena Queen,40
+2,Horseshoe Bay,Departure Bay,2018,04,08,22,10,Queen of Cowichan,105
+1,Swartz Bay,Tsawwassen,2018,04,20,11,00,Spirit of Vancouver Island,94
+2,Departure Bay,Horseshoe Bay,2018,04,17,10,40,Queen of Cowichan,104
+3,Horseshoe Bay,Langdale,2018,04,30,14,10,Queen of Surrey,44
+30,Tsawwassen,Duke Point,2018,04,11,20,15,Queen of Alberni,123
+30,Duke Point,Tsawwassen,2018,04,16,10,15,Queen of Coquitlam,121
+8,Horseshoe Bay,Bowen Island,2018,04,01,05,50,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,30,14,20,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,25,22,45,Queen of New Westminster,125
+1,Swartz Bay,Tsawwassen,2018,04,02,20,00,Coastal Renaissance,94
+30,Duke Point,Tsawwassen,2018,04,06,05,15,Queen of Coquitlam,123
+3,Horseshoe Bay,Langdale,2018,04,27,09,45,Queen of Surrey,45
+1,Tsawwassen,Swartz Bay,2018,04,13,16,00,Queen of New Westminster,96
+1,Tsawwassen,Swartz Bay,2018,04,13,21,00,Spirit of Vancouver Island,90
+4,Swartz Bay,Fulford Harbour,2018,04,27,19,00,Skeena Queen,32
+3,Langdale,Horseshoe Bay,2018,04,12,13,05,Queen of Surrey,41
+2,Departure Bay,Horseshoe Bay,2018,04,10,20,45,Queen of Surrey,107
+2,Departure Bay,Horseshoe Bay,2018,04,26,06,15,Queen of Cowichan,111
+1,Swartz Bay,Tsawwassen,2018,04,20,09,00,Coastal Renaissance,98
+30,Tsawwassen,Duke Point,2018,04,16,20,15,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,19,16,35,Queen of Capilano,29
+1,Swartz Bay,Tsawwassen,2018,04,12,21,00,Coastal Renaissance,86
+8,Horseshoe Bay,Bowen Island,2018,04,10,09,05,Queen of Capilano,25
+3,Horseshoe Bay,Langdale,2018,04,18,14,10,Queen of Surrey,42
+30,Duke Point,Tsawwassen,2018,04,02,10,15,Coastal Inspiration,119
+3,Langdale,Horseshoe Bay,2018,04,01,15,50,Queen of Coquitlam,46
+3,Langdale,Horseshoe Bay,2018,04,01,08,40,Queen of Surrey,42
+4,Swartz Bay,Fulford Harbour,2018,04,16,19,00,Skeena Queen,34
+1,Tsawwassen,Swartz Bay,2018,04,20,13,00,Spirit of Vancouver Island,90
+1,Tsawwassen,Swartz Bay,2018,04,26,07,00,Coastal Renaissance,90
+1,Swartz Bay,Tsawwassen,2018,04,11,11,30,Coastal Inspiration,92
+30,Duke Point,Tsawwassen,2018,04,26,22,45,Queen of Alberni,120
+1,Swartz Bay,Tsawwassen,2018,04,20,07,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,03,07,30,Queen of Surrey,42
+1,Tsawwassen,Swartz Bay,2018,04,02,19,00,Coastal Celebration,92
+1,Tsawwassen,Swartz Bay,2018,04,16,15,00,Coastal Renaissance,92
+1,Swartz Bay,Tsawwassen,2018,04,08,07,00,Spirit of Vancouver Island,90
+1,Tsawwassen,Swartz Bay,2018,04,23,07,00,Coastal Renaissance,90
+1,Tsawwassen,Swartz Bay,2018,04,03,13,00,Spirit of Vancouver Island,94
+30,Duke Point,Tsawwassen,2018,04,11,17,45,Queen of Alberni,117
+2,Horseshoe Bay,Departure Bay,2018,04,30,22,10,Queen of Cowichan,106
+4,Swartz Bay,Fulford Harbour,2018,04,12,11,00,Skeena Queen,34
+30,Duke Point,Tsawwassen,2018,04,15,20,15,Queen of Coquitlam,119
+1,Swartz Bay,Tsawwassen,2018,04,23,09,00,Coastal Renaissance,92
+1,Swartz Bay,Tsawwassen,2018,04,13,14,00,Queen of New Westminster,90
+30,Tsawwassen,Duke Point,2018,04,03,17,45,Coastal Inspiration,117
+2,Horseshoe Bay,Departure Bay,2018,04,08,18,35,Queen of Surrey,111
+4,Swartz Bay,Fulford Harbour,2018,04,21,17,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,11,22,45,Queen of Coquitlam,124
+4,Swartz Bay,Fulford Harbour,2018,04,30,15,00,Skeena Queen,30
+1,Tsawwassen,Swartz Bay,2018,04,30,19,00,Coastal Renaissance,94
+3,Horseshoe Bay,Langdale,2018,04,04,16,20,Queen of Surrey,41
+2,Departure Bay,Horseshoe Bay,2018,04,11,22,10,Queen of Oak Bay,106
+8,Horseshoe Bay,Bowen Island,2018,04,21,08,00,Queen of Capilano,24
+1,Tsawwassen,Swartz Bay,2018,04,10,18,30,Coastal Inspiration,78
+2,Departure Bay,Horseshoe Bay,2018,04,25,06,15,Queen of Cowichan,105
+2,Departure Bay,Horseshoe Bay,2018,04,29,10,40,Queen of Cowichan,102
+3,Horseshoe Bay,Langdale,2018,04,04,17,30,Queen of Cowichan,46
+3,Horseshoe Bay,Langdale,2018,04,26,19,50,Queen of Cowichan,44
+8,Horseshoe Bay,Bowen Island,2018,04,28,18,50,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,09,18,45,Queen of New Westminster,113
+30,Tsawwassen,Duke Point,2018,04,28,07,45,Queen of Coquitlam,123
+3,Langdale,Horseshoe Bay,2018,04,12,17,25,Queen of Surrey,51
+30,Tsawwassen,Duke Point,2018,04,26,10,15,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,05,14,20,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,21,15,45,Queen of Oak Bay,103
+3,Langdale,Horseshoe Bay,2018,04,11,10,50,Queen of Surrey,42
+1,Swartz Bay,Tsawwassen,2018,04,06,17,00,Coastal Renaissance,92
+2,Horseshoe Bay,Departure Bay,2018,04,25,10,40,Queen of Oak Bay,106
+2,Horseshoe Bay,Departure Bay,2018,04,14,10,40,Queen of Oak Bay,104
+30,Tsawwassen,Duke Point,2018,04,21,10,15,Queen of Alberni,117
+1,Tsawwassen,Swartz Bay,2018,04,04,07,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,17,09,05,Queen of Capilano,25
+8,Horseshoe Bay,Bowen Island,2018,04,15,20,00,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,05,17,45,Queen of Alberni,125
+8,Horseshoe Bay,Bowen Island,2018,04,09,16,35,Queen of Capilano,17
+2,Departure Bay,Horseshoe Bay,2018,04,15,08,25,Queen of Oak Bay,105
+4,Swartz Bay,Fulford Harbour,2018,04,21,11,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,03,07,45,Coastal Inspiration,117
+1,Tsawwassen,Swartz Bay,2018,04,09,09,00,Spirit of Vancouver Island,90
+3,Langdale,Horseshoe Bay,2018,04,16,17,25,Queen of Surrey,47
+1,Tsawwassen,Swartz Bay,2018,04,21,10,00,Coastal Inspiration,92
+2,Departure Bay,Horseshoe Bay,2018,04,07,08,25,Queen of Oak Bay,111
+30,Tsawwassen,Duke Point,2018,04,25,07,45,Queen of Coquitlam,123
+30,Duke Point,Tsawwassen,2018,04,04,17,45,Queen of Alberni,121
+3,Langdale,Horseshoe Bay,2018,04,11,18,40,Queen of Cowichan,38
+30,Tsawwassen,Duke Point,2018,04,27,15,15,Queen of Alberni,123
+4,Swartz Bay,Fulford Harbour,2018,04,23,17,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,14,22,00,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,04,22,45,Queen of Coquitlam,122
+3,Horseshoe Bay,Langdale,2018,04,02,16,20,Queen of Surrey,46
+30,Duke Point,Tsawwassen,2018,04,09,12,45,Queen of Alberni,123
+2,Horseshoe Bay,Departure Bay,2018,04,14,08,25,Queen of Cowichan,107
+1,Swartz Bay,Tsawwassen,2018,04,14,21,00,Coastal Renaissance,84
+1,Tsawwassen,Swartz Bay,2018,04,28,16,00,Queen of New Westminster,84
+2,Departure Bay,Horseshoe Bay,2018,04,25,17,55,Queen of Oak Bay,107
+2,Departure Bay,Horseshoe Bay,2018,04,10,10,40,Queen of Cowichan,106
+3,Langdale,Horseshoe Bay,2018,04,13,10,50,Queen of Surrey,42
+3,Horseshoe Bay,Langdale,2018,04,18,11,55,Queen of Surrey,43
+3,Langdale,Horseshoe Bay,2018,04,24,17,25,Queen of Surrey,41
+2,Horseshoe Bay,Departure Bay,2018,04,05,13,00,Queen of Cowichan,104
+4,Swartz Bay,Fulford Harbour,2018,04,18,09,00,Skeena Queen,30
+30,Duke Point,Tsawwassen,2018,04,11,20,15,Queen of Coquitlam,125
+1,Tsawwassen,Swartz Bay,2018,04,20,15,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,13,12,35,Queen of Capilano,20
+30,Tsawwassen,Duke Point,2018,04,04,15,15,Queen of Alberni,119
+30,Duke Point,Tsawwassen,2018,04,20,23,15,Queen of New Westminster,123
+8,Horseshoe Bay,Bowen Island,2018,04,18,18,50,Queen of Capilano,24
+4,Swartz Bay,Fulford Harbour,2018,04,14,09,00,Skeena Queen,48
+2,Horseshoe Bay,Departure Bay,2018,04,12,08,25,Queen of Cowichan,105
+1,Swartz Bay,Tsawwassen,2018,04,22,12,00,Coastal Inspiration,92
+1,Swartz Bay,Tsawwassen,2018,04,12,19,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,24,22,00,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,13,17,25,Queen of Surrey,43
+8,Horseshoe Bay,Bowen Island,2018,04,25,18,50,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,01,18,40,Queen of Cowichan,42
+2,Horseshoe Bay,Departure Bay,2018,04,23,20,05,Queen of Oak Bay,113
+30,Duke Point,Tsawwassen,2018,04,27,17,45,Queen of Alberni,127
+1,Tsawwassen,Swartz Bay,2018,04,13,19,00,Coastal Renaissance,90
+1,Swartz Bay,Tsawwassen,2018,04,26,13,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,07,10,40,Queen of Cowichan,104
+4,Swartz Bay,Fulford Harbour,2018,04,03,07,00,Skeena Queen,38
+1,Swartz Bay,Tsawwassen,2018,04,06,14,00,Queen of New Westminster,92
+1,Swartz Bay,Tsawwassen,2018,04,03,07,00,Spirit of Vancouver Island,92
+2,Horseshoe Bay,Departure Bay,2018,04,15,20,05,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,18,16,35,Queen of Capilano,27
+2,Horseshoe Bay,Departure Bay,2018,04,09,10,40,Queen of Oak Bay,104
+1,Tsawwassen,Swartz Bay,2018,04,29,13,00,Spirit of Vancouver Island,94
+2,Horseshoe Bay,Departure Bay,2018,04,02,13,00,Queen of Cowichan,102
+1,Tsawwassen,Swartz Bay,2018,04,12,17,00,Spirit of Vancouver Island,92
+3,Langdale,Horseshoe Bay,2018,04,14,06,20,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,24,20,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,19,21,00,Queen of Capilano,16
+1,Swartz Bay,Tsawwassen,2018,04,02,19,00,Spirit of Vancouver Island,92
+30,Duke Point,Tsawwassen,2018,04,25,17,45,Queen of New Westminster,127
+8,Horseshoe Bay,Bowen Island,2018,04,12,10,15,Queen of Capilano,19
+3,Horseshoe Bay,Langdale,2018,04,25,19,50,Queen of Cowichan,44
+1,Tsawwassen,Swartz Bay,2018,04,16,21,00,Spirit of Vancouver Island,88
+30,Duke Point,Tsawwassen,2018,04,28,05,15,Queen of Coquitlam,125
+4,Swartz Bay,Fulford Harbour,2018,04,08,09,00,Skeena Queen,30
+3,Horseshoe Bay,Langdale,2018,04,16,14,10,Queen of Surrey,52
+4,Swartz Bay,Fulford Harbour,2018,04,02,21,00,Skeena Queen,27
+4,Swartz Bay,Fulford Harbour,2018,04,01,13,00,Skeena Queen,28
+1,Tsawwassen,Swartz Bay,2018,04,26,14,00,Coastal Inspiration,90
+2,Departure Bay,Horseshoe Bay,2018,04,27,08,25,Queen of Oak Bay,107
+1,Tsawwassen,Swartz Bay,2018,04,07,07,00,Coastal Renaissance,92
+8,Horseshoe Bay,Bowen Island,2018,04,09,06,50,Queen of Capilano,20
+3,Horseshoe Bay,Langdale,2018,04,09,17,30,Queen of Cowichan,44
+30,Duke Point,Tsawwassen,2018,04,12,07,45,Queen of Alberni,119
+8,Horseshoe Bay,Bowen Island,2018,04,23,15,30,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,06,16,20,Queen of Surrey,56
+30,Tsawwassen,Duke Point,2018,04,13,22,45,Queen of Coquitlam,135
+30,Tsawwassen,Duke Point,2018,04,16,10,15,Queen of Alberni,129
+2,Horseshoe Bay,Departure Bay,2018,04,28,13,00,Queen of Cowichan,102
+3,Langdale,Horseshoe Bay,2018,04,26,13,05,Queen of Surrey,54
+8,Horseshoe Bay,Bowen Island,2018,04,28,05,50,Queen of Capilano,20
+1,Tsawwassen,Swartz Bay,2018,04,04,09,00,Spirit of Vancouver Island,96
+3,Langdale,Horseshoe Bay,2018,04,05,15,15,Queen of Surrey,43
+1,Swartz Bay,Tsawwassen,2018,04,18,13,00,Coastal Renaissance,92
+1,Tsawwassen,Swartz Bay,2018,04,06,13,00,Spirit of Vancouver Island,88
+30,Tsawwassen,Duke Point,2018,04,28,12,45,Queen of Coquitlam,121
+8,Horseshoe Bay,Bowen Island,2018,04,03,15,30,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,23,17,45,Queen of Capilano,19
+1,Swartz Bay,Tsawwassen,2018,04,22,15,00,Spirit of Vancouver Island,92
+3,Horseshoe Bay,Langdale,2018,04,12,19,50,Queen of Cowichan,41
+3,Langdale,Horseshoe Bay,2018,04,06,10,50,Queen of Surrey,44
+2,Departure Bay,Horseshoe Bay,2018,04,26,20,45,Queen of Surrey,137
+1,Swartz Bay,Tsawwassen,2018,04,13,08,00,Coastal Inspiration,90
+8,Horseshoe Bay,Bowen Island,2018,04,13,06,50,Queen of Capilano,28
+2,Departure Bay,Horseshoe Bay,2018,04,17,17,55,Queen of Oak Bay,99
+30,Tsawwassen,Duke Point,2018,04,13,15,15,Queen of Alberni,163
+4,Swartz Bay,Fulford Harbour,2018,04,17,07,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,30,21,00,Queen of Capilano,16
+1,Tsawwassen,Swartz Bay,2018,04,28,17,00,Spirit of Vancouver Island,90
+8,Horseshoe Bay,Bowen Island,2018,04,09,08,00,Queen of Capilano,20
+30,Tsawwassen,Duke Point,2018,04,05,16,15,Queen of New Westminster,121
+4,Swartz Bay,Fulford Harbour,2018,04,25,09,00,Skeena Queen,38
+3,Langdale,Horseshoe Bay,2018,04,12,18,40,Queen of Cowichan,40
+8,Horseshoe Bay,Bowen Island,2018,04,07,16,35,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,21,11,00,Coastal Renaissance,90
+2,Departure Bay,Horseshoe Bay,2018,04,18,13,00,Queen of Oak Bay,104
+8,Horseshoe Bay,Bowen Island,2018,04,18,14,20,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,16,14,20,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,29,15,30,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,06,19,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,03,14,20,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,13,05,50,Queen of Capilano,18
+1,Swartz Bay,Tsawwassen,2018,04,04,11,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,30,06,15,Queen of Cowichan,105
+8,Horseshoe Bay,Bowen Island,2018,04,11,14,20,Queen of Capilano,22
+3,Langdale,Horseshoe Bay,2018,04,27,10,50,Queen of Surrey,50
+2,Departure Bay,Horseshoe Bay,2018,04,14,22,10,Queen of Oak Bay,106
+4,Swartz Bay,Fulford Harbour,2018,04,03,19,00,Skeena Queen,34
+3,Horseshoe Bay,Langdale,2018,04,17,19,50,Queen of Cowichan,44
+1,Tsawwassen,Swartz Bay,2018,04,02,15,00,Coastal Celebration,90
+3,Langdale,Horseshoe Bay,2018,04,20,08,40,Queen of Surrey,42
+8,Horseshoe Bay,Bowen Island,2018,04,12,12,35,Queen of Capilano,23
+3,Langdale,Horseshoe Bay,2018,04,26,10,50,Queen of Surrey,50
+2,Horseshoe Bay,Departure Bay,2018,04,20,06,15,Queen of Oak Bay,105
+2,Horseshoe Bay,Departure Bay,2018,04,09,15,45,Queen of Oak Bay,105
+3,Horseshoe Bay,Langdale,2018,04,02,09,45,Queen of Surrey,37
+1,Tsawwassen,Swartz Bay,2018,04,08,18,00,Coastal Inspiration,90
+1,Swartz Bay,Tsawwassen,2018,04,20,08,00,Coastal Inspiration,94
+1,Swartz Bay,Tsawwassen,2018,04,26,15,00,Spirit of Vancouver Island,96
+1,Swartz Bay,Tsawwassen,2018,04,11,17,00,Coastal Renaissance,100
+2,Departure Bay,Horseshoe Bay,2018,04,18,17,55,Queen of Oak Bay,101
+1,Tsawwassen,Swartz Bay,2018,04,07,13,00,Spirit of Vancouver Island,96
+3,Horseshoe Bay,Langdale,2018,04,07,17,30,Queen of Cowichan,42
+2,Horseshoe Bay,Departure Bay,2018,04,25,20,05,Queen of Oak Bay,107
+4,Swartz Bay,Fulford Harbour,2018,04,05,09,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,17,08,00,Queen of Capilano,20
+2,Horseshoe Bay,Departure Bay,2018,04,16,10,40,Queen of Oak Bay,112
+3,Horseshoe Bay,Langdale,2018,04,17,07,30,Queen of Surrey,46
+4,Swartz Bay,Fulford Harbour,2018,04,29,11,00,Skeena Queen,30
+1,Swartz Bay,Tsawwassen,2018,04,02,14,00,Queen of New Westminster,88
+3,Horseshoe Bay,Langdale,2018,04,23,16,20,Queen of Surrey,40
+2,Horseshoe Bay,Departure Bay,2018,04,03,22,10,Queen of Cowichan,108
+4,Swartz Bay,Fulford Harbour,2018,04,01,19,00,Skeena Queen,32
+2,Horseshoe Bay,Departure Bay,2018,04,08,15,45,Queen of Oak Bay,105
+30,Tsawwassen,Duke Point,2018,04,18,07,45,Queen of Coquitlam,119
+2,Departure Bay,Horseshoe Bay,2018,04,01,17,55,Queen of Oak Bay,107
+30,Duke Point,Tsawwassen,2018,04,09,07,45,Queen of Alberni,119
+4,Swartz Bay,Fulford Harbour,2018,04,11,13,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,23,10,15,Queen of Capilano,17
+2,Horseshoe Bay,Departure Bay,2018,04,17,20,05,Queen of Oak Bay,105
+30,Tsawwassen,Duke Point,2018,04,25,20,15,Queen of New Westminster,125
+3,Langdale,Horseshoe Bay,2018,04,07,18,40,Queen of Cowichan,42
+2,Departure Bay,Horseshoe Bay,2018,04,18,08,25,Queen of Oak Bay,105
+8,Horseshoe Bay,Bowen Island,2018,04,09,22,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,14,15,30,Queen of Capilano,18
+3,Langdale,Horseshoe Bay,2018,04,27,08,40,Queen of Surrey,40
+30,Tsawwassen,Duke Point,2018,04,06,10,15,Queen of Alberni,118
+1,Swartz Bay,Tsawwassen,2018,04,13,15,00,Spirit of Vancouver Island,88
+30,Duke Point,Tsawwassen,2018,04,10,20,15,Queen of Coquitlam,127
+8,Horseshoe Bay,Bowen Island,2018,04,22,09,05,Queen of Capilano,20
+8,Horseshoe Bay,Bowen Island,2018,04,04,10,15,Queen of Capilano,33
+2,Horseshoe Bay,Departure Bay,2018,04,19,15,45,Queen of Oak Bay,105
+1,Swartz Bay,Tsawwassen,2018,04,25,17,00,Coastal Renaissance,99
+4,Swartz Bay,Fulford Harbour,2018,04,30,13,00,Skeena Queen,29
+2,Horseshoe Bay,Departure Bay,2018,04,14,22,10,Queen of Cowichan,105
+8,Horseshoe Bay,Bowen Island,2018,04,04,09,05,Queen of Capilano,33
+1,Tsawwassen,Swartz Bay,2018,04,26,13,00,Spirit of Vancouver Island,96
+4,Swartz Bay,Fulford Harbour,2018,04,02,15,00,Skeena Queen,36
+1,Tsawwassen,Swartz Bay,2018,04,25,07,00,Coastal Renaissance,90
+3,Langdale,Horseshoe Bay,2018,04,18,20,55,Queen of Cowichan,43
+2,Horseshoe Bay,Departure Bay,2018,04,01,06,15,Queen of Oak Bay,111
+30,Tsawwassen,Duke Point,2018,04,27,20,15,Queen of Alberni,123
+8,Horseshoe Bay,Bowen Island,2018,04,20,14,20,Queen of Capilano,28
+1,Swartz Bay,Tsawwassen,2018,04,06,18,00,Queen of New Westminster,90
+1,Tsawwassen,Swartz Bay,2018,04,09,14,00,Coastal Inspiration,92
+3,Langdale,Horseshoe Bay,2018,04,05,18,40,Queen of Cowichan,40
+30,Tsawwassen,Duke Point,2018,04,30,05,15,Queen of Alberni,121
+30,Tsawwassen,Duke Point,2018,04,20,10,15,Queen of Alberni,119
+1,Swartz Bay,Tsawwassen,2018,04,10,19,00,Spirit of Vancouver Island,90
+8,Horseshoe Bay,Bowen Island,2018,04,28,06,50,Queen of Capilano,26
+4,Swartz Bay,Fulford Harbour,2018,04,08,17,00,Skeena Queen,28
+30,Duke Point,Tsawwassen,2018,04,04,12,45,Queen of Alberni,117
+4,Swartz Bay,Fulford Harbour,2018,04,17,13,00,Skeena Queen,30
+4,Swartz Bay,Fulford Harbour,2018,04,09,11,00,Skeena Queen,30
+8,Horseshoe Bay,Bowen Island,2018,04,19,20,00,Queen of Capilano,20
+2,Departure Bay,Horseshoe Bay,2018,04,28,13,00,Queen of Oak Bay,104
+4,Swartz Bay,Fulford Harbour,2018,04,30,11,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,10,05,15,Queen of Alberni,120
+3,Horseshoe Bay,Langdale,2018,04,20,09,45,Queen of Surrey,57
+1,Swartz Bay,Tsawwassen,2018,04,17,19,00,Spirit of Vancouver Island,92
+2,Departure Bay,Horseshoe Bay,2018,04,29,20,45,Queen of Surrey,139
+1,Swartz Bay,Tsawwassen,2018,04,12,15,00,Spirit of Vancouver Island,94
+4,Swartz Bay,Fulford Harbour,2018,04,19,07,00,Skeena Queen,32
+8,Horseshoe Bay,Bowen Island,2018,04,22,16,35,Queen of Capilano,21
+30,Tsawwassen,Duke Point,2018,04,30,12,45,Queen of Coquitlam,121
+1,Tsawwassen,Swartz Bay,2018,04,02,08,00,Queen of New Westminster,88
+8,Horseshoe Bay,Bowen Island,2018,04,24,08,00,Queen of Capilano,20
+30,Duke Point,Tsawwassen,2018,04,26,05,15,Queen of Coquitlam,123
+2,Horseshoe Bay,Departure Bay,2018,04,12,18,35,Queen of Surrey,115
+30,Duke Point,Tsawwassen,2018,04,29,10,15,Queen of Coquitlam,123
+2,Departure Bay,Horseshoe Bay,2018,04,24,22,10,Queen of Oak Bay,106
+2,Horseshoe Bay,Departure Bay,2018,04,05,18,35,Queen of Surrey,111
+1,Tsawwassen,Swartz Bay,2018,04,27,13,00,Spirit of Vancouver Island,106
+2,Departure Bay,Horseshoe Bay,2018,04,28,15,20,Queen of Cowichan,102
+1,Tsawwassen,Swartz Bay,2018,04,30,21,00,Spirit of Vancouver Island,88
+30,Tsawwassen,Duke Point,2018,04,13,20,15,Queen of Alberni,161
+2,Horseshoe Bay,Departure Bay,2018,04,11,15,45,Queen of Oak Bay,105
+30,Tsawwassen,Duke Point,2018,04,08,15,15,Queen of Alberni,119
+1,Swartz Bay,Tsawwassen,2018,04,14,11,00,Spirit of Vancouver Island,94
+30,Tsawwassen,Duke Point,2018,04,05,20,15,Queen of Alberni,121
+8,Horseshoe Bay,Bowen Island,2018,04,24,17,45,Queen of Capilano,29
+8,Horseshoe Bay,Bowen Island,2018,04,08,18,50,Queen of Capilano,18
+2,Horseshoe Bay,Departure Bay,2018,04,09,18,35,Queen of Surrey,103
+3,Horseshoe Bay,Langdale,2018,04,19,22,55,Queen of Surrey,42
+1,Tsawwassen,Swartz Bay,2018,04,14,09,00,Spirit of Vancouver Island,96
+3,Horseshoe Bay,Langdale,2018,04,25,17,30,Queen of Cowichan,48
+3,Horseshoe Bay,Langdale,2018,04,21,19,50,Queen of Cowichan,42
+1,Tsawwassen,Swartz Bay,2018,04,17,19,00,Coastal Renaissance,94
+8,Horseshoe Bay,Bowen Island,2018,04,22,15,30,Queen of Capilano,20
+2,Departure Bay,Horseshoe Bay,2018,04,15,06,15,Queen of Cowichan,105
+1,Swartz Bay,Tsawwassen,2018,04,09,19,00,Spirit of Vancouver Island,92
+8,Horseshoe Bay,Bowen Island,2018,04,25,11,25,Queen of Capilano,34
+2,Departure Bay,Horseshoe Bay,2018,04,30,17,55,Queen of Oak Bay,111
+4,Swartz Bay,Fulford Harbour,2018,04,23,15,00,Skeena Queen,36
+1,Tsawwassen,Swartz Bay,2018,04,05,15,00,Coastal Renaissance,96
+2,Horseshoe Bay,Departure Bay,2018,04,08,20,05,Queen of Oak Bay,109
+2,Departure Bay,Horseshoe Bay,2018,04,11,20,45,Queen of Surrey,105
+4,Swartz Bay,Fulford Harbour,2018,04,11,19,00,Skeena Queen,40
+8,Horseshoe Bay,Bowen Island,2018,04,22,20,00,Queen of Capilano,18
+30,Tsawwassen,Duke Point,2018,04,18,13,30,Coastal Inspiration,120
+30,Tsawwassen,Duke Point,2018,04,03,12,45,Coastal Inspiration,119
+8,Horseshoe Bay,Bowen Island,2018,04,19,14,20,Queen of Capilano,20
+3,Horseshoe Bay,Langdale,2018,04,12,09,45,Queen of Surrey,39
+3,Langdale,Horseshoe Bay,2018,04,02,13,05,Queen of Surrey,43
+30,Tsawwassen,Duke Point,2018,04,22,12,45,Queen of Coquitlam,125
+30,Tsawwassen,Duke Point,2018,04,04,07,45,Queen of Coquitlam,121
+2,Horseshoe Bay,Departure Bay,2018,04,03,06,15,Queen of Oak Bay,105
+30,Duke Point,Tsawwassen,2018,04,16,12,45,Queen of Alberni,123
+3,Horseshoe Bay,Langdale,2018,04,08,16,20,Queen of Surrey,46
+4,Swartz Bay,Fulford Harbour,2018,04,20,19,00,Skeena Queen,38
+1,Tsawwassen,Swartz Bay,2018,04,06,12,00,Queen of New Westminster,92
+8,Horseshoe Bay,Bowen Island,2018,04,16,21,00,Queen of Capilano,16
+3,Horseshoe Bay,Langdale,2018,04,02,17,30,Queen of Cowichan,39
+1,Swartz Bay,Tsawwassen,2018,04,19,16,00,Coastal Inspiration,90
+3,Horseshoe Bay,Langdale,2018,04,14,14,10,Queen of Surrey,36
+3,Horseshoe Bay,Langdale,2018,04,16,17,30,Queen of Cowichan,44
+1,Swartz Bay,Tsawwassen,2018,04,10,09,00,Coastal Renaissance,88
+2,Departure Bay,Horseshoe Bay,2018,04,05,13,00,Queen of Oak Bay,106
+3,Langdale,Horseshoe Bay,2018,04,30,18,40,Queen of Cowichan,38
+1,Tsawwassen,Swartz Bay,2018,04,10,17,00,Spirit of Vancouver Island,90
+8,Horseshoe Bay,Bowen Island,2018,04,27,14,20,Queen of Capilano,22
+2,Horseshoe Bay,Departure Bay,2018,04,04,08,25,Queen of Cowichan,105
+2,Departure Bay,Horseshoe Bay,2018,04,13,10,40,Queen of Cowichan,104
+1,Tsawwassen,Swartz Bay,2018,04,18,13,00,Spirit of Vancouver Island,94
+1,Swartz Bay,Tsawwassen,2018,04,25,21,00,Coastal Renaissance,94
+1,Swartz Bay,Tsawwassen,2018,04,28,12,00,Coastal Inspiration,90
+2,Departure Bay,Horseshoe Bay,2018,04,05,20,45,Queen of Surrey,109
+1,Tsawwassen,Swartz Bay,2018,04,04,21,00,Spirit of Vancouver Island,92
+3,Langdale,Horseshoe Bay,2018,04,26,15,15,Queen of Surrey,63
+30,Duke Point,Tsawwassen,2018,04,24,10,15,Queen of Coquitlam,117
+1,Swartz Bay,Tsawwassen,2018,04,17,09,00,Coastal Renaissance,88
+8,Horseshoe Bay,Bowen Island,2018,04,27,16,35,Queen of Capilano,31
+30,Duke Point,Tsawwassen,2018,04,03,07,45,Queen of Alberni,117
+8,Horseshoe Bay,Bowen Island,2018,04,05,11,25,Queen of Capilano,17
+30,Duke Point,Tsawwassen,2018,04,20,22,45,Queen of Alberni,120
+2,Horseshoe Bay,Departure Bay,2018,04,28,22,10,Queen of Cowichan,106
+8,Horseshoe Bay,Bowen Island,2018,04,13,10,15,Queen of Capilano,17
+1,Tsawwassen,Swartz Bay,2018,04,11,07,00,Coastal Renaissance,100
+30,Duke Point,Tsawwassen,2018,04,26,17,45,Queen of Alberni,121
+30,Duke Point,Tsawwassen,2018,04,22,20,15,Queen of Coquitlam,133
+1,Tsawwassen,Swartz Bay,2018,04,01,11,00,Coastal Celebration,94
+2,Departure Bay,Horseshoe Bay,2018,04,08,20,45,Queen of Surrey,117
+3,Langdale,Horseshoe Bay,2018,04,28,10,50,Queen of Surrey,52
+8,Horseshoe Bay,Bowen Island,2018,04,26,06,50,Queen of Capilano,28
+8,Horseshoe Bay,Bowen Island,2018,04,11,22,00,Queen of Capilano,18
+30,Duke Point,Tsawwassen,2018,04,30,15,15,Queen of Coquitlam,127
+8,Horseshoe Bay,Bowen Island,2018,04,05,22,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,30,06,50,Queen of Capilano,20
+30,Tsawwassen,Duke Point,2018,04,06,07,45,Queen of Coquitlam,113
+4,Swartz Bay,Fulford Harbour,2018,04,21,09,00,Skeena Queen,34
+8,Horseshoe Bay,Bowen Island,2018,04,20,17,45,Queen of Capilano,23
+3,Horseshoe Bay,Langdale,2018,04,05,22,55,Queen of Surrey,43
+30,Duke Point,Tsawwassen,2018,04,30,20,15,Queen of Coquitlam,118
+8,Horseshoe Bay,Bowen Island,2018,04,02,20,00,Queen of Capilano,20
+3,Langdale,Horseshoe Bay,2018,04,18,10,50,Queen of Surrey,42
+30,Tsawwassen,Duke Point,2018,04,15,20,15,Queen of Alberni,129
+8,Horseshoe Bay,Bowen Island,2018,04,27,18,50,Queen of Capilano,34
+30,Duke Point,Tsawwassen,2018,04,17,22,45,Queen of Alberni,120
+1,Tsawwassen,Swartz Bay,2018,04,13,15,00,Coastal Renaissance,92
+4,Swartz Bay,Fulford Harbour,2018,04,25,17,00,Skeena Queen,42
+8,Horseshoe Bay,Bowen Island,2018,04,23,14,20,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,16,07,00,Coastal Renaissance,120
+8,Horseshoe Bay,Bowen Island,2018,04,14,14,20,Queen of Capilano,18
+3,Horseshoe Bay,Langdale,2018,04,13,07,30,Queen of Surrey,39
+2,Departure Bay,Horseshoe Bay,2018,04,03,10,40,Queen of Cowichan,106
+8,Horseshoe Bay,Bowen Island,2018,04,04,20,00,Queen of Capilano,20
+1,Swartz Bay,Tsawwassen,2018,04,23,08,00,Coastal Inspiration,92
+8,Horseshoe Bay,Bowen Island,2018,04,18,22,00,Queen of Capilano,18
+8,Horseshoe Bay,Bowen Island,2018,04,16,06,50,Queen of Capilano,22
+8,Horseshoe Bay,Bowen Island,2018,04,24,21,00,Queen of Capilano,18
+1,Tsawwassen,Swartz Bay,2018,04,10,21,00,Spirit of Vancouver Island,90
+30,Duke Point,Tsawwassen,2018,04,23,12,45,Queen of New Westminster,141
+2,Horseshoe Bay,Departure Bay,2018,04,18,15,45,Queen of Oak Bay,103
+2,Departure Bay,Horseshoe Bay,2018,04,03,13,00,Queen of Oak Bay,106
+1,Swartz Bay,Tsawwassen,2018,04,29,20,00,Coastal Inspiration,90
+8,Horseshoe Bay,Bowen Island,2018,04,04,12,35,Queen of Capilano,21
+3,Horseshoe Bay,Langdale,2018,04,24,14,10,Queen of Surrey,46
+8,Horseshoe Bay,Bowen Island,2018,04,24,05,50,Queen of Capilano,20
+3,Langdale,Horseshoe Bay,2018,04,07,20,55,Queen of Cowichan,39
+8,Horseshoe Bay,Bowen Island,2018,04,28,17,45,Queen of Capilano,17
+3,Horseshoe Bay,Langdale,2018,04,27,16,20,Queen of Surrey,60
+4,Swartz Bay,Fulford Harbour,2018,04,15,21,00,Skeena Queen,30
+30,Tsawwassen,Duke Point,2018,04,26,05,15,Queen of Alberni,127
+8,Horseshoe Bay,Bowen Island,2018,04,08,16,35,Queen of Capilano,17
+1,Swartz Bay,Tsawwassen,2018,04,16,13,00,Coastal Renaissance,86
+1,Swartz Bay,Tsawwassen,2018,04,12,12,00,Coastal Inspiration,92
+1,Swartz Bay,Tsawwassen,2018,04,03,09,00,Coastal Celebration,95
+30,Tsawwassen,Duke Point,2018,04,16,16,15,Queen of New Westminster,121
+30,Tsawwassen,Duke Point,2018,04,04,10,15,Queen of Alberni,117
+1,Swartz Bay,Tsawwassen,2018,04,16,08,00,Coastal Inspiration,104
+8,Horseshoe Bay,Bowen Island,2018,04,19,17,45,Queen of Capilano,25
+30,Tsawwassen,Duke Point,2018,04,02,12,45,Coastal Inspiration,119
+3,Langdale,Horseshoe Bay,2018,04,27,20,55,Queen of Cowichan,43
+2,Departure Bay,Horseshoe Bay,2018,04,01,15,20,Queen of Cowichan,100
+8,Horseshoe Bay,Bowen Island,2018,04,19,12,35,Queen of Capilano,21
+1,Swartz Bay,Tsawwassen,2018,04,15,15,00,Spirit of Vancouver Island,92
+1,Tsawwassen,Swartz Bay,2018,04,07,09,00,Spirit of Vancouver Island,112
+30,Tsawwassen,Duke Point,2018,04,12,22,45,Queen of Coquitlam,125
+4,Swartz Bay,Fulford Harbour,2018,04,03,09,00,Skeena Queen,28
+8,Horseshoe Bay,Bowen Island,2018,04,20,15,30,Queen of Capilano,30
+2,Departure Bay,Horseshoe Bay,2018,04,08,17,55,Queen of Oak Bay,117
+4,Swartz Bay,Fulford Harbour,2018,04,11,09,00,Skeena Queen,36
+4,Swartz Bay,Fulford Harbour,2018,04,13,21,00,Skeena Queen,28
+2,Departure Bay,Horseshoe Bay,2018,04,05,15,20,Queen of Cowichan,106
+8,Horseshoe Bay,Bowen Island,2018,04,11,10,15,Queen of Capilano,31
+4,Swartz Bay,Fulford Harbour,2018,04,13,15,00,Skeena Queen,34
+2,Horseshoe Bay,Departure Bay,2018,04,23,13,00,Queen of Cowichan,102
+1,Swartz Bay,Tsawwassen,2018,04,06,12,00,Coastal Inspiration,92
+30,Duke Point,Tsawwassen,2018,04,30,12,45,Queen of Alberni,119
+1,Tsawwassen,Swartz Bay,2018,04,06,11,00,Coastal Renaissance,92
+1,Tsawwassen,Swartz Bay,2018,04,22,18,00,Coastal Inspiration,94
+1,Tsawwassen,Swartz Bay,2018,04,30,10,00,Coastal Inspiration,86
+30,Tsawwassen,Duke Point,2018,04,18,22,45,Queen of Coquitlam,120
+8,Horseshoe Bay,Bowen Island,2018,04,15,22,00,Queen of Capilano,16

@@ -1,0 +1,9 @@
+route,source,destination,year,month,day,hour,minute,vessel_name,duration_minutes
+3,Langdale,Horseshoe Bay,2018,04,28,13,05,Queen of Surrey,67
+2,Departure Bay,Horseshoe Bay,2018,04,04,10,40,Queen of Cowichan,110
+
+8,Horseshoe Bay,Bowen Island,2018,04,17,18,50,Queen of Capilano,22
+1,Tsawwassen,Swartz Bay,2018,04,02,16,00,Queen of New Westminster,88
+,,,,,22,,,
+,,,,,,,,,
+
